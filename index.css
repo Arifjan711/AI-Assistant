@@ -1,0 +1,401 @@
+/* Google Fonts Import */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Nastaliq+Urdu:wght@400;700&family=Noto+Serif+Urdu:wght@400;700&display=swap');
+/* Alvi Nastaleeq - Premium Pakistani Urdu Calligraphic Font */
+@import url('https://fonts.cdnfonts.com/css/alvi-nastaleeq');
+
+/* Strict Theme Variables */
+:root {
+  --bg-app: #0a0e1a;
+  --bg-card: #121829;
+  --border-color: rgba(255, 255, 255, 0.08);
+  --text-main: #f3f4f6;
+  --text-sub: #9ca3af;
+  --accent-green: #10b981;
+  --accent-gold: #fbbf24;
+  --accent-red: #ef4444;
+  --accent-blue: #3b82f6;
+  
+  --font-sans: 'Inter', sans-serif;
+  --font-urdu-serif: 'Alvi Nastaleeq', 'Noto Serif Urdu', serif;
+  --font-urdu-nastaliq: 'Alvi Nastaleeq', 'Noto Nastaliq Urdu', serif;
+}
+
+/* Reset and Global Settings */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--bg-app);
+  color: var(--text-main);
+  line-height: 1.5;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 100vh;
+  padding: 10px;
+}
+
+/* Mobile-First App Wrapper (Perfect for WebView / APK) */
+.mobile-app-container {
+  width: 100%;
+  max-width: 580px;
+  background-color: var(--bg-app);
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  padding-bottom: 30px;
+}
+
+/* Elegant Native-Style Header */
+.app-header {
+  background: linear-gradient(135deg, #131c38, #0e162d);
+  border: 1px solid var(--border-color);
+  border-radius: 14px;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.app-icon {
+  width: 42px;
+  height: 42px;
+  background: linear-gradient(135deg, var(--accent-green), var(--accent-gold));
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 1.25rem;
+  color: #000;
+}
+
+.app-title-block h1 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.app-title-block p {
+  font-size: 0.75rem;
+  color: var(--accent-green);
+}
+
+/* Clean Cards */
+.app-card {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: 14px;
+  padding: 15px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.card-title {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--accent-gold);
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* Form Elements */
+.input-group {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.app-select, .app-input {
+  width: 100%;
+  background-color: #0b0f1c;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  color: var(--text-main);
+  padding: 10px 12px;
+  font-size: 0.9rem;
+  font-family: var(--font-urdu-serif);
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.app-select:focus, .app-input:focus {
+  border-color: var(--accent-green);
+}
+
+.app-btn {
+  width: 100%;
+  background: linear-gradient(135deg, var(--accent-green), #059669);
+  color: #000;
+  border: none;
+  border-radius: 8px;
+  padding: 12px;
+  font-size: 0.95rem;
+  font-weight: 700;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  box-shadow: 0 4px 10px rgba(16, 185, 129, 0.15);
+}
+
+.app-btn:active {
+  transform: scale(0.98);
+}
+
+/* Flow Pipeline Checklist (7 Agents) */
+.flow-pipeline {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.flow-step {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background-color: rgba(255, 255, 255, 0.01);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 8px 12px;
+  transition: all 0.3s;
+}
+
+.flow-step.active {
+  border-color: var(--accent-green);
+  background-color: rgba(16, 185, 129, 0.02);
+}
+
+.flow-step.completed {
+  border-color: var(--accent-blue);
+  background-color: rgba(59, 130, 246, 0.02);
+}
+
+.step-check {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  border: 2px solid var(--text-sub);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.65rem;
+  color: transparent;
+  transition: all 0.2s;
+}
+
+.flow-step.active .step-check {
+  border-color: var(--accent-green);
+  background-color: var(--accent-green);
+  color: #000;
+}
+
+.flow-step.completed .step-check {
+  border-color: var(--accent-blue);
+  background-color: var(--accent-blue);
+  color: #fff;
+}
+
+.step-label {
+  font-size: 0.85rem;
+  color: var(--text-sub);
+}
+
+.flow-step.active .step-label {
+  color: var(--accent-green);
+  font-weight: 600;
+}
+
+.flow-step.completed .step-label {
+  color: var(--accent-blue);
+}
+
+/* Elegant Urdu Report and Output styling */
+.urdu-report-container {
+  font-family: var(--font-urdu-serif);
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #e5e7eb;
+  text-align: right;
+  direction: rtl;
+}
+
+.report-header {
+  font-family: var(--font-urdu-nastaliq);
+  font-size: 1.3rem;
+  color: var(--accent-gold);
+  border-bottom: 2px solid rgba(251, 191, 36, 0.2);
+  padding-bottom: 8px;
+  margin-bottom: 12px;
+  text-align: center;
+}
+
+.report-sub-title {
+  font-family: var(--font-urdu-nastaliq);
+  font-size: 1.05rem;
+  color: var(--accent-green);
+  margin-top: 12px;
+  margin-bottom: 6px;
+}
+
+.report-sub-title::before {
+  content: '▪ ';
+  color: var(--accent-gold);
+}
+
+.red-warning-box {
+  background-color: rgba(239, 68, 68, 0.05);
+  border: 1px solid var(--accent-red);
+  border-radius: 8px;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+/* Document Tab Bar and Memos */
+.tab-bar {
+  display: flex;
+  gap: 5px;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 5px;
+  margin-bottom: 12px;
+}
+
+.tab-btn {
+  background: transparent;
+  border: none;
+  color: var(--text-sub);
+  padding: 6px 12px;
+  font-size: 0.8rem;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+.tab-btn.active {
+  background-color: rgba(251, 191, 36, 0.1);
+  color: var(--accent-gold);
+  border: 1px solid rgba(251, 191, 36, 0.2);
+}
+
+.official-paper {
+  border: 1px solid var(--accent-gold);
+  padding: 15px;
+  border-radius: 8px;
+  background-color: #0d1222;
+  font-family: var(--font-urdu-serif);
+  font-size: 0.9rem;
+  direction: rtl;
+  text-align: right;
+}
+
+.paper-title {
+  text-align: center;
+  font-family: var(--font-urdu-nastaliq);
+  font-size: 1.15rem;
+  color: #fff;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 6px;
+  margin-bottom: 12px;
+}
+
+/* Lightweight Mobile Log Console */
+.log-box {
+  background-color: #050811;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 8px;
+  font-family: monospace;
+  font-size: 0.75rem;
+  color: var(--accent-green);
+  max-height: 100px;
+  overflow-y: auto;
+}
+
+.log-line {
+  margin-bottom: 2px;
+}
+
+/* Interactive Accordion for Officers Data */
+.accordion-header {
+  width: 100%;
+  background: transparent;
+  border: none;
+  color: var(--text-main);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+.officer-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.officer-row {
+  background-color: rgba(255, 255, 255, 0.02);
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  padding: 8px 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
+.officer-row:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.badge-clean {
+  background-color: rgba(16, 185, 129, 0.1);
+  color: var(--accent-green);
+  border: 1px solid rgba(16, 185, 129, 0.2);
+  padding: 1px 4px;
+  border-radius: 4px;
+}
+
+.badge-dirty {
+  background-color: rgba(239, 68, 68, 0.1);
+  color: var(--accent-red);
+  border: 1px solid rgba(239, 68, 68, 0.2);
+  padding: 1px 4px;
+  border-radius: 4px;
+}
+
+/* Pulsing connection indicator for offline database */
+.pulse-dot {
+  width: 8px;
+  height: 8px;
+  background-color: var(--accent-green);
+  border-radius: 50%;
+  display: inline-block;
+  box-shadow: 0 0 8px var(--accent-green);
+  animation: pulse-db 1.5s infinite;
+}
+
+@keyframes pulse-db {
+  0% {
+    transform: scale(0.9);
+    box-shadow: 0 0 0 0 rgba(16, 185, 129, 0.7);
+  }
+  70% {
+    transform: scale(1);
+    box-shadow: 0 0 0 6px rgba(16, 185, 129, 0);
+  }
+  100% {
+    transform: scale(0.9);
+    box-shadow: 0 0 0 0 rgba(16, 185, 129, 0);
+  }
+}

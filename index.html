@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>بیوروکریسی ایڈوائزری پورٹل - aiseekho2026</title>
+  
+  <!-- Font Awesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <!-- Mobile-Optimized CSS -->
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+
+  <div class="mobile-app-container">
+    
+    <!-- Mobile App Header -->
+    <header class="app-header">
+      <div class="app-icon">AI</div>
+      <div class="app-title-block">
+        <h1 id="lblAppTitle">بیوروکریسی انٹیلیجنس سسٹم</h1>
+        <p id="lblAppSubtitle">منصوبہ برائے AI-SEEKHO 2026</p>
+      </div>
+      <!-- Language Switcher Button -->
+      <button class="lang-switch-btn" id="langSwitchBtn" onclick="toggleLanguage()" style="margin-right: auto; margin-left: 0; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15); color: var(--accent-gold); padding: 5px 12px; border-radius: 8px; font-size: 0.75rem; font-weight: bold; cursor: pointer; transition: all 0.2s; outline: none; font-family: var(--font-sans);">
+        English
+      </button>
+    </header>
+
+    <!-- CSV File Loader Card -->
+    <section class="app-card">
+      <h2 class="card-title" style="color: var(--accent-green);"><i class="fas fa-database"></i> <span id="lblDbCardText">ڈیٹا بیس کنکشن</span></h2>
+      <div class="db-status-container" style="display: flex; flex-direction: column; gap: 8px;">
+        <div style="display: flex; align-items: center; justify-content: space-between; background: rgba(16, 185, 129, 0.08); border: 1px solid rgba(16, 185, 129, 0.15); padding: 8px 12px; border-radius: 8px;">
+          <span id="lblDbConnected" style="font-size: 0.85rem; color: var(--text-main); display: flex; align-items: center; gap: 8px; font-weight: bold;">
+            <span class="pulse-dot"></span>
+            <span id="lblDbConnectedText">اصلی ڈیٹا بیس متصل ہے</span>
+          </span>
+          <span id="loadStatus" style="font-size: 0.75rem; color: var(--accent-green); font-weight: bold;">
+            لوڈ ہو رہا ہے...
+          </span>
+        </div>
+        
+        <!-- Accordion for Advanced File Upload -->
+        <details style="margin-top: 5px;">
+          <summary style="font-size: 0.72rem; color: var(--accent-gold); cursor: pointer; user-select: none; outline: none; margin-bottom: 5px; font-weight: 500;">
+            <i class="fas fa-cog"></i> ایڈوانسڈ ڈیٹا بیس سیٹنگز (نیا ڈیٹا اپ لوڈ کریں)
+          </summary>
+          <div style="border-top: 1px dashed rgba(255,255,255,0.08); padding-top: 8px; margin-top: 5px;">
+            <label for="csvFileInput" style="font-size: 0.72rem; color: var(--text-sub); display: block; margin-bottom: 5px;">
+              اگر آپ کوئی نیا یا الگ ڈیٹا بیس (.csv) لوڈ کرنا چاہتے ہیں تو فائل منتخب کریں:
+            </label>
+            <input type="file" id="csvFileInput" class="app-input" accept=".csv" style="padding: 6px 10px; font-size: 0.75rem;">
+          </div>
+        </details>
+      </div>
+    </section>
+
+    <!-- Command Input Card -->
+    <section class="app-card">
+      <h2 class="card-title"><i class="fas fa-terminal"></i> <span id="lblCmdCardText">ایجنٹ کمانڈ پینل</span></h2>
+      <div class="input-group">
+        <select id="presetSelector" class="app-select">
+          <option value="">-- پہلے سے موجود نشست منتخب کریں --</option>
+          <option value="سیکرٹری لیول کی اسامی کے لیے موزوں خارجہ امور کا افسر درکار ہے">سیکرٹری پوزیشن (خارجہ امور - گریڈ ۲۰-۲۱)</option>
+          <option value="صوبائی فنانس ڈپارٹمنٹ میں معاشی اصلاحات کے لیے سیکرٹری کی ضرورت ہے">سیکرٹری پوزیشن (مالیات - گریڈ ۲۰-۲۱)</option>
+          <option value="شہر میں امن و امان کے لیے ڈپٹی کمشنر پوزیشن درکار ہے">ڈپٹی کمشنر پوزیشن (داخلہ/پولیس - گریڈ ۱۸-۱۹)</option>
+          <option value="ضلعی سطح پر فیلڈ آپریشنز کی نگرانی کے لیے اسسٹنٹ کمشنر درکار ہے">اسسٹنٹ کمشنر پوزیشن (گریڈ ۱۷)</option>
+          <option value="سیکرٹری لیول کی اسامی کے لیے اسسٹنٹ کمشنر کو نامزد کریں (غلط کیڈر ٹیسٹ)">سیکرٹری پوزیشن پر اسسٹنٹ کمشنر (نااہل کیڈر ٹیسٹ)</option>
+        </select>
+        
+        <input type="text" id="customInput" class="app-input" placeholder="یا اپنی مرضی کی تقرری کی درخواست لکھیں...">
+        
+        <button class="app-btn" id="btnProcess" onclick="triggerOrchestration()">
+          <i class="fas fa-magic"></i> <span id="lblBtnProcess">کمانڈ پروسیس کریں</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- 7-Agent Pipeline Progress -->
+    <section class="app-card">
+      <h2 class="card-title"><i class="fas fa-network-wired"></i> <span id="lblPipelineCardText">ایجنٹ پائپ لائن لائیو مانیٹر</span></h2>
+      <div class="flow-pipeline">
+        
+        <div class="flow-step" id="agentStep1" data-name="درخواست فہمی ایجنٹ">
+          <div class="step-check"><i class="fas fa-check"></i></div>
+          <span class="step-label">درخواست فہمی ایجنٹ - انتظار میں ہے</span>
+        </div>
+
+        <div class="flow-step" id="agentStep2" data-name="ڈیٹا نکالنے والا ایجنٹ">
+          <div class="step-check"><i class="fas fa-check"></i></div>
+          <span class="step-label">ڈیٹا نکالنے والا ایجنٹ - انتظار میں ہے</span>
+        </div>
+
+        <div class="flow-step" id="agentStep3" data-name="اهلیت کی چھانٹی کا ایجنٹ">
+          <div class="step-check"><i class="fas fa-check"></i></div>
+          <span class="step-label">اهلیت کی چھانٹی کا ایجنٹ - انتظار میں ہے</span>
+        </div>
+
+        <div class="flow-step" id="agentStep4" data-name="درجہ بندی ایجنٹ">
+          <div class="step-check"><i class="fas fa-check"></i></div>
+          <span class="step-label">درجہ بندی ایجنٹ - انتظار میں ہے</span>
+        </div>
+
+        <div class="flow-step" id="agentStep5" data-name="فیصلہ ساز ایجنٹ">
+          <div class="step-check"><i class="fas fa-check"></i></div>
+          <span class="step-label">فیصلہ ساز ایجنٹ - انتظار میں ہے</span>
+        </div>
+
+        <div class="flow-step" id="agentStep6" data-name="نقالی کا ایجنٹ">
+          <div class="step-check"><i class="fas fa-check"></i></div>
+          <span class="step-label">نقالی کا ایجنٹ - انتظار میں ہے</span>
+        </div>
+
+        <div class="flow-step" id="agentStep7" data-name="لاگنگ ایجنٹ">
+          <div class="step-check"><i class="fas fa-check"></i></div>
+          <span class="step-label">لاگنگ ایجنٹ - انتظار میں ہے</span>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- Urdu Official Report Card -->
+    <section class="app-card">
+      <h2 class="card-title"><i class="fas fa-file-invoice"></i> <span id="lblReportCardText">ایجنٹ کی سفارشی رپورٹ</span></h2>
+      <div class="urdu-report-container" id="reportPanel">
+        <div style="text-align: center; color: var(--text-sub); padding: 20px;">
+          <i class="fas fa-folder-open" style="font-size: 2rem; margin-bottom: 8px; display: block;"></i>
+          کوئی درخواست پروسیس کریں یا بائیو ڈیٹا دیکھنے کے لیے نیچے سے افسر منتخب کریں
+        </div>
+      </div>
+    </section>
+
+    <!-- Simulated Documents (Tabbed) -->
+    <section class="app-card">
+      <h2 class="card-title"><i class="fas fa-file-pdf"></i> <span id="lblDocsCardText">فرضی انتظامی مسودہ جات</span></h2>
+      <div class="tab-bar">
+        <button class="tab-btn active" id="tabTransfer" data-doc="transfer" onclick="setupDocumentTabs()">تبادلہ آرڈر</button>
+        <button class="tab-btn" id="tabMemo" data-doc="memo" onclick="setupDocumentTabs()">سفارشی سمری</button>
+        <button class="tab-btn" id="tabMonitor" data-doc="monitor" onclick="setupDocumentTabs()">نگرانی کا پلان</button>
+      </div>
+      <div id="simDocContent">
+        <div style="text-align: center; color: var(--text-sub); padding: 15px;">
+          پروسیس مکمل ہونے پر سرکاری خط و کتابت یہاں تیار ہو گی
+        </div>
+      </div>
+    </section>
+
+    <!-- Live Execution Logs Terminal -->
+    <section class="app-card">
+      <h2 class="card-title" style="color: var(--accent-green);"><i class="fas fa-terminal"></i> <span id="lblLogsCardText">سسٹم لائیو ایگزیکیوشن لاگز</span></h2>
+      <div class="log-box" id="logContent">
+        <div class="log-line">[سسٹم] اینٹی گریویٹی انٹیلیجنس سسٹم فعال اور متصل ہے۔</div>
+      </div>
+    </section>
+
+    <!-- Directory Accordion (Inspect Database) -->
+    <section class="app-card">
+      <button class="accordion-header" onclick="toggleDirectory()">
+        <span><i class="fas fa-users-cog"></i> <span id="lblDirectoryText">افسران کا ریکارڈ چیک کریں (ڈیٹا بیس)</span></span>
+        <i class="fas fa-chevron-down" id="accordionIcon"></i>
+      </button>
+      <div class="officer-list" id="officerDirectory" style="display: none;">
+        <!-- Populated dynamically -->
+      </div>
+    </section>
+
+  </div>
+
+  <!-- Custom App Logics -->
+  <script src="index.js"></script>
+</body>
+</html>

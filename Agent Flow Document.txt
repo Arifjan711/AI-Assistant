@@ -1,0 +1,27 @@
+# Agent Workflow
+
+## Step 1: Input Agent
+Receives committee request (department / vacancy / role)
+
+## Step 2: Data Agent
+Reads officer dataset from CSV / Google Sheets
+
+## Step 3: Filter Agent
+Applies BPS hierarchy rules and removes ineligible officers
+
+## Step 4: Ranking Agent
+Ranks officers using:
+- performance score
+- integrity score
+- leadership skills
+- experience
+- expertise
+
+## Step 5: Decision Agent
+Selects best officer and generates explanation
+
+## Step 6: Simulation Agent
+Simulates posting/transfer actions
+
+## Step 7: Logging Agent
+Generates full trace of system reasoning

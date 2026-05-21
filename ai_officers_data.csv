@@ -1,0 +1,864 @@
+Employee ID,Full Name,Current Designation,Department Name,Grade / BPS,Highest Qualification,Core Skills,Specialized Expertise Areas,Service Duration,Previous Postings,Performance Score,Verified Complaints,Integrity Score,Leadership Skills,Crisis Management Experience,Current Posting District,AI Suitability Score,AI Summary
+SEC-001,Muhammad Asif Khan,Secretary,Finance,BPS-20,MPA,"Budgeting, Planning",Public Finance,22 Years,"Dy Secretary Finance, Director Budget",92,0,96,Excellent,High,Peshawar,94,Strong financial governance and budget control expert
+SEC-002,Dr. Saeed Ullah,Secretary,Health,BPS-20,"MBBS, MPH",Health Policy,Public Health Systems,24 Years,"MS Hospital, DG Health",89,1,90,Strong,High,Peshawar,91,Experienced health system reform and crisis response leader
+SEC-003,Ali Raza,Secretary,Education,BPS-20,M.Ed,Education Planning,Curriculum Reform,20 Years,"DEO, Add Sec Education",87,0,93,Strong,Medium,Peshawar,90,Education policy and school system improvement expert
+SEC-004,Farooq Ahmad,Secretary,Home,BPS-20,MA Pol Sci,Security Admin,Law & Order,25 Years,"DC Swat, Comm Malakand",93,1,88,Excellent,Very High,Peshawar,95,High-level security and governance management expert
+SEC-005,Imran Shah,Secretary,P&D,BPS-20,MPA Economics,Development Planning,Infrastructure Strategy,21 Years,"Dir P&D, Dy Sec Planning",90,0,94,Strong,High,Peshawar,92,Development planning and project execution specialist
+SEC-006,Waqas Ali,Secretary,Local Govt,BPS-20,MBA,Municipal Admin,Urban Development,19 Years,"DC Mardan, ADC Finance",85,2,83,Good,Medium,Peshawar,86,Urban governance and municipal systems expert
+SEC-007,Shahid Iqbal,Secretary,Revenue,BPS-20,MA Economics,Revenue Admin,Land Systems,23 Years,"DC Swabi, Tehsildar",91,1,89,Strong,High,Peshawar,93,Strong field revenue administration background
+SEC-008,Zubair Khan,Secretary,Irrigation,BPS-20,MSc Civil Eng,Water Mgmt,Irrigation Systems,22 Years,Chief Eng Irrigation,88,0,92,Strong,High,Peshawar,90,Water resource and irrigation engineering expert
+SEC-009,Usman Ghani,Secretary,Agriculture,BPS-20,MSc Agriculture,Agronomy,Crop Development,20 Years,"Dir Agri, DC DI Khan",86,1,87,Good,Medium,Peshawar,88,Agriculture policy and field implementation expert
+SEC-010,Naveed Ahmed,Secretary,C&W,BPS-20,BSc Eng,Infrastructure,Roads & Construction,26 Years,Chief Eng C&W,90,0,95,Excellent,High,Peshawar,93,Infrastructure development and engineering governance expert
+SEC-011,Salman Khan,Secretary,IT,BPS-20,MSc CS,Digital Gov,E-Governance,18 Years,"DG IT Board, Dir Systems",89,0,94,Strong,High,Peshawar,92,Digital transformation and IT governance expert
+SEC-012,Arif Ullah,Secretary,Industries,BPS-20,MBA,Industrial Policy,Economic Zones,21 Years,"Dir Industries, DC Swabi",87,1,88,Good,Medium,Peshawar,89,Industrial development and policy execution expert
+SEC-013,Javed Iqbal,Secretary,Tourism,BPS-20,MA Economics,Tourism Dev,Cultural Projects,17 Years,"Dir Tourism, ADC Admin",84,0,90,Good,Medium,Peshawar,87,Tourism development and cultural promotion expert
+SEC-014,Haroon Shah,Secretary,Environment,BPS-20,MSc Env Sci,Environmental Mgmt,Climate Policy,19 Years,"Dir Env, DC Abbottabad",88,0,92,Strong,High,Peshawar,91,Environmental policy and climate governance expert
+SEC-015,Bilal Ahmed,Secretary,Energy,BPS-20,MSc Engineering,Energy Policy,Power Sector,23 Years,"Dir Energy, Eng C&W",90,1,91,Strong,High,Peshawar,92,Energy sector planning and policy expert
+SEC-016,Saifullah,Secretary,Establishment,BPS-20,MPA,HR Management,Civil Service Rules,24 Years,"Add Sec Estab, Dy Sec HR",91,0,95,Excellent,High,Peshawar,94,Civil service HR and governance structuring expert
+SEC-017,Kamran Khan,Secretary,Law,BPS-20,LLB,Legal Affairs,Policy Law,22 Years,"Legal Advisor, DC Swat",88,1,90,Strong,High,Peshawar,90,Legal governance and policy compliance expert
+SEC-018,Adeel Khan,Secretary,Social Welfare,BPS-20,MA Sociology,Welfare Programs,NGO Coordination,18 Years,Dir Social Welfare,86,0,89,Good,Medium,Peshawar,88,Social development and welfare program expert
+SEC-019,Imtiaz Ali,Secretary,Planning,BPS-20,MPA Econ,Project Planning,Development Projects,20 Years,Dy Sec Planning,89,0,93,Strong,High,Peshawar,91,Public sector project planning expert
+SEC-020,Naveed Khan,Secretary,Finance,BPS-20,MBA Finance,Budgeting,Fiscal Policy,21 Years,Dy Sec Finance,90,0,94,Strong,High,Peshawar,92,Fiscal policy and budget management expert
+SEC-021,Riaz Khan,Secretary,Health,BPS-20,MBBS,Hospital Admin,Emergency Health,23 Years,MS Hospital,87,1,88,Strong,High,Peshawar,89,Hospital management and emergency health expert
+SEC-022,Adnan Ali,Secretary,Education,BPS-20,MPhil Edu,Curriculum Dev,School Reform,19 Years,DEO,86,0,92,Strong,Medium,Peshawar,90,Education system reform expert
+SEC-023,Shahbaz Khan,Secretary,Revenue,BPS-20,MA Pol Sci,Land Admin,Revenue Systems,25 Years,DC Kohat,92,1,90,Strong,High,Peshawar,93,Revenue administration and land governance expert
+SEC-024,Tariq Mehmood,Secretary,C&W,BPS-20,BSc Eng,Construction,Infrastructure Dev,27 Years,Chief Eng C&W,91,0,95,Excellent,High,Peshawar,94,Infrastructure planning and execution expert
+SEC-025,Hammad Khan,Secretary,Agriculture,BPS-20,MSc Agri,Crop Policy,Food Security,20 Years,Dir Agri,86,0,88,Good,Medium,Peshawar,88,Agriculture policy and food systems expert
+SEC-026,Usman Tariq,Secretary,IT,BPS-20,MSc CS,Systems Dev,Digital Transformation,18 Years,DG IT,89,0,93,Strong,High,Peshawar,92,E-governance and digital systems expert
+SEC-027,Saad Khan,Secretary,Home,BPS-20,MA Pol Sci,Security,Crisis Mgmt,24 Years,DC Malakand,93,1,89,Excellent,Very High,Peshawar,95,Security governance and crisis leadership expert
+SEC-028,Waleed Ahmad,Secretary,Industries,BPS-20,MBA,Industry Policy,SEZ Dev,21 Years,Dir Industries,87,1,88,Good,Medium,Peshawar,89,Industrial policy and economic zone expert
+SEC-029,Zainullah,Secretary,Tourism,BPS-20,MA Econ,Tourism Dev,Cultural Projects,16 Years,ADC Tourism,83,0,90,Good,Medium,Peshawar,87,Tourism and cultural development expert
+SEC-030,Asad Khan,Secretary,Environment,BPS-20,MSc Env Sci,Climate Policy,Sustainability,19 Years,Dir Env,88,0,92,Strong,High,Peshawar,91,Environmental governance and sustainability expert
+SEC-031,Imran Shahid,Secretary,Energy,BPS-20,MSc Eng,Energy Mgmt,Power Policy,22 Years,Eng C&W,89,1,90,Strong,High,Peshawar,92,Energy policy and infrastructure expert
+SEC-032,Haris Khan,Secretary,Establishment,BPS-20,MPA,HR Policy,Civil Service,23 Years,Dy Sec Estab,91,0,94,Excellent,High,Peshawar,94,Civil service HR governance expert
+SEC-033,Daniyal Ali,Secretary,Law,BPS-20,LLB,Legal Policy,Governance Law,21 Years,Legal Advisor,88,1,89,Strong,High,Peshawar,90,Legal governance and policy compliance expert
+SEC-034,Faizan Khan,Secretary,Social Welfare,BPS-20,MA Sociology,Welfare Mgmt,NGO Coordination,18 Years,Dir SWD,86,0,88,Good,Medium,Peshawar,88,Social welfare and community development expert
+SEC-035,Muneeb Khan,Secretary,Planning,BPS-20,MPA Econ,Planning,Dev Projects,20 Years,Dy Sec Planning,89,0,93,Strong,High,Peshawar,91,Development planning and project execution expert
+SEC-036,Kashif Ali,Secretary,Finance,BPS-20,MBA,Budgeting,Fiscal Control,22 Years,Dy Sec Finance,90,0,94,Strong,High,Peshawar,92,Fiscal management and budgeting expert
+SEC-037,Rizwan Khan,Secretary,Health,BPS-20,MBBS,Health Admin,Emergency Care,24 Years,MS Hospital,87,1,88,Strong,High,Peshawar,89,Healthcare management and emergency response expert
+SEC-038,Hamza Ali,Secretary,Education,BPS-20,M.Ed,Education Reform,Curriculum,20 Years,DEO,86,0,92,Strong,Medium,Peshawar,90,Education policy and academic reform expert
+SEC-039,Bilal Shah,Secretary,Revenue,BPS-20,MA Econ,Revenue Mgmt,Land Systems,23 Years,DC Dir,91,1,90,Strong,High,Peshawar,93,Revenue and land administration expert
+SEC-040,Usama Khan,Secretary,C&W,BPS-20,BSc Eng,Infrastructure,Road Systems,26 Years,Chief Eng C&W,91,0,95,Excellent,High,Peshawar,94,Infrastructure and construction governance expert
+,,,,,,,,,,,,,,,,,
+AS-001,Adeel Khan,Additional Secretary,Finance,BPS-19,MBA Finance,Budgeting,Fiscal Policy,18 Years,"Deputy Secretary Finance, SO Budget",88,0,93,Strong,High,Peshawar,90,Strong financial management and budgeting expert
+AS-002,Bilal Ahmed,Additional Secretary,Health,BPS-19,"MBBS, MPH",Health Admin,Public Health Systems,19 Years,"MS Hospital, SO Health",86,1,89,Strong,High,Peshawar,88,Experienced health administrator with crisis exposure
+AS-003,Imran Shah,Additional Secretary,Education,BPS-19,M.Ed,Education Planning,Curriculum Dev,17 Years,"DEO, SO Education",85,0,92,Strong,Medium,Peshawar,87,Education policy and school system expert
+AS-004,Usman Ali,Additional Secretary,Home,BPS-19,MA Pol Sci,Security Admin,Law & Order,20 Years,"DC Swat, SO Home",91,1,88,Excellent,Very High,Peshawar,93,Strong security governance experience
+AS-005,Saad Khan,Additional Secretary,P&D,BPS-19,MPA Economics,Planning,Development Projects,18 Years,Dy Sec Planning,87,0,93,Strong,High,Peshawar,89,Development planning and project execution expert
+AS-006,Waqas Ali,Additional Secretary,Local Govt,BPS-19,MBA,Municipal Admin,Urban Dev,16 Years,DC Mardan,84,1,82,Good,Medium,Peshawar,85,Urban governance and municipal systems
+AS-007,Shahid Iqbal,Additional Secretary,Revenue,BPS-19,MA Economics,Land Revenue,Tax Systems,19 Years,"Tehsildar, SO Revenue",88,1,90,Strong,High,Peshawar,90,Strong revenue and land administration background
+AS-008,Zubair Khan,Additional Secretary,Irrigation,BPS-19,MSc Civil Eng,Water Mgmt,Irrigation Systems,18 Years,Chief Eng Irrigation,87,0,92,Strong,High,Peshawar,89,Irrigation and water resource expert
+AS-009,Usman Ghani,Additional Secretary,Agriculture,BPS-19,MSc Agriculture,Agronomy,Crop Dev,17 Years,Dir Agri,85,0,88,Good,Medium,Peshawar,87,Agriculture policy and field operations expert
+AS-010,Naveed Ahmad,Additional Secretary,C&W,BPS-19,BSc Eng,Infrastructure,Road Construction,21 Years,Chief Engineer,89,0,94,Excellent,High,Peshawar,91,Infrastructure development expert
+AS-011,Salman Khan,Additional Secretary,IT,BPS-19,MSc CS,Digital Gov,E-Governance,15 Years,DG IT Board,90,0,95,Strong,High,Peshawar,92,Digital transformation expert
+AS-012,Arif Ullah,Additional Secretary,Industries,BPS-19,MBA,Industrial Policy,SEZ Development,18 Years,Dir Industries,86,1,88,Good,Medium,Peshawar,88,Industrial development specialist
+AS-013,Javed Iqbal,Additional Secretary,Tourism,BPS-19,MA Economics,Tourism Dev,Cultural Projects,14 Years,ADC Tourism,83,0,89,Good,Medium,Peshawar,85,Tourism development expert
+AS-014,Haroon Shah,Additional Secretary,Environment,BPS-19,MSc Env Sci,Climate Policy,Sustainability,16 Years,Dir Env,87,0,92,Strong,High,Peshawar,89,Environmental governance expert
+AS-015,Bilal Shah,Additional Secretary,Energy,BPS-19,MSc Eng,Energy Policy,Power Sector,19 Years,Eng C&W,88,1,90,Strong,High,Peshawar,90,Energy sector policy expert
+AS-016,Saifullah,Additional Secretary,Establishment,BPS-19,MPA,HR Mgmt,Civil Service Rules,20 Years,Dy Sec Estab,90,0,95,Excellent,High,Peshawar,92,Civil service HR governance expert
+AS-017,Kamran Khan,Additional Secretary,Law,BPS-19,LLB,Legal Affairs,Policy Law,18 Years,Legal Advisor,87,1,89,Strong,High,Peshawar,89,Legal governance expert
+AS-018,Adeel Shah,Additional Secretary,Social Welfare,BPS-19,MA Sociology,Welfare Programs,NGO Coordination,15 Years,Dir SWD,84,0,88,Good,Medium,Peshawar,86,Social development expert
+AS-019,Imtiaz Ali,Additional Secretary,Planning,BPS-19,MPA Econ,Planning,Development Projects,17 Years,Dy Sec Planning,88,0,92,Strong,High,Peshawar,90,Planning and development expert
+AS-020,Naveed Khan,Additional Secretary,Finance,BPS-19,MBA Finance,Budgeting,Fiscal Policy,18 Years,Dy Sec Finance,89,0,93,Strong,High,Peshawar,91,Fiscal management expert
+AS-021,Riaz Khan,Additional Secretary,Health,BPS-19,MBBS,Hospital Admin,Emergency Health,19 Years,MS Hospital,86,1,88,Strong,High,Peshawar,88,Healthcare administration expert
+AS-022,Adnan Ali,Additional Secretary,Education,BPS-19,MPhil Edu,Curriculum Dev,School Reform,16 Years,DEO,85,0,91,Strong,Medium,Peshawar,87,Education reform expert
+AS-023,Shahbaz Khan,Additional Secretary,Revenue,BPS-19,MA Pol Sci,Land Admin,Revenue Systems,20 Years,DC Kohat,90,1,89,Strong,High,Peshawar,92,Revenue administration expert
+AS-024,Tariq Mehmood,Additional Secretary,C&W,BPS-19,BSc Eng,Construction,Infrastructure Dev,21 Years,Chief Eng C&W,90,0,94,Excellent,High,Peshawar,92,Infrastructure expert
+AS-025,Hammad Khan,Additional Secretary,Agriculture,BPS-19,MSc Agri,Crop Policy,Food Security,17 Years,Dir Agri,85,0,88,Good,Medium,Peshawar,87,Agriculture policy expert
+AS-026,Usman Tariq,Additional Secretary,IT,BPS-19,MSc CS,Systems Dev,Digital Transformation,15 Years,DG IT,90,0,94,Strong,High,Peshawar,92,Digital governance expert
+AS-027,Saad Ali,Additional Secretary,Home,BPS-19,MA Pol Sci,Security,Crisis Mgmt,19 Years,DC Malakand,91,1,89,Excellent,Very High,Peshawar,93,Security and crisis management expert
+AS-028,Waleed Ahmad,Additional Secretary,Industries,BPS-19,MBA,Industry Policy,SEZ Dev,18 Years,Dir Industries,86,1,88,Good,Medium,Peshawar,88,Industrial policy expert
+AS-029,Zainullah,Additional Secretary,Tourism,BPS-19,MA Econ,Tourism Dev,Cultural Projects,14 Years,ADC Tourism,83,0,89,Good,Medium,Peshawar,85,Tourism development expert
+AS-030,Asad Khan,Additional Secretary,Environment,BPS-19,MSc Env Sci,Climate Policy,Sustainability,16 Years,Dir Env,87,0,92,Strong,High,Peshawar,89,Environmental governance expert
+AS-031,Imran Shahid,Additional Secretary,Energy,BPS-19,MSc Eng,Energy Mgmt,Power Policy,19 Years,Eng C&W,88,1,90,Strong,High,Peshawar,90,Energy policy expert
+AS-032,Haris Khan,Additional Secretary,Establishment,BPS-19,MPA,HR Policy,Civil Service,20 Years,Dy Sec Estab,90,0,94,Excellent,High,Peshawar,92,HR governance expert
+AS-033,Daniyal Ali,Additional Secretary,Law,BPS-19,LLB,Legal Policy,Governance Law,18 Years,Legal Advisor,87,1,89,Strong,High,Peshawar,89,Legal governance expert
+AS-034,Faizan Khan,Additional Secretary,Social Welfare,BPS-19,MA Sociology,Welfare Mgmt,NGO Coordination,15 Years,Dir SWD,84,0,88,Good,Medium,Peshawar,86,Social welfare expert
+AS-035,Muneeb Khan,Additional Secretary,Planning,BPS-19,MPA Econ,Planning,Dev Projects,17 Years,Dy Sec Planning,88,0,92,Strong,High,Peshawar,90,Development planning expert
+AS-036,Kashif Ali,Additional Secretary,Finance,BPS-19,MBA,Budgeting,Fiscal Control,18 Years,Dy Sec Finance,89,0,93,Strong,High,Peshawar,91,Fiscal management expert
+AS-037,Rizwan Khan,Additional Secretary,Health,BPS-19,MBBS,Health Admin,Emergency Care,19 Years,MS Hospital,86,1,88,Strong,High,Peshawar,88,Healthcare management expert
+AS-038,Hamza Ali,Additional Secretary,Education,BPS-19,M.Ed,Education Reform,Curriculum,16 Years,DEO,85,0,91,Strong,Medium,Peshawar,87,Education reform expert
+AS-039,Bilal Shah,Additional Secretary,Revenue,BPS-19,MA Econ,Revenue Mgmt,Land Systems,20 Years,DC Dir,90,1,89,Strong,High,Peshawar,92,Revenue administration expert
+AS-040,Usama Khan,Additional Secretary,C&W,BPS-19,BSc Eng,Infrastructure,Road Systems,21 Years,Chief Eng C&W,90,0,94,Excellent,High,Peshawar,92,Infrastructure expert
+AS-041,Ahsan Ali,Additional Secretary,Finance,BPS-19,MBA,Budgeting,Fiscal Policy,18 Years,Dy Sec Finance,88,0,93,Strong,High,Peshawar,90,Finance expert
+AS-042,Haider Khan,Additional Secretary,Health,BPS-19,MBBS,Health Systems,Public Health,19 Years,MS Hospital,86,1,88,Strong,High,Peshawar,88,Health systems expert
+AS-043,Noman Shah,Additional Secretary,Education,BPS-19,MPhil Edu,Curriculum,School Reform,16 Years,DEO,85,0,91,Strong,Medium,Peshawar,87,Education expert
+AS-044,Shoaib Khan,Additional Secretary,Revenue,BPS-19,MA Pol Sci,Land Admin,Revenue Systems,20 Years,DC Swat,90,1,89,Strong,High,Peshawar,92,Revenue expert
+AS-045,Saif Ali,Additional Secretary,C&W,BPS-19,BSc Eng,Construction,Infrastructure,21 Years,Chief Eng C&W,90,0,94,Excellent,High,Peshawar,92,Infrastructure expert
+AS-046,Zubair Ali,Additional Secretary,Agriculture,BPS-19,MSc Agri,Crop Policy,Food Systems,17 Years,Dir Agri,85,0,88,Good,Medium,Peshawar,87,Agriculture expert
+AS-047,Talha Khan,Additional Secretary,IT,BPS-19,MSc CS,Systems Dev,E-Gov,15 Years,DG IT,90,0,94,Strong,High,Peshawar,92,IT governance expert
+AS-048,Ayan Khan,Additional Secretary,Home,BPS-19,MA Pol Sci,Security,Crisis Mgmt,19 Years,DC Malakand,91,1,89,Excellent,Very High,Peshawar,93,Security expert
+AS-049,Danish Ali,Additional Secretary,Industries,BPS-19,MBA,Industry Policy,SEZ,18 Years,Dir Industries,86,1,88,Good,Medium,Peshawar,88,Industrial policy expert
+AS-050,Rehan Khan,Additional Secretary,Planning,BPS-19,MPA Econ,Planning,Dev Projects,17 Years,Dy Sec Planning,88,0,92,Strong,High,Peshawar,90,Planning expert
+AS-051,Aftab Khan,Additional Secretary,Finance,BPS-19,MBA Finance,Budgeting,Fiscal Policy,19 Years,Dy Sec Finance,89,0,93,Strong,High,Peshawar,91,Finance and budget management expert
+AS-052,Salman Raza,Additional Secretary,Health,BPS-19,"MBBS, MPH",Health Admin,Public Health,20 Years,MS Hospital,86,1,88,Strong,High,Peshawar,88,Public health administration expert
+AS-053,Umar Farooq,Additional Secretary,Education,BPS-19,M.Ed,Education Policy,Curriculum Reform,18 Years,DEO,85,0,91,Strong,Medium,Peshawar,87,Education reform specialist
+AS-054,Zeeshan Ali,Additional Secretary,Home,BPS-19,MA Pol Science,Security Admin,Law & Order,21 Years,DC Swat,91,1,89,Excellent,Very High,Peshawar,93,Security governance expert
+AS-055,Adil Khan,Additional Secretary,P&D,BPS-19,MPA Economics,Planning,Development Projects,19 Years,Dy Sec Planning,88,0,92,Strong,High,Peshawar,90,Development planning expert
+AS-056,Asif Ali,Additional Secretary,Local Govt,BPS-19,MBA,Municipal Admin,Urban Development,17 Years,DC Mardan,84,1,82,Good,Medium,Peshawar,85,Urban governance expert
+AS-057,Naveed Khan,Additional Secretary,Revenue,BPS-19,MA Economics,Land Revenue,Tax Systems,20 Years,Tehsildar,88,1,90,Strong,High,Peshawar,90,Revenue administration expert
+AS-058,Imran Shah,Additional Secretary,Irrigation,BPS-19,MSc Civil Eng,Water Mgmt,Irrigation Systems,18 Years,Chief Eng,87,0,92,Strong,High,Peshawar,89,Irrigation engineering expert
+AS-059,Bilal Khan,Additional Secretary,Agriculture,BPS-19,MSc Agriculture,Agronomy,Crop Dev,17 Years,Dir Agri,85,0,88,Good,Medium,Peshawar,87,Agriculture development expert
+AS-060,Shahbaz Ali,Additional Secretary,C&W,BPS-19,BSc Eng,Infrastructure,Roads,22 Years,Chief Engineer,90,0,94,Excellent,High,Peshawar,92,Infrastructure development expert
+AS-061,Saif Khan,Additional Secretary,IT,BPS-19,MSc CS,Digital Gov,E-Governance,16 Years,DG IT,90,0,95,Strong,High,Peshawar,92,IT and digital governance expert
+AS-062,Hamza Ali,Additional Secretary,Industries,BPS-19,MBA,Industrial Policy,SEZ,19 Years,Dir Industries,86,1,88,Good,Medium,Peshawar,88,Industrial development expert
+AS-063,Rehan Khan,Additional Secretary,Tourism,BPS-19,MA Economics,Tourism Dev,Cultural Projects,15 Years,ADC Tourism,83,0,89,Good,Medium,Peshawar,85,Tourism development expert
+AS-064,Waleed Shah,Additional Secretary,Environment,BPS-19,MSc Env Sci,Climate Policy,Sustainability,17 Years,Dir Env,87,0,92,Strong,High,Peshawar,89,Environmental governance expert
+AS-065,Haris Khan,Additional Secretary,Energy,BPS-19,MSc Eng,Energy Policy,Power Sector,20 Years,Eng C&W,88,1,90,Strong,High,Peshawar,90,Energy sector expert
+AS-066,Daniyal Ali,Additional Secretary,Establishment,BPS-19,MPA,HR Mgmt,Civil Service Rules,21 Years,Dy Sec Estab,90,0,95,Excellent,High,Peshawar,92,Civil service HR expert
+AS-067,Zain Khan,Additional Secretary,Law,BPS-19,LLB,Legal Affairs,Policy Law,18 Years,Legal Advisor,87,1,89,Strong,High,Peshawar,89,Legal governance expert
+AS-068,Ayan Khan,Additional Secretary,Social Welfare,BPS-19,MA Sociology,Welfare Programs,NGO Coordination,16 Years,Dir SWD,84,0,88,Good,Medium,Peshawar,86,Social welfare expert
+AS-069,Talha Khan,Additional Secretary,Planning,BPS-19,MPA Econ,Planning,Development Projects,18 Years,Dy Sec Planning,88,0,92,Strong,High,Peshawar,90,Planning expert
+AS-070,Danish Ali,Additional Secretary,Finance,BPS-19,MBA Finance,Budgeting,Fiscal Policy,19 Years,Dy Sec Finance,89,0,93,Strong,High,Peshawar,91,Finance expert
+AS-071,Usman Ali,Additional Secretary,Health,BPS-19,MBBS,Hospital Admin,Emergency Health,20 Years,MS Hospital,86,1,88,Strong,High,Peshawar,88,Health administration expert
+AS-072,Faizan Khan,Additional Secretary,Education,BPS-19,MPhil Edu,Curriculum Dev,School Reform,17 Years,DEO,85,0,91,Strong,Medium,Peshawar,87,Education expert
+AS-073,Rizwan Khan,Additional Secretary,Revenue,BPS-19,MA Pol Sci,Land Admin,Revenue Systems,21 Years,DC Kohat,90,1,89,Strong,High,Peshawar,92,Revenue expert
+AS-074,Kashif Ali,Additional Secretary,C&W,BPS-19,BSc Eng,Construction,Infrastructure,22 Years,Chief Eng C&W,90,0,94,Excellent,High,Peshawar,92,Infrastructure expert
+AS-075,Shoaib Khan,Additional Secretary,Agriculture,BPS-19,MSc Agri,Crop Policy,Food Systems,17 Years,Dir Agri,85,0,88,Good,Medium,Peshawar,87,Agriculture expert
+AS-076,Ahsan Ali,Additional Secretary,IT,BPS-19,MSc CS,Systems Dev,E-Gov,16 Years,DG IT,90,0,94,Strong,High,Peshawar,92,IT governance expert
+AS-077,Haider Khan,Additional Secretary,Home,BPS-19,MA Pol Sci,Security,Crisis Mgmt,20 Years,DC Malakand,91,1,89,Excellent,Very High,Peshawar,93,Security expert
+AS-078,Noman Shah,Additional Secretary,Industries,BPS-19,MBA,Industry Policy,SEZ,19 Years,Dir Industries,86,1,88,Good,Medium,Peshawar,88,Industrial policy expert
+AS-079,Saif Ali,Additional Secretary,Tourism,BPS-19,MA Econ,Tourism Dev,Cultural Projects,15 Years,ADC Tourism,83,0,89,Good,Medium,Peshawar,85,Tourism expert
+AS-080,Zubair Ali,Additional Secretary,Environment,BPS-19,MSc Env Sci,Climate Policy,Sustainability,17 Years,Dir Env,87,0,92,Strong,High,Peshawar,89,Environmental expert
+AS-081,Imran Ali,Additional Secretary,Energy,BPS-19,MSc Eng,Energy Mgmt,Power Policy,20 Years,Eng C&W,88,1,90,Strong,High,Peshawar,90,Energy expert
+AS-082,Bilal Shah,Additional Secretary,Establishment,BPS-19,MPA,HR Policy,Civil Service,21 Years,Dy Sec Estab,90,0,94,Excellent,High,Peshawar,92,HR governance expert
+AS-083,Adnan Ali,Additional Secretary,Law,BPS-19,LLB,Legal Policy,Governance Law,18 Years,Legal Advisor,87,1,89,Strong,High,Peshawar,89,Legal expert
+AS-084,Hamza Ali,Additional Secretary,Social Welfare,BPS-19,MA Sociology,Welfare Mgmt,NGO Coordination,16 Years,Dir SWD,84,0,88,Good,Medium,Peshawar,86,Social welfare expert
+AS-085,Shahbaz Khan,Additional Secretary,Planning,BPS-19,MPA Econ,Planning,Dev Projects,18 Years,Dy Sec Planning,88,0,92,Strong,High,Peshawar,90,Planning expert
+AS-086,Naveed Khan,Additional Secretary,Finance,BPS-19,MBA,Budgeting,Fiscal Control,19 Years,Dy Sec Finance,89,0,93,Strong,High,Peshawar,91,Finance expert
+AS-087,Usman Khan,Additional Secretary,Health,BPS-19,MBBS,Health Systems,Public Health,20 Years,MS Hospital,86,1,88,Strong,High,Peshawar,88,Health systems expert
+AS-088,Ali Khan,Additional Secretary,Education,BPS-19,M.Ed,Education Reform,Curriculum,17 Years,DEO,85,0,91,Strong,Medium,Peshawar,87,Education expert
+AS-089,Saad Ali,Additional Secretary,Revenue,BPS-19,MA Econ,Revenue Mgmt,Land Systems,21 Years,DC Swat,90,1,89,Strong,High,Peshawar,92,Revenue expert
+AS-090,Waqas Khan,Additional Secretary,C&W,BPS-19,BSc Eng,Infrastructure,Road Systems,22 Years,Chief Eng C&W,90,0,94,Excellent,High,Peshawar,92,Infrastructure expert
+AS-091,Imran Shahid,Additional Secretary,Agriculture,BPS-19,MSc Agri,Crop Policy,Food Security,17 Years,Dir Agri,85,0,88,Good,Medium,Peshawar,87,Agriculture expert
+AS-092,Salman Ali,Additional Secretary,IT,BPS-19,MSc CS,Systems Dev,Digital Gov,16 Years,DG IT,90,0,94,Strong,High,Peshawar,92,IT expert
+AS-093,Adeel Shah,Additional Secretary,Home,BPS-19,MA Pol Sci,Security,Crisis Mgmt,20 Years,DC Malakand,91,1,89,Excellent,Very High,Peshawar,93,Security expert
+AS-094,Rehan Ali,Additional Secretary,Industries,BPS-19,MBA,Industry Policy,SEZ,19 Years,Dir Industries,86,1,88,Good,Medium,Peshawar,88,Industrial expert
+AS-095,Talha Ali,Additional Secretary,Tourism,BPS-19,MA Econ,Tourism Dev,Cultural Projects,15 Years,ADC Tourism,83,0,89,Good,Medium,Peshawar,85,Tourism expert
+AS-096,Danish Khan,Additional Secretary,Environment,BPS-19,MSc Env Sci,Climate Policy,Sustainability,17 Years,Dir Env,87,0,92,Strong,High,Peshawar,89,Environmental expert
+AS-097,Ayan Ali,Additional Secretary,Energy,BPS-19,MSc Eng,Energy Mgmt,Power Policy,20 Years,Eng C&W,88,1,90,Strong,High,Peshawar,90,Energy expert
+AS-098,Zain Ali,Additional Secretary,Establishment,BPS-19,MPA,HR Mgmt,Civil Service,21 Years,Dy Sec Estab,90,0,94,Excellent,High,Peshawar,92,HR governance expert
+AS-099,Faizan Ali,Additional Secretary,Law,BPS-19,LLB,Legal Affairs,Policy Law,18 Years,Legal Advisor,87,1,89,Strong,High,Peshawar,89,Legal expert
+AS-100,Muneeb Khan,Additional Secretary,Planning,BPS-19,MPA Econ,Planning,Development Projects,18 Years,Dy Sec Planning,88,0,92,Strong,High,Peshawar,90,Planning expert
+,,,,,,,,,,,,,,,,,
+COM-001,Muhammad Iqbal,Commissioner,Peshawar Division,BPS-20,MA Public Admin,Governance,Administrative Control,25 Years,"DC Peshawar, ADC",92,0,95,Excellent,Very High,Peshawar,94,Strong administrative leadership and governance control
+COM-002,Asadullah Khan,Commissioner,Malakand Division,BPS-20,MPA,Crisis Mgmt,Disaster Response,24 Years,DC Swat,90,1,92,Strong,Very High,Malakand,93,Experienced in crisis and disaster management
+COM-003,Saeed Ahmad,Commissioner,Hazara Division,BPS-20,MA Economics,Development,Regional Planning,26 Years,DC Abbottabad,91,0,94,Strong,High,Hazara,93,Strong development and planning expertise
+COM-004,Javed Iqbal,Commissioner,Mardan Division,BPS-20,MA Political Science,Law & Order,Coordination,23 Years,DC Mardan,88,1,90,Strong,High,Mardan,90,Good coordination and governance skills
+COM-005,Nasir Khan,Commissioner,Kohat Division,BPS-20,MBA,Administration,Public Sector Management,22 Years,DC Kohat,87,0,89,Good,Medium,Kohat,88,Strong administrative experience in public sector
+COM-006,Farooq Shah,Commissioner,Bannu Division,BPS-20,MA Sociology,Field Admin,Rural Development,24 Years,DC Bannu,89,1,91,Strong,High,Bannu,90,Experienced in rural governance and field administration
+COM-007,Imran Ali,Commissioner,Dera Ismail Khan Division,BPS-20,MA Public Admin,Governance,Security Coordination,25 Years,DC DI Khan,90,0,93,Strong,Very High,DI Khan,92,Strong governance and security coordination experience
+,,,,,,,,,,,,,,,,,
+DC-001,Ali Raza Khan,Deputy Commissioner,Peshawar,BPS-18,MPA,Admin Control,Urban Governance,20 Years,ADC Peshawar,90,1,92,Strong,High,Peshawar,92,Strong urban administration and coordination
+DC-002,Imran Shah,Deputy Commissioner,Mardan,BPS-18,MA Political Science,Law & Order,District Mgmt,19 Years,ADC Mardan,88,0,90,Strong,High,Mardan,90,Efficient district management
+DC-003,Usman Ali,Deputy Commissioner,Swat,BPS-18,MPA,Crisis Mgmt,Disaster Response,21 Years,ADC Swat,91,1,93,Excellent,Very High,Swat,94,Strong crisis and disaster handling
+DC-004,Bilal Khan,Deputy Commissioner,Abbottabad,BPS-18,MBA,Admin,Development Planning,20 Years,ADC Hazara,89,0,91,Strong,High,Abbottabad,91,Strong development-focused governance
+DC-005,Saad Ali,Deputy Commissioner,Kohat,BPS-18,MA Economics,Revenue Admin,Finance Control,18 Years,ADC Kohat,87,0,89,Good,Medium,Kohat,88,Financial and revenue management
+DC-006,Waqas Khan,Deputy Commissioner,Bannu,BPS-18,MPA,Field Admin,Rural Governance,19 Years,ADC Bannu,88,1,90,Strong,High,Bannu,90,Strong rural administration
+DC-007,Haroon Shah,Deputy Commissioner,DI Khan,BPS-18,MA Pol Science,Security Admin,Law & Order,22 Years,ADC DI Khan,90,1,92,Strong,Very High,DI Khan,93,Strong security coordination
+DC-008,Asad Khan,Deputy Commissioner,Malakand,BPS-18,MPA,Crisis Mgmt,Disaster Response,21 Years,ADC Malakand,91,1,93,Excellent,Very High,Malakand,94,High crisis management expertise
+DC-009,Shahbaz Ali,Deputy Commissioner,Charsadda,BPS-18,MA Sociology,Admin,Local Governance,18 Years,ADC Charsadda,86,0,88,Good,Medium,Charsadda,87,Local governance expert
+DC-010,Naveed Khan,Deputy Commissioner,Nowshera,BPS-18,MBA,Administration,District Control,19 Years,ADC Nowshera,88,0,90,Strong,High,Nowshera,90,Strong administrative control
+DC-011,Rizwan Ali,Deputy Commissioner,Swabi,BPS-18,MA Economics,Revenue,District Mgmt,18 Years,ADC Swabi,87,0,89,Good,Medium,Swabi,88,Revenue and district management
+DC-012,Imran Ali,Deputy Commissioner,Lakki Marwat,BPS-18,MPA,Field Admin,Rural Dev,20 Years,ADC Lakki,89,1,91,Strong,High,Lakki Marwat,90,Rural governance expert
+DC-013,Adeel Khan,Deputy Commissioner,Buner,BPS-18,MA Pol Science,Admin,Crisis Handling,19 Years,ADC Buner,88,0,90,Strong,High,Buner,89,District crisis management
+DC-014,Saifullah Khan,Deputy Commissioner,Shangla,BPS-18,MPA,Admin Control,Mountain Governance,21 Years,ADC Shangla,90,1,92,Strong,Very High,Shangla,93,Mountain region governance expert
+DC-015,Usman Khan,Deputy Commissioner,Upper Dir,BPS-18,MA Sociology,Admin,Rural Dev,20 Years,ADC Dir,89,0,91,Strong,High,Upper Dir,90,Rural administration expert
+DC-016,Bilal Shah,Deputy Commissioner,Lower Dir,BPS-18,MA Economics,Revenue,Governance,19 Years,ADC Dir,88,0,90,Good,Medium,Lower Dir,89,Revenue and governance expert
+DC-017,Hamza Ali,Deputy Commissioner,Haripur,BPS-18,MBA,Admin,Industrial Area Mgmt,18 Years,ADC Haripur,87,0,89,Good,Medium,Haripur,88,Industrial district management
+DC-018,Saad Khan,Deputy Commissioner,Mansehra,BPS-18,MPA,Admin,Tourism Dev,20 Years,ADC Mansehra,89,1,91,Strong,High,Mansehra,90,Tourism and governance expert
+DC-019,Zain Ali,Deputy Commissioner,Torghar,BPS-18,MA Pol Science,Admin,Tribal Governance,18 Years,ADC Torghar,86,0,88,Good,Medium,Torghar,87,Tribal governance expert
+DC-020,Ayan Khan,Deputy Commissioner,Kolai Palas,BPS-18,MA Sociology,Admin,Remote Area Dev,19 Years,ADC Kolai,87,0,89,Good,Medium,Kolai Palas,88,Remote area administration
+DC-021,Danish Ali,Deputy Commissioner,Kohistan Lower,BPS-18,MPA,Admin,Mountain Governance,20 Years,ADC Kohistan,89,1,91,Strong,High,Kohistan Lower,90,Mountain governance expert
+DC-022,Faizan Khan,Deputy Commissioner,Kohistan Upper,BPS-18,MA Economics,Admin,Development,21 Years,ADC Kohistan,90,1,92,Strong,High,Kohistan Upper,92,Development focused governance
+DC-023,Rehan Ali,Deputy Commissioner,Tank,BPS-18,MA Pol Science,Security,Law & Order,18 Years,ADC Tank,88,1,90,Strong,High,Tank,90,Security governance expert
+DC-024,Talha Khan,Deputy Commissioner,Hangu,BPS-18,MPA,Admin,Crisis Mgmt,19 Years,ADC Hangu,89,1,91,Strong,High,Hangu,91,Crisis management expert
+DC-025,Shoaib Ali,Deputy Commissioner,Orakzai,BPS-18,MA Sociology,Admin,Tribal Affairs,20 Years,ADC Orakzai,90,1,92,Strong,Very High,Orakzai,93,Tribal governance expert
+DC-026,Adnan Khan,Deputy Commissioner,Kurram,BPS-18,MA Pol Science,Admin,Security,21 Years,ADC Kurram,91,1,93,Excellent,Very High,Kurram,94,High security governance
+DC-027,Ahsan Ali,Deputy Commissioner,North Waziristan,BPS-18,MPA,Crisis Mgmt,Security Ops,22 Years,ADC NWA,92,1,94,Excellent,Very High,North Waziristan,95,High risk governance expert
+DC-028,Haider Khan,Deputy Commissioner,South Waziristan,BPS-18,MA Sociology,Admin,Tribal Dev,22 Years,ADC SWA,92,1,94,Excellent,Very High,South Waziristan,95,Tribal development expert
+DC-029,Imran Shahid,Deputy Commissioner,Peshawar Rural,BPS-18,MBA,Admin,Urban-Rural Coordination,18 Years,ADC Peshawar,88,0,90,Strong,High,Peshawar Rural,90,Urban-rural coordination expert
+DC-030,Saif Ali,Deputy Commissioner,Bajaur,BPS-18,MA Pol Science,Admin,Tribal Governance,20 Years,ADC Bajaur,90,1,92,Strong,Very High,Bajaur,93,Tribal governance expert
+DC-031,Usama Khan,Deputy Commissioner,Mohmand,BPS-18,MPA,Admin,Security,21 Years,ADC Mohmand,91,1,93,Excellent,Very High,Mohmand,94,Security governance expert
+DC-032,Zubair Ali,Deputy Commissioner,Peshawar Cantonment,BPS-18,MBA,Admin,Urban Security,18 Years,ADC Cantonment,89,0,91,Strong,High,Peshawar Cantt,91,Urban security governance
+DC-033,Imran Ali,Deputy Commissioner,Swat Rural,BPS-18,MA Economics,Admin,Rural Dev,19 Years,ADC Swat,88,0,90,Strong,High,Swat Rural,90,Rural governance expert
+DC-034,Bilal Ali,Deputy Commissioner,Mardan Rural,BPS-18,MA Sociology,Admin,Agriculture Dev,18 Years,ADC Mardan,87,0,89,Good,Medium,Mardan Rural,88,Agricultural district management
+DC-035,Saad Ali,Deputy Commissioner,Abbottabad Rural,BPS-18,MBA,Admin,Tourism Dev,19 Years,ADC Abbottabad,89,0,91,Strong,High,Abbottabad Rural,90,Tourism governance expert
+DC-036,Adeel Ali,Deputy Commissioner,Nowshera Rural,BPS-18,MA Pol Science,Admin,Industrial Dev,18 Years,ADC Nowshera,88,0,90,Strong,High,Nowshera Rural,90,Industrial district expert
+DC-037,Naveed Ali,Deputy Commissioner,Haripur Rural,BPS-18,MBA,Admin,Industrial Zone,19 Years,ADC Haripur,89,0,91,Strong,High,Haripur Rural,91,Industrial governance expert
+DC-038,Waqas Ali,Deputy Commissioner,DI Khan Rural,BPS-18,MA Sociology,Admin,Rural Dev,20 Years,ADC DI Khan,90,1,92,Strong,Very High,DI Khan Rural,93,Rural governance expert
+,,,,,,,,,,,,,,,,,
+ADC-001,Ahmad Khan,Additional Deputy Commissioner,Peshawar,BPS-17,MPA,Admin Control,Revenue Mgmt,14 Years,AC Peshawar,88,0,92,Strong,Medium,Peshawar,90,Strong administrative and revenue coordination
+ADC-002,Bilal Ali,ADC General,Mardan,BPS-17,MA Pol Science,Field Admin,District Mgmt,13 Years,AC Mardan,86,0,89,Good,Medium,Mardan,88,District level coordination expert
+ADC-003,Usman Khan,ADC Finance,Swat,BPS-17,MBA Finance,Budgeting,Finance Control,15 Years,SO Finance,89,1,91,Strong,High,Swat,92,Financial administration expert
+ADC-004,Imran Shah,ADC General,Abbottabad,BPS-17,MA Sociology,Admin,Local Governance,14 Years,AC Abbottabad,87,0,90,Strong,Medium,Abbottabad,89,Local governance expert
+ADC-005,Saad Ali,ADC Finance,Kohat,BPS-17,MBA,Budgeting,Revenue Control,13 Years,SO Finance,85,0,88,Good,Medium,Kohat,87,Finance and budgeting expert
+ADC-006,Waqas Khan,ADC General,Bannu,BPS-17,MPA,Field Admin,Rural Gov,14 Years,AC Bannu,86,1,89,Strong,Medium,Bannu,88,Rural administration expert
+ADC-007,Haroon Shah,ADC Finance,DI Khan,BPS-17,MA Economics,Revenue,Fiscal Mgmt,15 Years,SO Revenue,88,1,91,Strong,High,DI Khan,91,Fiscal management expert
+ADC-008,Asad Khan,ADC General,Malakand,BPS-17,MPA,Crisis Mgmt,Disaster Response,14 Years,AC Malakand,89,1,92,Strong,Very High,Malakand,93,Crisis response expert
+ADC-009,Shahbaz Ali,ADC General,Charsadda,BPS-17,MA Sociology,Admin,Local Gov,12 Years,AC Charsadda,84,0,87,Good,Medium,Charsadda,86,Local governance expert
+ADC-010,Naveed Khan,ADC Finance,Nowshera,BPS-17,MBA,Budgeting,District Finance,13 Years,SO Finance,86,0,89,Good,Medium,Nowshera,88,Financial administration
+ADC-011,Rizwan Ali,ADC General,Swabi,BPS-17,MA Economics,Revenue,Admin,13 Years,AC Swabi,85,0,88,Good,Medium,Swabi,87,Revenue administration expert
+ADC-012,Imran Ali,ADC General,Lakki Marwat,BPS-17,MPA,Field Admin,Rural Dev,14 Years,AC Lakki,86,1,89,Strong,Medium,Lakki Marwat,88,Rural governance expert
+ADC-013,Adeel Khan,ADC Finance,Buner,BPS-17,MBA Finance,Budgeting,Fiscal Control,13 Years,SO Finance,87,0,90,Strong,Medium,Buner,89,Financial management expert
+ADC-014,Saifullah Khan,ADC General,Shangla,BPS-17,MPA,Admin,Mountain Gov,14 Years,AC Shangla,88,1,91,Strong,High,Shangla,90,Mountain governance expert
+ADC-015,Usman Khan,ADC Finance,Upper Dir,BPS-17,MBA,Finance,Budget Control,15 Years,SO Finance,89,0,92,Strong,High,Upper Dir,91,Financial expert
+ADC-016,Bilal Shah,ADC General,Lower Dir,BPS-17,MA Sociology,Admin,Rural Gov,13 Years,AC Dir,85,0,88,Good,Medium,Lower Dir,87,Rural governance expert
+ADC-017,Hamza Ali,ADC Finance,Haripur,BPS-17,MBA,Finance,Industrial Zone,12 Years,SO Finance,86,0,89,Good,Medium,Haripur,88,Industrial finance expert
+ADC-018,Saad Khan,ADC General,Mansehra,BPS-17,MPA,Admin,Tourism Dev,14 Years,AC Mansehra,87,1,90,Strong,Medium,Mansehra,89,Tourism administration expert
+ADC-019,Zain Ali,ADC Finance,Torghar,BPS-17,MA Economics,Revenue,Budgeting,12 Years,SO Finance,84,0,87,Good,Low,Torghar,86,Financial admin
+ADC-020,Ayan Khan,ADC General,Kolai Palas,BPS-17,MA Sociology,Admin,Remote Area Dev,13 Years,AC Kolai,85,0,88,Good,Medium,Kolai Palas,87,Remote governance expert
+ADC-021,Danish Ali,ADC Finance,Kohistan Lower,BPS-17,MBA Finance,Budgeting,Fiscal Control,14 Years,SO Finance,88,1,91,Strong,High,Kohistan Lower,90,Finance expert
+ADC-022,Faizan Khan,ADC General,Kohistan Upper,BPS-17,MPA,Admin,Mountain Dev,15 Years,AC Kohistan,89,1,92,Strong,High,Kohistan Upper,91,Mountain governance expert
+ADC-023,Rehan Ali,ADC Finance,Tank,BPS-17,MBA,Revenue,Budgeting,13 Years,SO Finance,86,1,89,Good,Medium,Tank,88,Financial admin
+ADC-024,Talha Khan,ADC General,Hangu,BPS-17,MA Pol Science,Admin,Crisis Mgmt,14 Years,AC Hangu,88,1,91,Strong,High,Hangu,90,Crisis management expert
+ADC-025,Shoaib Ali,ADC Finance,Orakzai,BPS-17,MBA,Finance,Tribal Budgeting,15 Years,SO Finance,89,1,92,Strong,Very High,Orakzai,92,Tribal finance expert
+ADC-026,Adnan Khan,ADC General,Kurram,BPS-17,MPA,Admin,Security,15 Years,AC Kurram,90,1,93,Strong,Very High,Kurram,93,Security administration expert
+ADC-027,Ahsan Ali,ADC Finance,North Waziristan,BPS-17,MBA Finance,Budgeting,Crisis Finance,16 Years,SO Finance,91,1,94,Excellent,Very High,North Waziristan,95,High risk financial governance
+ADC-028,Haider Khan,ADC General,South Waziristan,BPS-17,MPA,Admin,Tribal Dev,16 Years,AC SWA,91,1,94,Excellent,Very High,South Waziristan,95,Tribal governance expert
+ADC-029,Imran Shahid,ADC Finance,Peshawar Rural,BPS-17,MBA,Budgeting,Rural Finance,13 Years,SO Finance,86,0,89,Good,Medium,Peshawar Rural,88,Rural financial expert
+ADC-030,Saif Ali,ADC General,Bajaur,BPS-17,MA Sociology,Admin,Tribal Gov,14 Years,AC Bajaur,88,1,91,Strong,High,Bajaur,90,Tribal governance expert
+ADC-031,Usama Khan,ADC Finance,Mohmand,BPS-17,MBA Finance,Budgeting,Revenue Control,15 Years,SO Finance,89,1,92,Strong,High,Mohmand,91,Financial governance expert
+ADC-032,Zubair Ali,ADC General,Cantonment Peshawar,BPS-17,MPA,Admin,Urban Security,12 Years,AC Cantt,87,0,90,Strong,Medium,Peshawar Cantt,89,Urban administration expert
+ADC-033,Imran Ali,ADC Finance,Swat Rural,BPS-17,MBA,Budgeting,Rural Dev,13 Years,SO Finance,86,0,89,Good,Medium,Swat Rural,88,Rural financial expert
+ADC-034,Bilal Ali,ADC General,Mardan Rural,BPS-17,MA Sociology,Admin,Agriculture Dev,12 Years,AC Mardan,85,0,88,Good,Medium,Mardan Rural,87,Agricultural governance expert
+ADC-035,Saad Ali,ADC Finance,Abbottabad Rural,BPS-17,MBA,Finance,Tourism Budget,13 Years,SO Finance,87,0,90,Strong,Medium,Abbottabad Rural,89,Tourism finance expert
+ADC-036,Adeel Ali,ADC General,Nowshera Rural,BPS-17,MA Pol Science,Admin,Industrial Gov,12 Years,AC Nowshera,86,0,89,Good,Medium,Nowshera Rural,88,Industrial governance expert
+ADC-037,Naveed Ali,ADC Finance,Haripur Rural,BPS-17,MBA,Budgeting,Industrial Finance,13 Years,SO Finance,88,0,91,Strong,High,Haripur Rural,90,Industrial finance expert
+ADC-038,Waqas Ali,ADC General,DI Khan Rural,BPS-17,MA Sociology,Admin,Rural Dev,14 Years,AC DI Khan,89,1,92,Strong,High,DI Khan Rural,91,Rural governance expert
+ADC-039,Ali Raza,ADC Finance,Peshawar,BPS-17,MBA Finance,Budgeting,Revenue Control,14 Years,SO Finance,88,0,91,Strong,Medium,Peshawar,90,Financial administration expert
+ADC-040,Imran Khan,ADC General,Mardan,BPS-17,MPA,Admin,District Mgmt,13 Years,AC Mardan,86,0,89,Good,Medium,Mardan,88,District governance expert
+ADC-041,Usman Shah,ADC Finance,Swat,BPS-17,MBA,Budgeting,Crisis Finance,15 Years,SO Finance,89,1,92,Strong,High,Swat,91,Crisis financial expert
+ADC-042,Bilal Khan,ADC General,Abbottabad,BPS-17,MA Sociology,Admin,Tourism Dev,14 Years,AC Abbottabad,87,0,90,Strong,Medium,Abbottabad,89,Tourism governance expert
+ADC-043,Saad Khan,ADC Finance,Kohat,BPS-17,MBA Finance,Budgeting,Revenue,13 Years,SO Finance,85,0,88,Good,Medium,Kohat,87,Finance expert
+ADC-044,Waqas Ali,ADC General,Bannu,BPS-17,MPA,Admin,Rural Gov,14 Years,AC Bannu,86,1,89,Strong,Medium,Bannu,88,Rural governance expert
+ADC-045,Haroon Ali,ADC Finance,DI Khan,BPS-17,MBA,Budgeting,Fiscal Mgmt,15 Years,SO Finance,88,1,91,Strong,High,DI Khan,91,Fiscal expert
+ADC-046,Asad Ali,ADC General,Malakand,BPS-17,MPA,Crisis Mgmt,Disaster Response,14 Years,AC Malakand,89,1,92,Strong,Very High,Malakand,93,Crisis management expert
+ADC-047,Shahbaz Ali,ADC Finance,Charsadda,BPS-17,MBA,Budgeting,Revenue Control,12 Years,SO Finance,85,0,88,Good,Medium,Charsadda,87,Financial expert
+ADC-048,Naveed Ali,ADC General,Nowshera,BPS-17,MA Sociology,Admin,Local Gov,13 Years,AC Nowshera,86,0,89,Good,Medium,Nowshera,88,Local governance expert
+ADC-049,Rizwan Ali,ADC Finance,Swabi,BPS-17,MBA,Budgeting,District Finance,13 Years,SO Finance,86,0,89,Good,Medium,Swabi,88,Financial expert
+ADC-050,Imran Ali,ADC General,Lakki Marwat,BPS-17,MPA,Admin,Rural Governance,14 Years,AC Lakki,87,1,90,Strong,Medium,Lakki Marwat,89,Rural administration expert
+ADC-051,Aftab Khan,ADC General,Peshawar,BPS-17,MPA,Admin,Revenue Mgmt,14 Years,AC Peshawar,88,0,91,Strong,Medium,Peshawar,90,Administrative and revenue coordination expert
+ADC-052,Salman Raza,ADC Finance,Mardan,BPS-17,MBA Finance,Budgeting,Fiscal Control,13 Years,SO Finance,86,0,89,Good,Medium,Mardan,88,Financial governance expert
+ADC-053,Umar Farooq,ADC General,Swat,BPS-17,MA Pol Science,Admin,Crisis Mgmt,15 Years,AC Swat,89,1,92,Strong,High,Swat,91,Crisis management expertise
+ADC-054,Zeeshan Ali,ADC Finance,Abbottabad,BPS-17,MBA,Budgeting,Tourism Finance,14 Years,SO Finance,87,0,90,Strong,Medium,Abbottabad,89,Tourism finance expert
+ADC-055,Adil Khan,ADC General,Kohat,BPS-17,MPA,Admin,District Mgmt,13 Years,AC Kohat,85,0,88,Good,Medium,Kohat,87,District governance expert
+ADC-056,Asif Ali,ADC Finance,Bannu,BPS-17,MBA,Budgeting,Rural Finance,14 Years,SO Finance,86,1,89,Strong,Medium,Bannu,88,Rural financial expert
+ADC-057,Naveed Khan,ADC General,DI Khan,BPS-17,MA Sociology,Admin,Security,15 Years,AC DI Khan,88,1,91,Strong,High,DI Khan,91,Security governance expert
+ADC-058,Imran Shah,ADC Finance,Malakand,BPS-17,MBA,Budgeting,Disaster Finance,14 Years,SO Finance,89,1,92,Strong,Very High,Malakand,93,Disaster financial management
+ADC-059,Bilal Khan,ADC General,Charsadda,BPS-17,MA Economics,Admin,Local Gov,12 Years,AC Charsadda,84,0,87,Good,Medium,Charsadda,86,Local governance expert
+ADC-060,Saad Ali,ADC Finance,Nowshera,BPS-17,MBA Finance,Budgeting,District Finance,13 Years,SO Finance,86,0,89,Good,Medium,Nowshera,88,Financial administration
+ADC-061,Waqas Khan,ADC General,Swabi,BPS-17,MPA,Admin,Revenue,13 Years,AC Swabi,85,0,88,Good,Medium,Swabi,87,Revenue governance expert
+ADC-062,Haroon Shah,ADC Finance,Lakki Marwat,BPS-17,MBA,Budgeting,Rural Finance,14 Years,SO Finance,86,1,89,Strong,Medium,Lakki Marwat,88,Rural finance expert
+ADC-063,Asad Khan,ADC General,Buner,BPS-17,MA Pol Science,Admin,Crisis Mgmt,15 Years,AC Buner,88,0,91,Strong,High,Buner,90,Crisis governance expert
+ADC-064,Shahbaz Ali,ADC Finance,Shangla,BPS-17,MBA,Budgeting,Mountain Finance,14 Years,SO Finance,87,1,90,Strong,High,Shangla,90,Mountain financial expert
+ADC-065,Naveed Khan,ADC General,Upper Dir,BPS-17,MA Sociology,Admin,Rural Gov,15 Years,AC Dir,88,0,91,Strong,High,Upper Dir,90,Rural governance expert
+ADC-066,Rizwan Ali,ADC Finance,Lower Dir,BPS-17,MBA,Budgeting,Revenue Control,13 Years,SO Finance,85,0,88,Good,Medium,Lower Dir,87,Revenue finance expert
+ADC-067,Imran Ali,ADC General,Haripur,BPS-17,MPA,Admin,Industrial Gov,12 Years,AC Haripur,86,0,89,Good,Medium,Haripur,88,Industrial governance expert
+ADC-068,Adeel Khan,ADC Finance,Mansehra,BPS-17,MBA,Budgeting,Tourism Finance,14 Years,SO Finance,87,1,90,Strong,Medium,Mansehra,89,Tourism financial expert
+ADC-069,Saifullah Khan,ADC General,Torghar,BPS-17,MA Pol Science,Admin,Tribal Gov,13 Years,AC Torghar,85,0,88,Good,Medium,Torghar,87,Tribal governance expert
+ADC-070,Usman Khan,ADC Finance,Kolai Palas,BPS-17,MBA,Budgeting,Remote Finance,14 Years,SO Finance,86,0,89,Good,Medium,Kolai Palas,88,Remote financial governance
+ADC-071,Bilal Shah,ADC General,Kohistan Lower,BPS-17,MPA,Admin,Mountain Gov,15 Years,AC Kohistan,88,1,91,Strong,High,Kohistan Lower,90,Mountain governance expert
+ADC-072,Hamza Ali,ADC Finance,Kohistan Upper,BPS-17,MBA,Budgeting,Dev Finance,15 Years,SO Finance,89,1,92,Strong,High,Kohistan Upper,91,Development finance expert
+ADC-073,Saad Khan,ADC General,Tank,BPS-17,MA Sociology,Admin,Security,13 Years,AC Tank,86,1,89,Strong,High,Tank,88,Security governance expert
+ADC-074,Zain Ali,ADC Finance,Hangu,BPS-17,MBA,Budgeting,Crisis Finance,14 Years,SO Finance,87,1,90,Strong,High,Hangu,90,Crisis finance expert
+ADC-075,Ayan Khan,ADC General,Orakzai,BPS-17,MA Pol Science,Admin,Tribal Gov,15 Years,AC Orakzai,89,1,92,Strong,Very High,Orakzai,92,Tribal governance expert
+ADC-076,Danish Ali,ADC Finance,Kurram,BPS-17,MBA,Budgeting,Security Finance,15 Years,SO Finance,90,1,93,Strong,Very High,Kurram,93,Security financial governance
+ADC-077,Faizan Khan,ADC General,North Waziristan,BPS-17,MPA,Admin,Crisis Mgmt,16 Years,AC NWA,91,1,94,Excellent,Very High,North Waziristan,95,High risk governance expert
+ADC-078,Rehan Ali,ADC Finance,South Waziristan,BPS-17,MBA,Budgeting,Crisis Finance,16 Years,SO Finance,91,1,94,Excellent,Very High,South Waziristan,95,High risk financial expert
+ADC-079,Talha Khan,ADC General,Peshawar Rural,BPS-17,MA Sociology,Admin,Rural Gov,13 Years,AC Peshawar,86,0,89,Good,Medium,Peshawar Rural,88,Rural governance expert
+ADC-080,Shoaib Ali,ADC Finance,Bajaur,BPS-17,MBA,Budgeting,Tribal Finance,14 Years,SO Finance,88,1,91,Strong,High,Bajaur,90,Tribal finance expert
+ADC-081,Adnan Khan,ADC General,Mohmand,BPS-17,MPA,Admin,Security,15 Years,AC Mohmand,89,1,92,Strong,High,Mohmand,91,Security governance expert
+ADC-082,Ahsan Ali,ADC Finance,Cantonment Peshawar,BPS-17,MBA,Budgeting,Urban Finance,12 Years,SO Finance,87,0,90,Strong,Medium,Peshawar Cantt,89,Urban financial governance
+ADC-083,Haider Khan,ADC General,Swat Rural,BPS-17,MA Sociology,Admin,Rural Dev,13 Years,AC Swat,86,0,89,Good,Medium,Swat Rural,88,Rural governance expert
+ADC-084,Noman Shah,ADC Finance,Mardan Rural,BPS-17,MBA,Budgeting,Agriculture Finance,12 Years,SO Finance,85,0,88,Good,Medium,Mardan Rural,87,Agricultural finance expert
+ADC-085,Shoaib Khan,ADC General,Abbottabad Rural,BPS-17,MA Pol Science,Admin,Tourism Dev,13 Years,AC Abbottabad,87,0,90,Strong,Medium,Abbottabad Rural,89,Tourism governance expert
+ADC-086,Saif Ali,ADC Finance,Nowshera Rural,BPS-17,MBA,Budgeting,Industrial Finance,12 Years,SO Finance,86,0,89,Good,Medium,Nowshera Rural,88,Industrial finance expert
+ADC-087,Zubair Ali,ADC General,Haripur Rural,BPS-17,MPA,Admin,Industrial Gov,13 Years,AC Haripur,88,0,91,Strong,High,Haripur Rural,90,Industrial governance expert
+ADC-088,Imran Ali,ADC Finance,DI Khan Rural,BPS-17,MBA,Budgeting,Rural Finance,14 Years,SO Finance,89,1,92,Strong,High,DI Khan Rural,91,Rural financial expert
+ADC-089,Bilal Ali,ADC General,Peshawar,BPS-17,MPA,Admin,Revenue Mgmt,14 Years,AC Peshawar,88,0,91,Strong,Medium,Peshawar,90,Administrative expert
+ADC-090,Saad Ali,ADC Finance,Mardan,BPS-17,MBA,Budgeting,Fiscal Control,13 Years,SO Finance,86,0,89,Good,Medium,Mardan,88,Finance expert
+ADC-091,Waqas Ali,ADC General,Swat,BPS-17,MA Pol Science,Admin,Crisis Mgmt,15 Years,AC Swat,89,1,92,Strong,High,Swat,91,Crisis governance expert
+ADC-092,Haroon Ali,ADC Finance,Abbottabad,BPS-17,MBA,Budgeting,Tourism Finance,14 Years,SO Finance,87,0,90,Strong,Medium,Abbottabad,89,Tourism finance expert
+ADC-093,Asad Ali,ADC General,Kohat,BPS-17,MPA,Admin,District Mgmt,13 Years,AC Kohat,85,0,88,Good,Medium,Kohat,87,District governance expert
+ADC-094,Shahbaz Ali,ADC Finance,Bannu,BPS-17,MBA,Budgeting,Rural Finance,14 Years,SO Finance,86,1,89,Strong,Medium,Bannu,88,Rural finance expert
+ADC-095,Naveed Ali,ADC General,DI Khan,BPS-17,MA Sociology,Admin,Security,15 Years,AC DI Khan,88,1,91,Strong,High,DI Khan,91,Security governance expert
+ADC-096,Rizwan Ali,ADC Finance,Malakand,BPS-17,MBA,Budgeting,Disaster Finance,14 Years,SO Finance,89,1,92,Strong,Very High,Malakand,93,Disaster financial expert
+ADC-097,Imran Ali,ADC General,Charsadda,BPS-17,MA Economics,Admin,Local Gov,12 Years,AC Charsadda,84,0,87,Good,Medium,Charsadda,86,Local governance expert
+ADC-098,Bilal Ali,ADC Finance,Nowshera,BPS-17,MBA,Budgeting,District Finance,13 Years,SO Finance,86,0,89,Good,Medium,Nowshera,88,Financial expert
+ADC-099,Saad Ali,ADC General,Swabi,BPS-17,MPA,Admin,Revenue,13 Years,AC Swabi,85,0,88,Good,Medium,Swabi,87,Revenue governance expert
+ADC-100,Waqas Ali,ADC Finance,Lakki Marwat,BPS-17,MBA,Budgeting,Rural Finance,14 Years,SO Finance,87,1,90,Strong,Medium,Lakki Marwat,89,Rural financial expert
+ADC-101,Ali Khan,ADC General,Peshawar,BPS-17,MPA,Admin,Revenue Mgmt,14 Years,AC Peshawar,88,0,91,Strong,Medium,Peshawar,90,Strong administrative officer
+ADC-102,Usman Ali,ADC Finance,Mardan,BPS-17,MBA Finance,Budgeting,Fiscal Control,13 Years,SO Finance,86,0,89,Good,Medium,Mardan,88,Finance management expert
+ADC-103,Imran Khan,ADC General,Swat,BPS-17,MA Pol Science,Admin,Crisis Mgmt,15 Years,AC Swat,89,1,92,Strong,High,Swat,91,Crisis handling expert
+ADC-104,Bilal Shah,ADC Finance,Abbottabad,BPS-17,MBA,Budgeting,Tourism Finance,14 Years,SO Finance,87,0,90,Strong,Medium,Abbottabad,89,Tourism financial expert
+ADC-105,Saad Ali,ADC General,Kohat,BPS-17,MPA,Admin,District Mgmt,13 Years,AC Kohat,85,0,88,Good,Medium,Kohat,87,District governance expert
+ADC-106,Naveed Khan,ADC Finance,Bannu,BPS-17,MBA,Budgeting,Rural Finance,14 Years,SO Finance,86,1,89,Strong,Medium,Bannu,88,Rural finance expert
+ADC-107,Waqas Ali,ADC General,DI Khan,BPS-17,MA Sociology,Admin,Security,15 Years,AC DI Khan,88,1,91,Strong,High,DI Khan,91,Security governance expert
+ADC-108,Asad Khan,ADC Finance,Malakand,BPS-17,MBA,Budgeting,Disaster Finance,14 Years,SO Finance,89,1,92,Strong,Very High,Malakand,93,Disaster financial expert
+ADC-109,Rizwan Ali,ADC General,Charsadda,BPS-17,MA Economics,Admin,Local Gov,12 Years,AC Charsadda,84,0,87,Good,Medium,Charsadda,86,Local governance expert
+ADC-110,Haroon Shah,ADC Finance,Nowshera,BPS-17,MBA Finance,Budgeting,District Finance,13 Years,SO Finance,86,0,89,Good,Medium,Nowshera,88,Finance expert
+ADC-111,Imran Ali,ADC General,Swabi,BPS-17,MPA,Admin,Revenue,13 Years,AC Swabi,85,0,88,Good,Medium,Swabi,87,Revenue governance expert
+ADC-112,Saad Khan,ADC Finance,Lakki Marwat,BPS-17,MBA,Budgeting,Rural Finance,14 Years,SO Finance,86,1,89,Strong,Medium,Lakki Marwat,88,Rural financial expert
+ADC-113,Bilal Khan,ADC General,Buner,BPS-17,MA Pol Science,Admin,Crisis Mgmt,15 Years,AC Buner,88,0,91,Strong,High,Buner,90,Crisis management expert
+ADC-114,Adeel Khan,ADC Finance,Shangla,BPS-17,MBA,Budgeting,Mountain Finance,14 Years,SO Finance,87,1,90,Strong,High,Shangla,90,Mountain finance expert
+ADC-115,Zain Ali,ADC General,Upper Dir,BPS-17,MA Sociology,Admin,Rural Gov,15 Years,AC Dir,88,0,91,Strong,High,Upper Dir,90,Rural governance expert
+ADC-116,Hamza Ali,ADC Finance,Lower Dir,BPS-17,MBA,Budgeting,Revenue Control,13 Years,SO Finance,85,0,88,Good,Medium,Lower Dir,87,Revenue finance expert
+ADC-117,Saifullah Khan,ADC General,Haripur,BPS-17,MPA,Admin,Industrial Gov,12 Years,AC Haripur,86,0,89,Good,Medium,Haripur,88,Industrial governance expert
+ADC-118,Usman Khan,ADC Finance,Mansehra,BPS-17,MBA,Budgeting,Tourism Finance,14 Years,SO Finance,87,1,90,Strong,Medium,Mansehra,89,Tourism finance expert
+ADC-119,Shoaib Ali,ADC General,Torghar,BPS-17,MA Pol Science,Admin,Tribal Gov,13 Years,AC Torghar,85,0,88,Good,Medium,Torghar,87,Tribal governance expert
+ADC-120,Ahsan Ali,ADC Finance,Kolai Palas,BPS-17,MBA,Budgeting,Remote Finance,14 Years,SO Finance,86,0,89,Good,Medium,Kolai Palas,88,Remote finance expert
+ADC-121,Adil Khan,ADC General,Kohistan Lower,BPS-17,MPA,Admin,Mountain Gov,15 Years,AC Kohistan,88,1,91,Strong,High,Kohistan Lower,90,Mountain governance expert
+ADC-122,Faizan Khan,ADC Finance,Kohistan Upper,BPS-17,MBA,Budgeting,Dev Finance,15 Years,SO Finance,89,1,92,Strong,High,Kohistan Upper,91,Development finance expert
+ADC-123,Rehan Ali,ADC General,Tank,BPS-17,MA Sociology,Admin,Security,13 Years,AC Tank,86,1,89,Strong,High,Tank,88,Security governance expert
+ADC-124,Talha Khan,ADC Finance,Hangu,BPS-17,MBA,Budgeting,Crisis Finance,14 Years,SO Finance,87,1,90,Strong,High,Hangu,90,Crisis finance expert
+ADC-125,Shoaib Khan,ADC General,Orakzai,BPS-17,MA Pol Science,Admin,Tribal Gov,15 Years,AC Orakzai,89,1,92,Strong,Very High,Orakzai,92,Tribal governance expert
+ADC-126,Danish Ali,ADC Finance,Kurram,BPS-17,MBA,Budgeting,Security Finance,15 Years,SO Finance,90,1,93,Strong,Very High,Kurram,93,Security finance expert
+ADC-127,Aftab Khan,ADC General,North Waziristan,BPS-17,MPA,Admin,Crisis Mgmt,16 Years,AC NWA,91,1,94,Excellent,Very High,North Waziristan,95,High risk governance expert
+ADC-128,Salman Ali,ADC Finance,South Waziristan,BPS-17,MBA,Budgeting,Crisis Finance,16 Years,SO Finance,91,1,94,Excellent,Very High,South Waziristan,95,High risk finance expert
+ADC-129,Umar Khan,ADC General,Peshawar Rural,BPS-17,MA Sociology,Admin,Rural Gov,13 Years,AC Peshawar,86,0,89,Good,Medium,Peshawar Rural,88,Rural governance expert
+ADC-130,Zeeshan Ali,ADC Finance,Bajaur,BPS-17,MBA,Budgeting,Tribal Finance,14 Years,SO Finance,88,1,91,Strong,High,Bajaur,90,Tribal finance expert
+ADC-131,Adnan Khan,ADC General,Mohmand,BPS-17,MPA,Admin,Security,15 Years,AC Mohmand,89,1,92,Strong,High,Mohmand,91,Security governance expert
+ADC-132,Asif Ali,ADC Finance,Cantonment Peshawar,BPS-17,MBA,Budgeting,Urban Finance,12 Years,SO Finance,87,0,90,Strong,Medium,Peshawar Cantt,89,Urban finance expert
+ADC-133,Naveed Ali,ADC General,Swat Rural,BPS-17,MA Sociology,Admin,Rural Dev,13 Years,AC Swat,86,0,89,Good,Medium,Swat Rural,88,Rural governance expert
+ADC-134,Imran Shah,ADC Finance,Mardan Rural,BPS-17,MBA,Budgeting,Agriculture Finance,12 Years,SO Finance,85,0,88,Good,Medium,Mardan Rural,87,Agriculture finance expert
+ADC-135,Bilal Ali,ADC General,Abbottabad Rural,BPS-17,MA Pol Science,Admin,Tourism Dev,13 Years,AC Abbottabad,87,0,90,Strong,Medium,Abbottabad Rural,89,Tourism governance expert
+ADC-136,Saad Ali,ADC Finance,Nowshera Rural,BPS-17,MBA,Budgeting,Industrial Finance,12 Years,SO Finance,86,0,89,Good,Medium,Nowshera Rural,88,Industrial finance expert
+ADC-137,Waqas Ali,ADC General,Haripur Rural,BPS-17,MPA,Admin,Industrial Gov,13 Years,AC Haripur,88,0,91,Strong,High,Haripur Rural,90,Industrial governance expert
+ADC-138,Haroon Ali,ADC Finance,DI Khan Rural,BPS-17,MBA,Budgeting,Rural Finance,14 Years,SO Finance,89,1,92,Strong,High,DI Khan Rural,91,Rural finance expert
+ADC-139,Asad Ali,ADC General,Peshawar,BPS-17,MPA,Admin,Revenue Mgmt,14 Years,AC Peshawar,88,0,91,Strong,Medium,Peshawar,90,Administrative expert
+ADC-140,Shahbaz Ali,ADC Finance,Mardan,BPS-17,MBA,Budgeting,Fiscal Control,13 Years,SO Finance,86,0,89,Good,Medium,Mardan,88,Finance expert
+ADC-141,Naveed Ali,ADC General,Swat,BPS-17,MA Pol Science,Admin,Crisis Mgmt,15 Years,AC Swat,89,1,92,Strong,High,Swat,91,Crisis governance expert
+ADC-142,Rizwan Ali,ADC Finance,Abbottabad,BPS-17,MBA,Budgeting,Tourism Finance,14 Years,SO Finance,87,0,90,Strong,Medium,Abbottabad,89,Tourism finance expert
+ADC-143,Imran Ali,ADC General,Kohat,BPS-17,MPA,Admin,District Mgmt,13 Years,AC Kohat,85,0,88,Good,Medium,Kohat,87,District governance expert
+ADC-144,Bilal Ali,ADC Finance,Bannu,BPS-17,MBA,Budgeting,Rural Finance,14 Years,SO Finance,86,1,89,Strong,Medium,Bannu,88,Rural finance expert
+ADC-145,Saad Ali,ADC General,DI Khan,BPS-17,MA Sociology,Admin,Security,15 Years,AC DI Khan,88,1,91,Strong,High,DI Khan,91,Security governance expert
+ADC-146,Waqas Ali,ADC Finance,Malakand,BPS-17,MBA,Budgeting,Disaster Finance,14 Years,SO Finance,89,1,92,Strong,Very High,Malakand,93,Disaster finance expert
+ADC-147,Haroon Ali,ADC General,Charsadda,BPS-17,MA Economics,Admin,Local Gov,12 Years,AC Charsadda,84,0,87,Good,Medium,Charsadda,86,Local governance expert
+ADC-148,Asad Ali,ADC Finance,Nowshera,BPS-17,MBA,Budgeting,District Finance,13 Years,SO Finance,86,0,89,Good,Medium,Nowshera,88,Finance expert
+ADC-149,Shahbaz Ali,ADC General,Swabi,BPS-17,MPA,Admin,Revenue,13 Years,AC Swabi,85,0,88,Good,Medium,Swabi,87,Revenue governance expert
+ADC-150,Naveed Ali,ADC Finance,Lakki Marwat,BPS-17,MBA,Budgeting,Rural Finance,14 Years,SO Finance,87,1,90,Strong,Medium,Lakki Marwat,89,Rural finance expert
+ADC-151,Ali Khan,ADC General,Peshawar,BPS-17,MPA,Admin,Revenue Mgmt,14 Years,AC Peshawar,88,0,91,Strong,Medium,Peshawar,90,Administrative governance expert
+ADC-152,Usman Ali,ADC Finance,Mardan,BPS-17,MBA,Budgeting,Fiscal Control,13 Years,SO Finance,86,0,89,Good,Medium,Mardan,88,Finance expert
+ADC-153,Imran Khan,ADC General,Swat,BPS-17,MA Pol Science,Admin,Crisis Mgmt,15 Years,AC Swat,89,1,92,Strong,High,Swat,91,Crisis management expert
+ADC-154,Bilal Shah,ADC Finance,Abbottabad,BPS-17,MBA,Budgeting,Tourism Finance,14 Years,SO Finance,87,0,90,Strong,Medium,Abbottabad,89,Tourism finance expert
+ADC-155,Saad Ali,ADC General,Kohat,BPS-17,MPA,Admin,District Mgmt,13 Years,AC Kohat,85,0,88,Good,Medium,Kohat,87,District governance expert
+ADC-156,Naveed Khan,ADC Finance,Bannu,BPS-17,MBA,Budgeting,Rural Finance,14 Years,SO Finance,86,1,89,Strong,Medium,Bannu,88,Rural finance expert
+ADC-157,Waqas Ali,ADC General,DI Khan,BPS-17,MA Sociology,Admin,Security,15 Years,AC DI Khan,88,1,91,Strong,High,DI Khan,91,Security governance expert
+ADC-158,Asad Khan,ADC Finance,Malakand,BPS-17,MBA,Budgeting,Disaster Finance,14 Years,SO Finance,89,1,92,Strong,Very High,Malakand,93,Disaster finance expert
+ADC-159,Rizwan Ali,ADC General,Charsadda,BPS-17,MA Economics,Admin,Local Gov,12 Years,AC Charsadda,84,0,87,Good,Medium,Charsadda,86,Local governance expert
+ADC-160,Haroon Shah,ADC Finance,Nowshera,BPS-17,MBA,Budgeting,District Finance,13 Years,SO Finance,86,0,89,Good,Medium,Nowshera,88,Finance expert
+ADC-161,Imran Ali,ADC General,Swabi,BPS-17,MPA,Admin,Revenue,13 Years,AC Swabi,85,0,88,Good,Medium,Swabi,87,Revenue governance expert
+ADC-162,Saad Khan,ADC Finance,Lakki Marwat,BPS-17,MBA,Budgeting,Rural Finance,14 Years,SO Finance,86,1,89,Strong,Medium,Lakki Marwat,88,Rural finance expert
+ADC-163,Bilal Khan,ADC General,Buner,BPS-17,MA Pol Science,Admin,Crisis Mgmt,15 Years,AC Buner,88,0,91,Strong,High,Buner,90,Crisis governance expert
+ADC-164,Adeel Khan,ADC Finance,Shangla,BPS-17,MBA,Budgeting,Mountain Finance,14 Years,SO Finance,87,1,90,Strong,High,Shangla,90,Mountain finance expert
+ADC-165,Zain Ali,ADC General,Upper Dir,BPS-17,MA Sociology,Admin,Rural Gov,15 Years,AC Dir,88,0,91,Strong,High,Upper Dir,90,Rural governance expert
+ADC-166,Hamza Ali,ADC Finance,Lower Dir,BPS-17,MBA,Budgeting,Revenue Control,13 Years,SO Finance,85,0,88,Good,Medium,Lower Dir,87,Revenue finance expert
+ADC-167,Saifullah Khan,ADC General,Haripur,BPS-17,MPA,Admin,Industrial Gov,12 Years,AC Haripur,86,0,89,Good,Medium,Haripur,88,Industrial governance expert
+ADC-168,Usman Khan,ADC Finance,Mansehra,BPS-17,MBA,Budgeting,Tourism Finance,14 Years,SO Finance,87,1,90,Strong,Medium,Mansehra,89,Tourism finance expert
+ADC-169,Shoaib Ali,ADC General,Torghar,BPS-17,MA Pol Science,Admin,Tribal Gov,13 Years,AC Torghar,85,0,88,Good,Medium,Torghar,87,Tribal governance expert
+ADC-170,Ahsan Ali,ADC Finance,Kolai Palas,BPS-17,MBA,Budgeting,Remote Finance,14 Years,SO Finance,86,0,89,Good,Medium,Kolai Palas,88,Remote finance expert
+ADC-171,Adil Khan,ADC General,Kohistan Lower,BPS-17,MPA,Admin,Mountain Gov,15 Years,AC Kohistan,88,1,91,Strong,High,Kohistan Lower,90,Mountain governance expert
+ADC-172,Faizan Khan,ADC Finance,Kohistan Upper,BPS-17,MBA,Budgeting,Dev Finance,15 Years,SO Finance,89,1,92,Strong,High,Kohistan Upper,91,Development finance expert
+ADC-173,Rehan Ali,ADC General,Tank,BPS-17,MA Sociology,Admin,Security,13 Years,AC Tank,86,1,89,Strong,High,Tank,88,Security governance expert
+ADC-174,Talha Khan,ADC Finance,Hangu,BPS-17,MBA,Budgeting,Crisis Finance,14 Years,SO Finance,87,1,90,Strong,High,Hangu,90,Crisis finance expert
+ADC-175,Shoaib Khan,ADC General,Orakzai,BPS-17,MA Pol Science,Admin,Tribal Gov,15 Years,AC Orakzai,89,1,92,Strong,Very High,Orakzai,92,Tribal governance expert
+ADC-176,Danish Ali,ADC Finance,Kurram,BPS-17,MBA,Budgeting,Security Finance,15 Years,SO Finance,90,1,93,Strong,Very High,Kurram,93,Security finance expert
+ADC-177,Aftab Khan,ADC General,North Waziristan,BPS-17,MPA,Admin,Crisis Mgmt,16 Years,AC NWA,91,1,94,Excellent,Very High,North Waziristan,95,High-risk governance expert
+ADC-178,Salman Ali,ADC Finance,South Waziristan,BPS-17,MBA,Budgeting,Crisis Finance,16 Years,SO Finance,91,1,94,Excellent,Very High,South Waziristan,95,High-risk finance expert
+ADC-179,Umar Khan,ADC General,Peshawar Rural,BPS-17,MA Sociology,Admin,Rural Gov,13 Years,AC Peshawar,86,0,89,Good,Medium,Peshawar Rural,88,Rural governance expert
+ADC-180,Zeeshan Ali,ADC Finance,Bajaur,BPS-17,MBA,Budgeting,Tribal Finance,14 Years,SO Finance,88,1,91,Strong,High,Bajaur,90,Tribal finance expert
+ADC-181,Adnan Khan,ADC General,Mohmand,BPS-17,MPA,Admin,Security,15 Years,AC Mohmand,89,1,92,Strong,High,Mohmand,91,Security governance expert
+ADC-182,Asif Ali,ADC Finance,Cantonment Peshawar,BPS-17,MBA,Budgeting,Urban Finance,12 Years,SO Finance,87,0,90,Strong,Medium,Peshawar Cantt,89,Urban finance expert
+ADC-183,Naveed Ali,ADC General,Swat Rural,BPS-17,MA Sociology,Admin,Rural Dev,13 Years,AC Swat,86,0,89,Good,Medium,Swat Rural,88,Rural governance expert
+ADC-184,Imran Shah,ADC Finance,Mardan Rural,BPS-17,MBA,Budgeting,Agriculture Finance,12 Years,SO Finance,85,0,88,Good,Medium,Mardan Rural,87,Agriculture finance expert
+ADC-185,Bilal Ali,ADC General,Abbottabad Rural,BPS-17,MA Pol Science,Admin,Tourism Dev,13 Years,AC Abbottabad,87,0,90,Strong,Medium,Abbottabad Rural,89,Tourism governance expert
+ADC-186,Saad Ali,ADC Finance,Nowshera Rural,BPS-17,MBA,Budgeting,Industrial Finance,12 Years,SO Finance,86,0,89,Good,Medium,Nowshera Rural,88,Industrial finance expert
+ADC-187,Waqas Ali,ADC General,Haripur Rural,BPS-17,MPA,Admin,Industrial Gov,13 Years,AC Haripur,88,0,91,Strong,High,Haripur Rural,90,Industrial governance expert
+ADC-188,Haroon Ali,ADC Finance,DI Khan Rural,BPS-17,MBA,Budgeting,Rural Finance,14 Years,SO Finance,89,1,92,Strong,High,DI Khan Rural,91,Rural finance expert
+ADC-189,Asad Ali,ADC General,Peshawar,BPS-17,MPA,Admin,Revenue Mgmt,14 Years,AC Peshawar,88,0,91,Strong,Medium,Peshawar,90,Administrative expert
+ADC-190,Shahbaz Ali,ADC Finance,Mardan,BPS-17,MBA,Budgeting,Fiscal Control,13 Years,SO Finance,86,0,89,Good,Medium,Mardan,88,Finance expert
+ADC-191,Naveed Ali,ADC General,Swat,BPS-17,MA Pol Science,Admin,Crisis Mgmt,15 Years,AC Swat,89,1,92,Strong,High,Swat,91,Crisis governance expert
+ADC-192,Rizwan Ali,ADC Finance,Abbottabad,BPS-17,MBA,Budgeting,Tourism Finance,14 Years,SO Finance,87,0,90,Strong,Medium,Abbottabad,89,Tourism finance expert
+ADC-193,Imran Ali,ADC General,Kohat,BPS-17,MPA,Admin,District Mgmt,13 Years,AC Kohat,85,0,88,Good,Medium,Kohat,87,District governance expert
+ADC-194,Bilal Ali,ADC Finance,Bannu,BPS-17,MBA,Budgeting,Rural Finance,14 Years,SO Finance,86,1,89,Strong,Medium,Bannu,88,Rural finance expert
+ADC-195,Saad Ali,ADC General,DI Khan,BPS-17,MA Sociology,Admin,Security,15 Years,AC DI Khan,88,1,91,Strong,High,DI Khan,91,Security governance expert
+ADC-196,Waqas Ali,ADC Finance,Malakand,BPS-17,MBA,Budgeting,Disaster Finance,14 Years,SO Finance,89,1,92,Strong,Very High,Malakand,93,Disaster finance expert
+ADC-197,Haroon Ali,ADC General,Charsadda,BPS-17,MA Economics,Admin,Local Gov,12 Years,AC Charsadda,84,0,87,Good,Medium,Charsadda,86,Local governance expert
+ADC-198,Asad Ali,ADC Finance,Nowshera,BPS-17,MBA,Budgeting,District Finance,13 Years,SO Finance,86,0,89,Good,Medium,Nowshera,88,Finance expert
+ADC-199,Shahbaz Ali,ADC General,Swabi,BPS-17,MPA,Admin,Revenue,13 Years,AC Swabi,85,0,88,Good,Medium,Swabi,87,Revenue governance expert
+ADC-200,Naveed Ali,ADC Finance,Lakki Marwat,BPS-17,MBA,Budgeting,Rural Finance,14 Years,SO Finance,87,1,90,Strong,Medium,Lakki Marwat,89,Rural finance expert
+,,,,,,,,,,,,,,,,,
+AC-001,Ali Raza Khan,Assistant Commissioner,Peshawar Saddar,BPS-17,MPA,Administration,Revenue Management,8 Years,Section Officer Revenue,86,0,90,Strong,Medium,Peshawar,89,Efficient field administration officer
+AC-002,Umar Farooq,Assistant Commissioner,Town Tehsil,BPS-17,MBA,Public Relations,Urban Governance,7 Years,AC Karak,84,1,87,Good,Medium,Peshawar,86,Strong urban management skills
+AC-003,Bilal Ahmad,Assistant Commissioner,Badaber Tehsil,BPS-17,MA Political Science,Crisis Handling,Security Coordination,9 Years,AC Lakki Marwat,88,0,91,Strong,High,Peshawar,91,Strong in crisis coordination
+AC-004,Hamza Ali,Assistant Commissioner,Mardan Tehsil,BPS-17,MPA,Revenue,Local Governance,8 Years,SO Establishment,85,0,89,Good,Medium,Mardan,88,Revenue governance specialist
+AC-005,Saad Khan,Assistant Commissioner,Takht Bhai,BPS-17,MBA Finance,Budgeting,Financial Monitoring,7 Years,AC Swabi,84,0,88,Good,Medium,Mardan,87,Strong financial oversight skills
+AC-006,Fahad Ali,Assistant Commissioner,Katlang,BPS-17,MA Sociology,Community Engagement,Rural Governance,9 Years,AC Bannu,87,1,90,Strong,High,Mardan,90,Effective rural governance officer
+AC-007,Naveed Khan,Assistant Commissioner,Mingora,BPS-17,MPA,Administration,Tourism Governance,10 Years,SO Tourism,89,0,92,Strong,High,Swat,92,Tourism and district management expert
+AC-008,Asad Ullah,Assistant Commissioner,Bahrain,BPS-17,MBA,Coordination,Disaster Response,8 Years,AC Dir Lower,86,1,89,Strong,High,Swat,89,Disaster response specialist
+AC-009,Danish Khan,Assistant Commissioner,Barikot,BPS-17,MA Economics,Revenue,Local Administration,7 Years,AC Charsadda,84,0,88,Good,Medium,Swat,87,Revenue administration expert
+AC-010,Salman Shah,Assistant Commissioner,Abbottabad Tehsil,BPS-17,MPA,Governance,Public Service Delivery,9 Years,SO Admin,88,0,91,Strong,Medium,Abbottabad,90,Strong governance profile
+AC-011,Rizwan Ali,Assistant Commissioner,Havelian,BPS-17,MBA,Urban Planning,Infrastructure Mgmt,8 Years,AC Haripur,86,0,89,Good,Medium,Abbottabad,88,Infrastructure management expert
+AC-012,Haris Khan,Assistant Commissioner,Lora,BPS-17,MA Political Science,Crisis Handling,Rural Affairs,7 Years,AC Battagram,85,1,88,Good,High,Abbottabad,87,Rural crisis management expert
+AC-013,Waqas Ahmad,Assistant Commissioner,Kohat Tehsil,BPS-17,MPA,Administration,Security Coordination,9 Years,AC Hangu,87,0,91,Strong,High,Kohat,90,Security administration specialist
+AC-014,Zubair Khan,Assistant Commissioner,Lachi,BPS-17,MBA,Monitoring,Finance & Audit,8 Years,SO Finance,85,0,89,Good,Medium,Kohat,88,Finance and audit specialist
+AC-015,Imran Shah,Assistant Commissioner,Gumbat,BPS-17,MA Sociology,Community Relations,Rural Development,7 Years,AC Tank,84,1,87,Good,Medium,Kohat,86,Rural development specialist
+AC-016,Shah Faisal,Assistant Commissioner,Bannu Tehsil,BPS-17,MPA,Administration,Law & Order,10 Years,AC DI Khan,89,0,92,Strong,High,Bannu,92,Law and order management expert
+AC-017,Adnan Ali,Assistant Commissioner,Domel,BPS-17,MBA,Budgeting,Revenue Monitoring,8 Years,SO Revenue,86,0,89,Good,Medium,Bannu,88,Revenue monitoring specialist
+AC-018,Farhan Khan,Assistant Commissioner,Bakka Khel,BPS-17,MA Economics,Coordination,Rural Governance,7 Years,AC Karak,84,0,88,Good,Medium,Bannu,87,Effective rural governance officer
+AC-019,Jawad Ali,Assistant Commissioner,DI Khan Tehsil,BPS-17,MPA,Administration,Security Affairs,9 Years,AC Tank,88,1,91,Strong,High,DI Khan,90,Strong security management profile
+AC-020,Yasir Shah,Assistant Commissioner,Paharpur,BPS-17,MBA,Coordination,Public Finance,8 Years,SO Finance,86,0,89,Good,Medium,DI Khan,88,Public finance specialist
+AC-021,Tariq Khan,Assistant Commissioner,Kulachi,BPS-17,MA Sociology,Public Relations,Rural Affairs,7 Years,AC Lakki,84,0,87,Good,Medium,DI Khan,86,Rural public administration expert
+AC-022,Sohail Ahmad,Assistant Commissioner,Charsadda Tehsil,BPS-17,MPA,Governance,Local Bodies Mgmt,9 Years,SO Local Govt,87,0,90,Strong,Medium,Charsadda,89,Local governance specialist
+AC-023,Tahir Ali,Assistant Commissioner,Tangi,BPS-17,MBA,Finance,Revenue Systems,8 Years,AC Mardan,85,1,88,Good,Medium,Charsadda,87,Revenue systems expert
+AC-024,Noman Khan,Assistant Commissioner,Shabqadar,BPS-17,MA Political Science,Administration,Crisis Coordination,9 Years,AC Mohmand,88,0,91,Strong,High,Charsadda,90,Crisis coordination specialist
+AC-025,Shahid Ali,Assistant Commissioner,Swabi Tehsil,BPS-17,MPA,Administration,Agriculture Governance,8 Years,SO Agriculture,86,0,89,Good,Medium,Swabi,88,Agriculture governance expert
+AC-026,Iftikhar Khan,Assistant Commissioner,Topi,BPS-17,MBA,Budgeting,Project Monitoring,7 Years,AC Haripur,84,0,88,Good,Medium,Swabi,87,Project monitoring specialist
+AC-027,Faheem Shah,Assistant Commissioner,Lahor Tehsil,BPS-17,MA Economics,Coordination,Rural Development,8 Years,AC Buner,86,1,89,Strong,Medium,Swabi,88,Rural development expert
+AC-028,Aamir Khan,Assistant Commissioner,Haripur Tehsil,BPS-17,MPA,Administration,Industrial Governance,10 Years,SO Industries,89,0,92,Strong,High,Haripur,92,Industrial governance specialist
+AC-029,Owais Ali,Assistant Commissioner,Ghazi,BPS-17,MBA,Finance,Infrastructure Mgmt,8 Years,AC Abbottabad,86,0,89,Good,Medium,Haripur,88,Infrastructure specialist
+AC-030,Sami Ullah,Assistant Commissioner,Khanpur,BPS-17,MA Sociology,Community Engagement,Public Welfare,7 Years,AC Swabi,84,1,87,Good,Medium,Haripur,86,Welfare administration expert
+AC-031,Kashif Khan,Assistant Commissioner,Mansehra Tehsil,BPS-17,MPA,Governance,Tourism Management,9 Years,SO Tourism,88,0,91,Strong,High,Mansehra,90,Tourism governance specialist
+AC-032,Junaid Ali,Assistant Commissioner,Balakot,BPS-17,MBA,Budgeting,Disaster Management,8 Years,AC Shangla,86,1,89,Strong,High,Mansehra,89,Disaster management specialist
+AC-033,Shahbaz Khan,Assistant Commissioner,Oghi,BPS-17,MA Political Science,Coordination,Rural Affairs,7 Years,AC Battagram,84,0,88,Good,Medium,Mansehra,87,Rural administration expert
+AC-034,Rehman Ali,Assistant Commissioner,Nowshera Tehsil,BPS-17,MPA,Administration,Security Coordination,9 Years,AC Peshawar,87,0,90,Strong,High,Nowshera,89,Security governance specialist
+AC-035,Bilawal Khan,Assistant Commissioner,Jehangira,BPS-17,MBA,Finance,Revenue Systems,8 Years,SO Revenue,85,0,88,Good,Medium,Nowshera,87,Revenue systems specialist
+AC-036,Ahsan Ali,Assistant Commissioner,Pabbi,BPS-17,MA Sociology,Public Relations,Community Governance,7 Years,AC Charsadda,84,1,87,Good,Medium,Nowshera,86,Community governance expert
+AC-037,Shayan Khan,Assistant Commissioner,Lower Dir Tehsil,BPS-17,MPA,Administration,Rural Governance,8 Years,AC Upper Dir,86,0,89,Good,Medium,Lower Dir,88,Rural governance specialist
+AC-038,Huzaifa Ali,Assistant Commissioner,Timergara,BPS-17,MBA,Budgeting,Public Finance,8 Years,SO Finance,85,0,88,Good,Medium,Lower Dir,87,Public finance expert
+AC-039,Jawed Khan,Assistant Commissioner,Samar Bagh,BPS-17,MA Political Science,Crisis Handling,Security Affairs,9 Years,AC Bajaur,88,1,91,Strong,High,Lower Dir,90,Security coordination specialist
+AC-040,Shahmeer Ali,Assistant Commissioner,Upper Dir Tehsil,BPS-17,MPA,Governance,Border Administration,9 Years,AC Chitral,88,0,91,Strong,High,Upper Dir,90,Border governance expert
+AC-041,Daniyal Khan,Assistant Commissioner,Wari,BPS-17,MBA,Finance,Audit & Monitoring,7 Years,SO Finance,84,0,87,Good,Medium,Upper Dir,86,Audit specialist
+AC-042,Tayyab Shah,Assistant Commissioner,Sheringal,BPS-17,MA Sociology,Coordination,Rural Welfare,8 Years,AC Swat,86,1,89,Good,Medium,Upper Dir,88,Rural welfare expert
+AC-043,Adil Khan,Assistant Commissioner,Buner Tehsil,BPS-17,MPA,Administration,Local Governance,8 Years,AC Shangla,86,0,89,Good,Medium,Buner,88,Local governance specialist
+AC-044,Sameer Ali,Assistant Commissioner,Daggar,BPS-17,MBA,Monitoring,Revenue Administration,7 Years,SO Revenue,84,0,88,Good,Medium,Buner,87,Revenue administration expert
+AC-045,Faisal Shah,Assistant Commissioner,Gagra,BPS-17,MA Political Science,Crisis Mgmt,Community Affairs,9 Years,AC Swabi,88,1,91,Strong,High,Buner,90,Crisis governance expert
+AC-046,Irfan Khan,Assistant Commissioner,Shangla Tehsil,BPS-17,MPA,Governance,Mountain Administration,8 Years,AC Kohistan,86,0,89,Good,High,Shangla,88,Mountain governance specialist
+AC-047,Zain Ali,Assistant Commissioner,Alpuri,BPS-17,MBA,Finance,Infrastructure Planning,7 Years,SO Planning,84,0,87,Good,Medium,Shangla,86,Infrastructure planning expert
+AC-048,Abdul Rafay,Assistant Commissioner,Puran,BPS-17,MA Sociology,Community Relations,Rural Governance,8 Years,AC Buner,86,1,89,Good,Medium,Shangla,88,Rural governance specialist
+AC-049,Hammad Khan,Assistant Commissioner,Karak Tehsil,BPS-17,MPA,Administration,Energy Governance,9 Years,AC Kohat,87,0,90,Strong,Medium,Karak,89,Energy governance specialist
+AC-050,Talha Ali,Assistant Commissioner,Takht-e-Nasrati,BPS-17,MBA,Budgeting,Public Sector Finance,8 Years,SO Finance,85,0,88,Good,Medium,Karak,87,Public finance specialist
+AC-051,Arslan Khan,Assistant Commissioner,Lakki Marwat Tehsil,BPS-17,MPA,Administration,Rural Governance,8 Years,AC Bannu,86,0,89,Strong,Medium,Lakki Marwat,88,Rural governance specialist
+AC-052,Jibran Ali,Assistant Commissioner,Serai Naurang,BPS-17,MBA,Finance,Budget Monitoring,7 Years,SO Finance,84,0,87,Good,Medium,Lakki Marwat,86,Budget monitoring expert
+AC-053,Danish Shah,Assistant Commissioner,Bettani,BPS-17,MA Political Science,Coordination,Security Affairs,9 Years,AC Tank,88,1,91,Strong,High,Lakki Marwat,90,Security coordination specialist
+AC-054,Hamid Khan,Assistant Commissioner,Hangu Tehsil,BPS-17,MPA,Administration,Law & Order,8 Years,AC Kohat,86,0,89,Strong,High,Hangu,88,Law and order specialist
+AC-055,Faizan Ali,Assistant Commissioner,Tall,BPS-17,MBA,Public Finance,Audit Systems,7 Years,SO Audit,84,0,87,Good,Medium,Hangu,86,Audit systems specialist
+AC-056,Omer Shah,Assistant Commissioner,Doaba,BPS-17,MA Sociology,Community Engagement,Tribal Affairs,8 Years,AC Kurram,86,1,89,Good,High,Hangu,88,Tribal affairs specialist
+AC-057,Sheryar Khan,Assistant Commissioner,Tank Tehsil,BPS-17,MPA,Administration,Security Governance,9 Years,AC DI Khan,88,0,91,Strong,High,Tank,90,Security governance expert
+AC-058,Basit Ali,Assistant Commissioner,Jandola,BPS-17,MBA,Budgeting,Rural Finance,7 Years,SO Finance,84,0,87,Good,Medium,Tank,86,Rural finance expert
+AC-059,Rehan Shah,Assistant Commissioner,Gul Imam,BPS-17,MA Political Science,Crisis Handling,Border Coordination,8 Years,AC South Waziristan,87,1,90,Strong,High,Tank,89,Border coordination specialist
+AC-060,Haseeb Khan,Assistant Commissioner,Battagram Tehsil,BPS-17,MPA,Administration,Mountain Governance,8 Years,AC Shangla,86,0,89,Good,High,Battagram,88,Mountain governance specialist
+AC-061,Zaryab Ali,Assistant Commissioner,Allai,BPS-17,MBA,Finance,Infrastructure Monitoring,7 Years,SO Planning,84,0,87,Good,Medium,Battagram,86,Infrastructure monitoring expert
+AC-062,Muneeb Shah,Assistant Commissioner,Thakot,BPS-17,MA Sociology,Community Relations,Rural Development,8 Years,AC Kohistan,86,1,89,Good,Medium,Battagram,88,Rural development specialist
+AC-063,Shahzaib Khan,Assistant Commissioner,Torghar Tehsil,BPS-17,MPA,Administration,Tribal Governance,9 Years,AC Mansehra,88,0,91,Strong,High,Torghar,90,Tribal governance specialist
+AC-064,Asfandyar Ali,Assistant Commissioner,Judba,BPS-17,MBA,Budgeting,Public Sector Finance,7 Years,SO Finance,84,0,87,Good,Medium,Torghar,86,Public finance specialist
+AC-065,Talal Shah,Assistant Commissioner,Khander,BPS-17,MA Political Science,Crisis Mgmt,Community Governance,8 Years,AC Buner,87,1,90,Strong,High,Torghar,89,Crisis governance expert
+AC-066,Awais Khan,Assistant Commissioner,Kolai Palas Tehsil,BPS-17,MPA,Administration,Remote Governance,8 Years,AC Kohistan,86,0,89,Good,High,Kolai Palas,88,Remote governance specialist
+AC-067,Salman Ali,Assistant Commissioner,Pattan,BPS-17,MBA,Monitoring,Revenue Systems,7 Years,SO Revenue,84,0,87,Good,Medium,Kolai Palas,86,Revenue systems expert
+AC-068,Huzaifa Shah,Assistant Commissioner,Kandia,BPS-17,MA Sociology,Community Affairs,Rural Coordination,8 Years,AC Battagram,86,1,89,Good,Medium,Kolai Palas,88,Rural coordination specialist
+AC-069,Faraz Khan,Assistant Commissioner,Lower Kohistan,BPS-17,MPA,Administration,Hydropower Governance,9 Years,SO Energy,88,0,91,Strong,High,Lower Kohistan,90,Hydropower governance specialist
+AC-070,Taimoor Ali,Assistant Commissioner,Dassu,BPS-17,MBA,Budgeting,Mega Project Monitoring,8 Years,SO Planning,86,0,89,Strong,High,Lower Kohistan,88,Mega project specialist
+AC-071,Yousaf Shah,Assistant Commissioner,Seo,BPS-17,MA Political Science,Crisis Handling,Mountain Affairs,8 Years,AC Shangla,87,1,90,Strong,High,Lower Kohistan,89,Mountain affairs expert
+AC-072,Haroon Khan,Assistant Commissioner,Upper Kohistan,BPS-17,MPA,Administration,Border Coordination,9 Years,AC Chitral,88,0,91,Strong,High,Upper Kohistan,90,Border coordination specialist
+AC-073,Jawad Ali,Assistant Commissioner,Kandia Valley,BPS-17,MBA,Public Finance,Audit Monitoring,7 Years,SO Audit,84,0,87,Good,Medium,Upper Kohistan,86,Audit monitoring expert
+AC-074,Saifullah Shah,Assistant Commissioner,Harban,BPS-17,MA Sociology,Community Governance,Rural Welfare,8 Years,AC Dir Upper,86,1,89,Good,Medium,Upper Kohistan,88,Rural welfare specialist
+AC-075,Bilal Khan,Assistant Commissioner,Bajaur Tehsil,BPS-17,MPA,Administration,Tribal Affairs,9 Years,AC Mohmand,88,0,91,Strong,High,Bajaur,90,Tribal affairs specialist
+AC-076,Hamza Ali,Assistant Commissioner,Khar,BPS-17,MBA,Budgeting,Border Finance,7 Years,SO Finance,84,0,87,Good,Medium,Bajaur,86,Border finance expert
+AC-077,Asad Shah,Assistant Commissioner,Nawagai,BPS-17,MA Political Science,Crisis Coordination,Security Affairs,8 Years,AC Khyber,87,1,90,Strong,High,Bajaur,89,Security coordination expert
+AC-078,Rizwan Khan,Assistant Commissioner,Mohmand Tehsil,BPS-17,MPA,Administration,Border Governance,8 Years,AC Bajaur,86,0,89,Strong,High,Mohmand,88,Border governance specialist
+AC-079,Daniyal Ali,Assistant Commissioner,Ghalanai,BPS-17,MBA,Monitoring,Revenue Administration,7 Years,SO Revenue,84,0,87,Good,Medium,Mohmand,86,Revenue administration expert
+AC-080,Fahad Shah,Assistant Commissioner,Safi,BPS-17,MA Sociology,Community Relations,Tribal Coordination,8 Years,AC Kurram,86,1,89,Good,High,Mohmand,88,Tribal coordination specialist
+AC-081,Tayyab Khan,Assistant Commissioner,Kurram Tehsil,BPS-17,MPA,Administration,Peace Coordination,9 Years,AC Hangu,88,0,91,Strong,High,Kurram,90,Peace coordination specialist
+AC-082,Abdul Hanan,Assistant Commissioner,Parachinar,BPS-17,MBA,Finance,Emergency Funds Mgmt,7 Years,SO Finance,84,0,87,Good,Medium,Kurram,86,Emergency finance specialist
+AC-083,Zain Shah,Assistant Commissioner,Sadda,BPS-17,MA Political Science,Crisis Handling,Security Coordination,8 Years,AC Orakzai,87,1,90,Strong,High,Kurram,89,Security coordination specialist
+AC-084,Mustafa Khan,Assistant Commissioner,Orakzai Tehsil,BPS-17,MPA,Administration,Tribal Governance,8 Years,AC Kurram,86,0,89,Good,High,Orakzai,88,Tribal governance specialist
+AC-085,Abdullah Ali,Assistant Commissioner,Kalaya,BPS-17,MBA,Budgeting,Rural Finance,7 Years,SO Finance,84,0,87,Good,Medium,Orakzai,86,Rural finance specialist
+AC-086,Hamdan Shah,Assistant Commissioner,Ghiljo,BPS-17,MA Sociology,Community Affairs,Peace Building,8 Years,AC Kohat,86,1,89,Good,High,Orakzai,88,Peace building specialist
+AC-087,Ibrahim Khan,Assistant Commissioner,North Waziristan,BPS-17,MPA,Administration,Security Governance,10 Years,AC South Waziristan,89,0,92,Strong,Very High,North Waziristan,92,High-risk governance expert
+AC-088,Usaid Ali,Assistant Commissioner,Miranshah,BPS-17,MBA,Monitoring,Security Finance,8 Years,SO Home,86,0,89,Strong,High,North Waziristan,88,Security finance specialist
+AC-089,Ehtesham Shah,Assistant Commissioner,Razmak,BPS-17,MA Political Science,Crisis Mgmt,Border Affairs,9 Years,AC Kurram,88,1,91,Strong,Very High,North Waziristan,90,Border affairs specialist
+AC-090,Adeel Khan,Assistant Commissioner,South Waziristan,BPS-17,MPA,Administration,Peace Governance,10 Years,AC Tank,89,0,92,Strong,Very High,South Waziristan,92,Peace governance specialist
+AC-091,Sameer Ali,Assistant Commissioner,Wana,BPS-17,MBA,Finance,Emergency Budgeting,8 Years,SO Finance,86,0,89,Good,High,South Waziristan,88,Emergency budgeting specialist
+AC-092,Talha Shah,Assistant Commissioner,Ladha,BPS-17,MA Sociology,Community Engagement,Tribal Affairs,9 Years,AC DI Khan,88,1,91,Strong,High,South Waziristan,90,Tribal affairs expert
+AC-093,Hanzala Khan,Assistant Commissioner,Karak City,BPS-17,MPA,Administration,Energy Sector Mgmt,8 Years,SO Energy,86,0,89,Good,Medium,Karak,88,Energy sector specialist
+AC-094,Naveed Ali,Assistant Commissioner,Banda Daud Shah,BPS-17,MBA,Budgeting,Public Sector Audit,7 Years,SO Audit,84,0,87,Good,Medium,Karak,86,Public audit specialist
+AC-095,Uzair Shah,Assistant Commissioner,Chitral Lower,BPS-17,MA Political Science,Crisis Coordination,Tourism Governance,9 Years,AC Swat,88,1,91,Strong,High,Lower Chitral,90,Tourism governance specialist
+AC-096,Shahmeer Khan,Assistant Commissioner,Drosh,BPS-17,MBA,Infrastructure Planning,Mountain Projects,8 Years,SO Planning,86,0,89,Strong,High,Lower Chitral,88,Mountain projects specialist
+AC-097,Ammar Ali,Assistant Commissioner,Chitral Upper,BPS-17,MPA,Administration,Border Governance,9 Years,AC Upper Dir,88,0,91,Strong,High,Upper Chitral,90,Border governance expert
+AC-098,Shuja Shah,Assistant Commissioner,Mastuj,BPS-17,MBA,Finance,Remote Area Development,8 Years,SO Finance,86,1,89,Good,High,Upper Chitral,88,Remote development specialist
+AC-099,Farhan Khan,Assistant Commissioner,Yarkhun,BPS-17,MA Sociology,Community Relations,Rural Welfare,8 Years,AC Gilgit Border,86,0,89,Good,Medium,Upper Chitral,88,Rural welfare specialist
+AC-100,Raza Ali,Assistant Commissioner,Peshawar Rural,BPS-17,MPA,Administration,Smart Governance,9 Years,SO IT Board,88,0,91,Strong,Medium,Peshawar,90,Smart governance specialist
+AC-101,Ahsan Khan,Assistant Commissioner,Peshawar City,BPS-17,MPA,Administration,Urban Governance,9 Years,SO Local Govt,88,0,91,Strong,Medium,Peshawar,90,Urban governance specialist
+AC-102,Hamza Shah,Assistant Commissioner,University Town,BPS-17,MBA,Coordination,Education Administration,8 Years,AC Mardan,86,0,89,Good,Medium,Peshawar,88,Education administration expert
+AC-103,Ibrahim Ali,Assistant Commissioner,Hayatabad,BPS-17,MA Political Science,Crisis Mgmt,Smart City Operations,9 Years,SO IT Board,88,1,91,Strong,High,Peshawar,90,Smart city governance expert
+AC-104,Salman Khan,Assistant Commissioner,Mardan City,BPS-17,MPA,Administration,Revenue Systems,8 Years,AC Swabi,86,0,89,Good,Medium,Mardan,88,Revenue systems specialist
+AC-105,Adnan Shah,Assistant Commissioner,Rustam,BPS-17,MBA,Monitoring,Agriculture Coordination,7 Years,SO Agriculture,84,0,87,Good,Medium,Mardan,86,Agriculture coordination expert
+AC-106,Fahim Ali,Assistant Commissioner,Garhi Kapura,BPS-17,MA Sociology,Community Affairs,Rural Governance,8 Years,AC Charsadda,86,1,89,Good,Medium,Mardan,88,Rural governance specialist
+AC-107,Rizwan Khan,Assistant Commissioner,Swat City,BPS-17,MPA,Administration,Tourism Governance,10 Years,SO Tourism,89,0,92,Strong,High,Swat,92,Tourism governance expert
+AC-108,Shahbaz Ali,Assistant Commissioner,Matta,BPS-17,MBA,Budgeting,Disaster Coordination,8 Years,AC Shangla,86,0,89,Strong,High,Swat,88,Disaster coordination specialist
+AC-109,Jawad Shah,Assistant Commissioner,Khwazakhela,BPS-17,MA Political Science,Security Coordination,Border Affairs,9 Years,AC Dir Upper,88,1,91,Strong,High,Swat,90,Border affairs specialist
+AC-110,Talha Khan,Assistant Commissioner,Abbottabad City,BPS-17,MPA,Administration,Public Service Delivery,8 Years,SO Admin,86,0,89,Good,Medium,Abbottabad,88,Public service specialist
+AC-111,Mustafa Ali,Assistant Commissioner,Nathia Gali,BPS-17,MBA,Infrastructure Mgmt,Tourism Infrastructure,8 Years,SO C&W,86,0,89,Good,Medium,Abbottabad,88,Tourism infrastructure expert
+AC-112,Bilal Shah,Assistant Commissioner,Bakote,BPS-17,MA Sociology,Community Governance,Rural Development,7 Years,AC Haripur,84,1,87,Good,Medium,Abbottabad,86,Rural development specialist
+AC-113,Hammad Khan,Assistant Commissioner,Kohat City,BPS-17,MPA,Administration,Law & Order,9 Years,AC Hangu,88,0,91,Strong,High,Kohat,90,Law and order specialist
+AC-114,Samiullah Ali,Assistant Commissioner,Jangal Khel,BPS-17,MBA,Monitoring,Public Finance,8 Years,SO Finance,86,0,89,Good,Medium,Kohat,88,Public finance specialist
+AC-115,Daniyal Shah,Assistant Commissioner,Shakardara,BPS-17,MA Political Science,Crisis Mgmt,Rural Affairs,8 Years,AC Karak,87,1,90,Strong,High,Kohat,89,Rural affairs specialist
+AC-116,Yasir Khan,Assistant Commissioner,Bannu City,BPS-17,MPA,Administration,Security Governance,10 Years,AC Tank,89,0,92,Strong,High,Bannu,92,Security governance expert
+AC-117,Abdul Rehman,Assistant Commissioner,Kakki,BPS-17,MBA,Budgeting,Revenue Administration,7 Years,SO Revenue,84,0,87,Good,Medium,Bannu,86,Revenue administration specialist
+AC-118,Imad Ali,Assistant Commissioner,Miryan,BPS-17,MA Sociology,Community Coordination,Public Welfare,8 Years,AC Lakki,86,1,89,Good,Medium,Bannu,88,Public welfare specialist
+AC-119,Shayan Khan,Assistant Commissioner,DI Khan City,BPS-17,MPA,Administration,Border Governance,9 Years,AC Tank,88,0,91,Strong,High,DI Khan,90,Border governance expert
+AC-120,Faraz Ali,Assistant Commissioner,Daraban,BPS-17,MBA,Monitoring,Public Projects,8 Years,SO Planning,86,0,89,Good,Medium,DI Khan,88,Public projects specialist
+AC-121,Usama Shah,Assistant Commissioner,Paroa,BPS-17,MA Political Science,Security Coordination,Tribal Affairs,8 Years,AC South Waziristan,87,1,90,Strong,High,DI Khan,89,Tribal affairs specialist
+AC-122,Nabeel Khan,Assistant Commissioner,Charsadda City,BPS-17,MPA,Administration,Local Governance,8 Years,SO Local Govt,86,0,89,Good,Medium,Charsadda,88,Local governance specialist
+AC-123,Muneeb Ali,Assistant Commissioner,Rajjar,BPS-17,MBA,Budgeting,Agriculture Finance,7 Years,SO Agriculture,84,0,87,Good,Medium,Charsadda,86,Agriculture finance specialist
+AC-124,Shahzaib Shah,Assistant Commissioner,Utmanzai,BPS-17,MA Sociology,Community Relations,Rural Governance,8 Years,AC Swabi,86,1,89,Good,Medium,Charsadda,88,Rural governance expert
+AC-125,Adeel Khan,Assistant Commissioner,Swabi City,BPS-17,MPA,Administration,Industrial Governance,9 Years,SO Industries,88,0,91,Strong,Medium,Swabi,90,Industrial governance specialist
+AC-126,Ubaid Ali,Assistant Commissioner,Razar,BPS-17,MBA,Monitoring,Public Finance,7 Years,SO Finance,84,0,87,Good,Medium,Swabi,86,Public finance specialist
+AC-127,Haroon Shah,Assistant Commissioner,Chota Lahor,BPS-17,MA Political Science,Crisis Handling,Rural Affairs,8 Years,AC Buner,87,1,90,Strong,High,Swabi,89,Rural affairs specialist
+AC-128,Ammar Khan,Assistant Commissioner,Haripur City,BPS-17,MPA,Administration,Industrial Projects,9 Years,SO Industries,88,0,91,Strong,Medium,Haripur,90,Industrial projects expert
+AC-129,Hassan Ali,Assistant Commissioner,Khalabat,BPS-17,MBA,Infrastructure Mgmt,Urban Planning,8 Years,SO C&W,86,0,89,Good,Medium,Haripur,88,Urban planning specialist
+AC-130,Taha Shah,Assistant Commissioner,Sirikot,BPS-17,MA Sociology,Community Affairs,Public Welfare,7 Years,AC Abbottabad,84,1,87,Good,Medium,Haripur,86,Public welfare expert
+AC-131,Sameer Khan,Assistant Commissioner,Mansehra City,BPS-17,MPA,Administration,Tourism Governance,9 Years,SO Tourism,88,0,91,Strong,High,Mansehra,90,Tourism governance expert
+AC-132,Arham Ali,Assistant Commissioner,Baffa,BPS-17,MBA,Budgeting,Infrastructure Projects,8 Years,SO Planning,86,0,89,Good,Medium,Mansehra,88,Infrastructure projects specialist
+AC-133,Zubair Shah,Assistant Commissioner,Darband,BPS-17,MA Political Science,Security Affairs,Border Coordination,8 Years,AC Torghar,87,1,90,Strong,High,Mansehra,89,Border coordination specialist
+AC-134,Huzaifa Khan,Assistant Commissioner,Nowshera City,BPS-17,MPA,Administration,Smart Governance,9 Years,SO IT Board,88,0,91,Strong,Medium,Nowshera,90,Smart governance expert
+AC-135,Sufyan Ali,Assistant Commissioner,Akora Khattak,BPS-17,MBA,Monitoring,Public Administration,7 Years,SO Admin,84,0,87,Good,Medium,Nowshera,86,Public administration specialist
+AC-136,Waleed Shah,Assistant Commissioner,Misri Banda,BPS-17,MA Sociology,Community Relations,Urban Affairs,8 Years,AC Peshawar,86,1,89,Good,Medium,Nowshera,88,Urban affairs specialist
+AC-137,Rayyan Khan,Assistant Commissioner,Lower Dir City,BPS-17,MPA,Administration,Rural Governance,8 Years,AC Upper Dir,86,0,89,Good,Medium,Lower Dir,88,Rural governance expert
+AC-138,Fahad Ali,Assistant Commissioner,Adenzai,BPS-17,MBA,Finance,Audit Systems,7 Years,SO Audit,84,0,87,Good,Medium,Lower Dir,86,Audit systems specialist
+AC-139,Danish Shah,Assistant Commissioner,Lal Qila,BPS-17,MA Political Science,Crisis Mgmt,Security Coordination,8 Years,AC Bajaur,87,1,90,Strong,High,Lower Dir,89,Security coordination specialist
+AC-140,Irfan Khan,Assistant Commissioner,Upper Dir City,BPS-17,MPA,Administration,Border Governance,9 Years,AC Chitral,88,0,91,Strong,High,Upper Dir,90,Border governance expert
+AC-141,Shahmeer Ali,Assistant Commissioner,Barawal,BPS-17,MBA,Monitoring,Public Finance,7 Years,SO Finance,84,0,87,Good,Medium,Upper Dir,86,Public finance specialist
+AC-142,Taimoor Shah,Assistant Commissioner,Kalkot,BPS-17,MA Sociology,Community Affairs,Rural Welfare,8 Years,AC Swat,86,1,89,Good,Medium,Upper Dir,88,Rural welfare expert
+AC-143,Owais Khan,Assistant Commissioner,Buner City,BPS-17,MPA,Administration,Local Governance,8 Years,AC Shangla,86,0,89,Good,Medium,Buner,88,Local governance specialist
+AC-144,Affan Ali,Assistant Commissioner,Chamla,BPS-17,MBA,Budgeting,Revenue Systems,7 Years,SO Revenue,84,0,87,Good,Medium,Buner,86,Revenue systems expert
+AC-145,Junaid Shah,Assistant Commissioner,Totalai,BPS-17,MA Political Science,Crisis Coordination,Community Affairs,8 Years,AC Swabi,87,1,90,Strong,High,Buner,89,Community affairs specialist
+AC-146,Kashif Khan,Assistant Commissioner,Shangla City,BPS-17,MPA,Administration,Mountain Governance,8 Years,AC Kohistan,86,0,89,Good,High,Shangla,88,Mountain governance specialist
+AC-147,Haseeb Ali,Assistant Commissioner,Bisham,BPS-17,MBA,Infrastructure Planning,Rural Connectivity,7 Years,SO C&W,84,0,87,Good,Medium,Shangla,86,Rural connectivity specialist
+AC-148,Talha Shah,Assistant Commissioner,Chakesar,BPS-17,MA Sociology,Community Relations,Rural Development,8 Years,AC Battagram,86,1,89,Good,Medium,Shangla,88,Rural development specialist
+AC-149,Ayan Khan,Assistant Commissioner,Karak City-II,BPS-17,MPA,Administration,Energy Governance,9 Years,SO Energy,88,0,91,Strong,Medium,Karak,90,Energy governance specialist
+AC-150,Burhan Ali,Assistant Commissioner,Sabirabad,BPS-17,MBA,Budgeting,Public Finance,7 Years,SO Finance,84,0,87,Good,Medium,Karak,86,Public finance specialist
+,,,,,,,,,,,,,,,,,
+SO-001,Ali Raza,Section Officer,Finance Department,BPS-17,MPA,Budgeting,Public Finance,7 Years,SO Planning,86,0,89,Good,Medium,Peshawar,88,Finance policy support officer
+SO-002,Usman Khan,Section Officer,Finance Department,BPS-17,MBA,Audit,Expenditure Control,6 Years,SO Revenue,84,0,87,Good,Medium,Peshawar,86,Budget monitoring specialist
+SO-003,Hamza Ali,Section Officer,Planning & Development,BPS-17,MPA,Planning,Project Management,8 Years,SO C&W,88,0,91,Strong,High,Peshawar,90,Development planning officer
+SO-004,Bilal Shah,Section Officer,Planning & Development,BPS-17,MA Economics,Analysis,Policy Evaluation,7 Years,SO Finance,86,0,89,Good,Medium,Peshawar,88,Policy evaluation specialist
+SO-005,Saad Khan,Section Officer,Health Department,BPS-17,MPH,Administration,Health Systems,8 Years,SO Admin,88,0,91,Strong,High,Peshawar,90,Health administration officer
+SO-006,Fahad Ali,Section Officer,Health Department,BPS-17,MBA,Coordination,Hospital Management,6 Years,SO Local Govt,84,0,87,Good,Medium,Peshawar,86,Hospital management support
+SO-007,Imran Shah,Section Officer,Education Department,BPS-17,MEd,Policy,School Management,8 Years,SO Schools,88,0,91,Strong,Medium,Peshawar,89,Education policy officer
+SO-008,Rizwan Khan,Section Officer,Education Department,BPS-17,MA Education,Administration,Curriculum Affairs,7 Years,SO Colleges,86,0,89,Good,Medium,Peshawar,88,Curriculum management officer
+SO-009,Adnan Ali,Section Officer,Home & Tribal Affairs,BPS-17,MPA,Coordination,Security Affairs,9 Years,SO Law,89,0,92,Strong,High,Peshawar,91,Security coordination officer
+SO-010,Ahsan Shah,Section Officer,Home & Tribal Affairs,BPS-17,MA Political Science,Crisis Mgmt,Law & Order,8 Years,SO Admin,88,1,90,Strong,High,Peshawar,90,Law & order coordination
+SO-011,Zubair Khan,Section Officer,Revenue Department,BPS-17,MBA,Revenue,Tax Administration,7 Years,SO Finance,86,0,89,Good,Medium,Peshawar,88,Revenue management officer
+SO-012,Hammad Ali,Section Officer,Revenue Department,BPS-17,MPA,Administration,Land Revenue,8 Years,SO DC Office,88,0,91,Strong,Medium,Peshawar,90,Land revenue specialist
+SO-013,Danish Shah,Section Officer,C&W Department,BPS-17,BSc Civil,Engineering,Infrastructure,8 Years,SO Planning,88,0,91,Strong,High,Peshawar,90,Infrastructure coordination officer
+SO-014,Salman Khan,Section Officer,C&W Department,BPS-17,MBA,Project Mgmt,Road Development,7 Years,SO Works,86,0,89,Good,Medium,Peshawar,88,Road project specialist
+SO-015,Farhan Ali,Section Officer,Local Government,BPS-17,MPA,Governance,Municipal Affairs,8 Years,SO Admin,88,0,91,Strong,Medium,Peshawar,90,Local governance officer
+SO-016,Shahzaib Khan,Section Officer,Local Government,BPS-17,MA Public Admin,Coordination,Urban Services,7 Years,SO DC Office,86,0,89,Good,Medium,Peshawar,88,Urban services officer
+SO-017,Usama Ali,Section Officer,Agriculture Department,BPS-17,MSc Agriculture,Technical,Crop Management,8 Years,SO Planning,88,0,91,Strong,Medium,Peshawar,89,Agriculture policy officer
+SO-018,Bilal Khan,Section Officer,Agriculture Department,BPS-17,MBA,Monitoring,Food Security,7 Years,SO Finance,86,0,89,Good,Medium,Peshawar,88,Food security analyst
+SO-019,Hamdan Shah,Section Officer,Energy & Power,BPS-17,MSc Energy,Technical,Power Projects,8 Years,SO C&W,88,0,91,Strong,High,Peshawar,90,Energy project officer
+SO-020,Rehan Ali,Section Officer,Energy & Power,BPS-17,MBA,Planning,Energy Policy,7 Years,SO Planning,86,0,89,Good,Medium,Peshawar,88,Energy policy analyst
+SO-021,Awais Khan,Section Officer,Law Department,BPS-17,LLB,Legal,Policy Drafting,8 Years,SO Home,88,0,91,Strong,Medium,Peshawar,90,Legal drafting officer
+SO-022,Haseeb Ali,Section Officer,Law Department,BPS-17,LLM,Legal,Litigation Affairs,9 Years,SO Courts,89,0,92,Strong,High,Peshawar,91,Litigation expert
+SO-023,Taimoor Shah,Section Officer,IT Board,BPS-17,BS CS,IT,Systems Management,7 Years,SO Admin,86,0,89,Good,Medium,Peshawar,88,IT governance officer
+SO-024,Saifullah Khan,Section Officer,IT Board,BPS-17,MSc IT,Systems,Digital Governance,8 Years,SO Planning,88,0,91,Strong,High,Peshawar,90,Digital systems officer
+SO-025,Daniyal Ali,Section Officer,Excise & Taxation,BPS-17,MBA,Taxation,Revenue Systems,7 Years,SO Revenue,86,0,89,Good,Medium,Peshawar,88,Tax administration officer
+SO-026,Zain Shah,Section Officer,Excise & Taxation,BPS-17,MPA,Administration,Compliance,8 Years,SO DC Office,88,0,91,Strong,Medium,Peshawar,90,Compliance officer
+SO-027,Arslan Khan,Section Officer,Tourism Department,BPS-17,MBA,Management,Tourism Policy,7 Years,SO Planning,86,0,89,Good,Medium,Peshawar,88,Tourism development officer
+SO-028,Faizan Ali,Section Officer,Tourism Department,BPS-17,MA Tourism,Coordination,Cultural Affairs,8 Years,SO Culture,88,0,91,Strong,Medium,Peshawar,90,Tourism coordination officer
+SO-029,Imad Shah,Section Officer,Sports & Youth Affairs,BPS-17,MBA,Administration,Youth Programs,7 Years,SO Local Govt,86,0,89,Good,Medium,Peshawar,88,Youth development officer
+SO-030,Abdul Hanan,Section Officer,Sports & Youth Affairs,BPS-17,MA Sociology,Coordination,Community Programs,8 Years,SO Admin,88,0,91,Strong,Medium,Peshawar,90,Community programs officer
+SO-031,Rizwan Ali,Section Officer,Industries Department,BPS-17,MBA,Management,Industrial Policy,7 Years,SO Planning,86,0,89,Good,Medium,Peshawar,88,Industrial policy officer
+SO-032,Shahmeer Khan,Section Officer,Industries Department,BPS-17,MSc Economics,Analysis,Investment Policy,8 Years,SO Finance,88,0,91,Strong,Medium,Peshawar,90,Investment policy officer
+SO-033,Usaid Ali,Section Officer,Mineral Development,BPS-17,MSc Geology,Technical,Resource Mapping,8 Years,SO Energy,88,0,91,Strong,High,Peshawar,90,Mineral resource officer
+SO-034,Faraz Shah,Section Officer,Mineral Development,BPS-17,MBA,Management,Mining Policy,7 Years,SO Planning,86,0,89,Good,Medium,Peshawar,88,Mining policy officer
+SO-035,Ayan Khan,Section Officer,Social Welfare,BPS-17,MS Social Work,Community,Welfare Programs,8 Years,SO Admin,88,0,91,Strong,Medium,Peshawar,90,Social welfare officer
+SO-036,Huzaifa Ali,Section Officer,Social Welfare,BPS-17,MA Sociology,Coordination,NGO Affairs,7 Years,SO Local Govt,86,0,89,Good,Medium,Peshawar,88,NGO coordination officer
+SO-037,Talha Shah,Section Officer,Environment Dept,BPS-17,MSc Env Science,Technical,Climate Policy,8 Years,SO Planning,88,0,91,Strong,High,Peshawar,90,Environmental policy officer
+SO-038,Kashif Khan,Section Officer,Environment Dept,BPS-17,MBA,Management,Forestry,7 Years,SO Forest,86,0,89,Good,Medium,Peshawar,88,Forestry officer
+SO-039,Hammad Ali,Section Officer,Forest Department,BPS-17,MSc Forestry,Technical,Wildlife Mgmt,8 Years,SO Environment,88,0,91,Strong,High,Peshawar,90,Wildlife management officer
+SO-040,Ammar Shah,Section Officer,Forest Department,BPS-17,MBA,Monitoring,Conservation,7 Years,SO Wildlife,86,0,89,Good,Medium,Peshawar,88,Conservation officer
+SO-041,Rayyan Khan,Section Officer,Food Department,BPS-17,MBA,Supply Chain,Food Distribution,8 Years,SO Revenue,88,0,91,Strong,Medium,Peshawar,90,Food distribution officer
+SO-042,Nabeel Ali,Section Officer,Food Department,BPS-17,MA Economics,Analysis,Price Control,7 Years,SO Finance,86,0,89,Good,Medium,Peshawar,88,Price control officer
+SO-043,Junaid Shah,Section Officer,Transport Dept,BPS-17,MBA,Logistics,Transport Planning,8 Years,SO C&W,88,0,91,Strong,High,Peshawar,90,Transport planning officer
+SO-044,Affan Khan,Section Officer,Transport Dept,BPS-17,MSc Transport,Technical,Road Safety,7 Years,SO Traffic,86,0,89,Good,Medium,Peshawar,88,Road safety officer
+SO-045,Zubair Ali,Section Officer,Relief Dept,BPS-17,MA IR,Crisis Mgmt,Disaster Relief,8 Years,SO Home,88,0,91,Strong,High,Peshawar,90,Disaster relief officer
+SO-046,Haseeb Shah,Section Officer,Relief Dept,BPS-17,MBA,Coordination,Emergency Response,7 Years,SO Admin,86,0,89,Good,High,Peshawar,88,Emergency response officer
+SO-047,Waleed Khan,Section Officer,Information Dept,BPS-17,MA Mass Comm,Media,Public Relations,8 Years,SO Culture,88,0,91,Strong,Medium,Peshawar,90,Media coordination officer
+SO-048,Sufyan Ali,Section Officer,Information Dept,BPS-17,MBA,Communication,Digital Media,7 Years,SO IT,86,0,89,Good,Medium,Peshawar,88,Digital communication officer
+SO-049,Ahsan Shah,Section Officer,Establishment Dept,BPS-17,MBA HR,HR Management,Service Rules,8 Years,SO Admin,88,0,91,Strong,High,Peshawar,90,HR policy officer
+SO-050,Abdullah Khan,Section Officer,Establishment Dept,BPS-17,MPA,Administration,Civil Service Rules,9 Years,SO Law,89,0,92,Strong,High,Peshawar,91,Civil service administration officer
+SO-051,Asadullah Khan,Section Officer,Finance Department,BPS-17,MBA Finance,Budgeting,Fiscal Planning,7 Years,SO Planning,87,0,90,Strong,Medium,Peshawar,89,Fiscal planning officer
+SO-052,Saif Ali,Section Officer,Finance Department,BPS-17,MPA,Accounts,Expenditure Control,8 Years,SO Revenue,88,0,91,Strong,Medium,Peshawar,90,Expenditure control officer
+SO-053,Haris Khan,Section Officer,Planning & Development,BPS-17,MSc Economics,Analysis,Development Planning,9 Years,SO C&W,89,0,92,Strong,High,Peshawar,91,Development planning specialist
+SO-054,Adeel Shah,Section Officer,Planning & Development,BPS-17,MPA,Policy,Project Evaluation,7 Years,SO Finance,86,0,89,Good,Medium,Peshawar,88,Project evaluation officer
+SO-055,Usman Ali,Section Officer,Health Department,BPS-17,MBBS,Health Admin,Hospital Operations,10 Years,SO Admin,90,0,93,Strong,High,Peshawar,92,Hospital operations officer
+SO-056,Imran Khan,Section Officer,Health Department,BPS-17,MPH,Public Health,Health Policy,8 Years,SO Local Govt,88,0,91,Strong,High,Peshawar,90,Public health policy officer
+SO-057,Bilal Ali,Section Officer,Education Department,BPS-17,MEd,Education Policy,School Governance,8 Years,SO Schools,88,0,91,Strong,Medium,Peshawar,90,School governance officer
+SO-058,Shahzaib Khan,Section Officer,Education Department,BPS-17,MA Education,Curriculum,Academic Planning,7 Years,SO Colleges,86,0,89,Good,Medium,Peshawar,88,Curriculum planning officer
+SO-059,Danish Ali,Section Officer,Home Department,BPS-17,MA Political Science,Security,Law & Order,9 Years,SO Law,89,0,92,Strong,High,Peshawar,91,Law & order coordination officer
+SO-060,Zubair Khan,Section Officer,Home Department,BPS-17,MPA,Administration,Crisis Management,8 Years,SO Admin,88,1,90,Strong,High,Peshawar,90,Crisis management officer
+SO-061,Hamza Shah,Section Officer,Revenue Department,BPS-17,MBA,Taxation,Revenue Collection,8 Years,SO Finance,88,0,91,Strong,Medium,Peshawar,90,Revenue collection officer
+SO-062,Hammad Ali,Section Officer,Revenue Department,BPS-17,MPA,Land Revenue,Record Management,9 Years,SO DC Office,89,0,92,Strong,Medium,Peshawar,91,Land record officer
+SO-063,Salman Khan,Section Officer,C&W Department,BPS-17,BSc Civil Eng,Engineering,Road Infrastructure,8 Years,SO Planning,88,0,91,Strong,High,Peshawar,90,Road infrastructure officer
+SO-064,Farhan Ali,Section Officer,C&W Department,BPS-17,MBA,Project Mgmt,Construction Oversight,7 Years,SO Works,86,0,89,Good,Medium,Peshawar,88,Construction oversight officer
+SO-065,Rizwan Shah,Section Officer,Local Government,BPS-17,MPA,Governance,Municipal Systems,8 Years,SO Admin,88,0,91,Strong,Medium,Peshawar,90,Municipal governance officer
+SO-066,Ahsan Khan,Section Officer,Local Government,BPS-17,MA Public Admin,Coordination,Urban Services,7 Years,SO DC Office,86,0,89,Good,Medium,Peshawar,88,Urban services officer
+SO-067,Usama Ali,Section Officer,Agriculture Department,BPS-17,MSc Agriculture,Crop Mgmt,Agricultural Policy,8 Years,SO Planning,88,0,91,Strong,Medium,Peshawar,90,Agriculture policy officer
+SO-068,Bilal Khan,Section Officer,Agriculture Department,BPS-17,MBA,Monitoring,Food Security,7 Years,SO Finance,86,0,89,Good,Medium,Peshawar,88,Food security officer
+SO-069,Hamdan Shah,Section Officer,Energy & Power,BPS-17,MSc Energy,Technical,Energy Projects,9 Years,SO C&W,89,0,92,Strong,High,Peshawar,91,Energy project officer
+SO-070,Rehan Ali,Section Officer,Energy & Power,BPS-17,MBA,Policy,Power Sector Planning,8 Years,SO Planning,88,0,91,Strong,Medium,Peshawar,90,Power planning officer
+SO-071,Awais Khan,Section Officer,Law Department,BPS-17,LLB,Legal Drafting,Policy Law,8 Years,SO Home,88,0,91,Strong,Medium,Peshawar,90,Legal drafting officer
+SO-072,Haseeb Ali,Section Officer,Law Department,BPS-17,LLM,Legal Affairs,Litigation Support,9 Years,SO Courts,89,0,92,Strong,High,Peshawar,91,Litigation support officer
+SO-073,Taimoor Shah,Section Officer,IT Board,BPS-17,BSCS,IT Systems,Digital Governance,7 Years,SO Admin,86,0,89,Good,Medium,Peshawar,88,Digital governance officer
+SO-074,Saifullah Khan,Section Officer,IT Board,BPS-17,MSc IT,Systems Mgmt,E-Governance,8 Years,SO Planning,88,0,91,Strong,High,Peshawar,90,E-governance officer
+SO-075,Daniyal Ali,Section Officer,Excise & Taxation,BPS-17,MBA,Tax Admin,Revenue Systems,7 Years,SO Revenue,86,0,89,Good,Medium,Peshawar,88,Tax administration officer
+SO-076,Zain Shah,Section Officer,Excise & Taxation,BPS-17,MPA,Compliance,Tax Enforcement,8 Years,SO DC Office,88,0,91,Strong,Medium,Peshawar,90,Tax enforcement officer
+SO-077,Arslan Khan,Section Officer,Tourism Department,BPS-17,MBA,Tourism Mgmt,Tourism Policy,7 Years,SO Planning,86,0,89,Good,Medium,Peshawar,88,Tourism policy officer
+SO-078,Faizan Ali,Section Officer,Tourism Department,BPS-17,MA Tourism,Coordination,Cultural Tourism,8 Years,SO Culture,88,0,91,Strong,Medium,Peshawar,90,Cultural tourism officer
+SO-079,Imad Shah,Section Officer,Sports & Youth Affairs,BPS-17,MBA,Administration,Youth Programs,7 Years,SO Local Govt,86,0,89,Good,Medium,Peshawar,88,Youth program officer
+SO-080,Abdul Hanan,Section Officer,Sports & Youth Affairs,BPS-17,MA Sociology,Coordination,Community Sports,8 Years,SO Admin,88,0,91,Strong,Medium,Peshawar,90,Community sports officer
+SO-081,Rizwan Ali,Section Officer,Industries Department,BPS-17,MBA,Industrial Mgmt,Policy Planning,7 Years,SO Planning,86,0,89,Good,Medium,Peshawar,88,Industrial planning officer
+SO-082,Shahmeer Khan,Section Officer,Industries Department,BPS-17,MSc Economics,Analysis,Investment Policy,8 Years,SO Finance,88,0,91,Strong,Medium,Peshawar,90,Investment policy officer
+SO-083,Usaid Ali,Section Officer,Mineral Development,BPS-17,MSc Geology,Technical,Mineral Mapping,8 Years,SO Energy,88,0,91,Strong,High,Peshawar,90,Mineral mapping officer
+SO-084,Faraz Shah,Section Officer,Mineral Development,BPS-17,MBA,Management,Mining Regulation,7 Years,SO Planning,86,0,89,Good,Medium,Peshawar,88,Mining regulation officer
+SO-085,Ayan Khan,Section Officer,Social Welfare,BPS-17,MS Social Work,Welfare Mgmt,Social Programs,8 Years,SO Admin,88,0,91,Strong,Medium,Peshawar,90,Social welfare officer
+SO-086,Huzaifa Ali,Section Officer,Social Welfare,BPS-17,MA Sociology,Coordination,NGO Programs,7 Years,SO Local Govt,86,0,89,Good,Medium,Peshawar,88,NGO coordination officer
+SO-087,Talha Shah,Section Officer,Environment Dept,BPS-17,MSc Env Sci,Environmental Policy,Climate Change,8 Years,SO Planning,88,0,91,Strong,High,Peshawar,90,Environmental policy officer
+SO-088,Kashif Khan,Section Officer,Environment Dept,BPS-17,MBA,Forestry Mgmt,Conservation,7 Years,SO Forest,86,0,89,Good,Medium,Peshawar,88,Conservation officer
+SO-089,Hammad Ali,Section Officer,Forest Department,BPS-17,MSc Forestry,Wildlife Mgmt,Forest Conservation,8 Years,SO Environment,88,0,91,Strong,High,Peshawar,90,Wildlife conservation officer
+SO-090,Ammar Shah,Section Officer,Forest Department,BPS-17,MBA,Monitoring,Biodiversity,7 Years,SO Wildlife,86,0,89,Good,Medium,Peshawar,88,Biodiversity officer
+SO-091,Rayyan Khan,Section Officer,Food Department,BPS-17,MBA,Supply Chain,Food Distribution,8 Years,SO Revenue,88,0,91,Strong,Medium,Peshawar,90,Food distribution officer
+SO-092,Nabeel Ali,Section Officer,Food Department,BPS-17,MA Economics,Price Control,Market Regulation,7 Years,SO Finance,86,0,89,Good,Medium,Peshawar,88,Market regulation officer
+SO-093,Junaid Shah,Section Officer,Transport Dept,BPS-17,MBA,Logistics,Transport Planning,8 Years,SO C&W,88,0,91,Strong,High,Peshawar,90,Transport planning officer
+SO-094,Affan Khan,Section Officer,Transport Dept,BPS-17,MSc Transport,Engineering,Road Safety,7 Years,SO Traffic,86,0,89,Good,Medium,Peshawar,88,Road safety officer
+SO-095,Zubair Ali,Section Officer,Relief Dept,BPS-17,MA IR,Crisis Mgmt,Disaster Response,8 Years,SO Home,88,0,91,Strong,High,Peshawar,90,Disaster response officer
+SO-096,Haseeb Shah,Section Officer,Relief Dept,BPS-17,MBA,Coordination,Emergency Relief,7 Years,SO Admin,86,0,89,Good,High,Peshawar,88,Emergency relief officer
+SO-097,Waleed Khan,Section Officer,Information Dept,BPS-17,MA Mass Comm,Media Mgmt,Public Relations,8 Years,SO Culture,88,0,91,Strong,Medium,Peshawar,90,Public relations officer
+SO-098,Sufyan Ali,Section Officer,Information Dept,BPS-17,MBA,Communication,Digital Media,7 Years,SO IT,86,0,89,Good,Medium,Peshawar,88,Digital media officer
+SO-099,Ahsan Shah,Section Officer,Establishment Dept,BPS-17,MBA HR,HR Mgmt,Service Rules,8 Years,SO Admin,88,0,91,Strong,High,Peshawar,90,HR policy officer
+SO-100,Abdullah Khan,Section Officer,Establishment Dept,BPS-17,MPA,Administration,Civil Service Rules,9 Years,SO Law,89,0,92,Strong,High,Peshawar,91,Civil service rules officer
+SO-101,Asad Khan,Section Officer,Finance Department,BPS-17,MBA Finance,Budgeting,Fiscal Planning,7 Years,SO Planning,87,0,90,Strong,Medium,Peshawar,89,Fiscal planning officer
+SO-102,Usman Shah,Section Officer,Finance Department,BPS-17,MPA,Accounts,Expenditure Control,8 Years,SO Revenue,88,0,91,Strong,Medium,Peshawar,90,Expenditure control officer
+SO-103,Hamza Ali,Section Officer,Planning & Development,BPS-17,MSc Economics,Analysis,Development Policy,9 Years,SO C&W,89,0,92,Strong,High,Peshawar,91,Development planning officer
+SO-104,Bilal Khan,Section Officer,Planning & Development,BPS-17,MPA,Policy,Project Evaluation,7 Years,SO Finance,86,0,89,Good,Medium,Peshawar,88,Project evaluation officer
+SO-105,Saad Ali,Section Officer,Health Department,BPS-17,MPH,Health Admin,Hospital Management,10 Years,SO Admin,90,0,93,Strong,High,Peshawar,92,Hospital management officer
+SO-106,Fahad Shah,Section Officer,Health Department,BPS-17,MBA,Coordination,Health Systems,8 Years,SO Local Govt,88,0,91,Strong,High,Peshawar,90,Health systems officer
+SO-107,Imran Khan,Section Officer,Education Department,BPS-17,MEd,Education Policy,School Governance,8 Years,SO Schools,88,0,91,Strong,Medium,Peshawar,90,School governance officer
+SO-108,Rizwan Ali,Section Officer,Education Department,BPS-17,MA Education,Curriculum,Academic Planning,7 Years,SO Colleges,86,0,89,Good,Medium,Peshawar,88,Academic planning officer
+SO-109,Adnan Shah,Section Officer,Home Department,BPS-17,MA Political Science,Security,Law & Order,9 Years,SO Law,89,0,92,Strong,High,Peshawar,91,Law & order officer
+SO-110,Ahsan Khan,Section Officer,Home Department,BPS-17,MPA,Administration,Crisis Management,8 Years,SO Admin,88,1,90,Strong,High,Peshawar,90,Crisis management officer
+SO-111,Zubair Ali,Section Officer,Revenue Department,BPS-17,MBA,Taxation,Revenue Systems,8 Years,SO Finance,88,0,91,Strong,Medium,Peshawar,90,Revenue systems officer
+SO-112,Hammad Khan,Section Officer,Revenue Department,BPS-17,MPA,Land Revenue,Record Management,9 Years,SO DC Office,89,0,92,Strong,Medium,Peshawar,91,Land record officer
+SO-113,Salman Ali,Section Officer,C&W Department,BPS-17,BSc Civil Eng,Engineering,Road Infrastructure,8 Years,SO Planning,88,0,91,Strong,High,Peshawar,90,Infrastructure officer
+SO-114,Farhan Shah,Section Officer,C&W Department,BPS-17,MBA,Project Mgmt,Construction Oversight,7 Years,SO Works,86,0,89,Good,Medium,Peshawar,88,Construction officer
+SO-115,Rizwan Khan,Section Officer,Local Government,BPS-17,MPA,Governance,Municipal Systems,8 Years,SO Admin,88,0,91,Strong,Medium,Peshawar,90,Municipal governance officer
+SO-116,Ahsan Ali,Section Officer,Local Government,BPS-17,MA Public Admin,Coordination,Urban Services,7 Years,SO DC Office,86,0,89,Good,Medium,Peshawar,88,Urban services officer
+SO-117,Usama Khan,Section Officer,Agriculture Department,BPS-17,MSc Agriculture,Crop Mgmt,Agriculture Policy,8 Years,SO Planning,88,0,91,Strong,Medium,Peshawar,90,Agriculture policy officer
+SO-118,Bilal Ali,Section Officer,Agriculture Department,BPS-17,MBA,Monitoring,Food Security,7 Years,SO Finance,86,0,89,Good,Medium,Peshawar,88,Food security officer
+SO-119,Hamdan Shah,Section Officer,Energy & Power,BPS-17,MSc Energy,Technical,Energy Projects,9 Years,SO C&W,89,0,92,Strong,High,Peshawar,91,Energy projects officer
+SO-120,Rehan Ali,Section Officer,Energy & Power,BPS-17,MBA,Policy,Power Planning,8 Years,SO Planning,88,0,91,Strong,Medium,Peshawar,90,Power planning officer
+SO-121,Awais Khan,Section Officer,Law Department,BPS-17,LLB,Legal Drafting,Policy Law,8 Years,SO Home,88,0,91,Strong,Medium,Peshawar,90,Legal drafting officer
+SO-122,Haseeb Ali,Section Officer,Law Department,BPS-17,LLM,Legal Affairs,Litigation Support,9 Years,SO Courts,89,0,92,Strong,High,Peshawar,91,Litigation officer
+SO-123,Taimoor Shah,Section Officer,IT Board,BPS-17,BSCS,IT Systems,Digital Governance,7 Years,SO Admin,86,0,89,Good,Medium,Peshawar,88,Digital governance officer
+SO-124,Saifullah Khan,Section Officer,IT Board,BPS-17,MSc IT,Systems Mgmt,E-Governance,8 Years,SO Planning,88,0,91,Strong,High,Peshawar,90,E-governance officer
+SO-125,Daniyal Ali,Section Officer,Excise & Taxation,BPS-17,MBA,Tax Admin,Revenue Systems,7 Years,SO Revenue,86,0,89,Good,Medium,Peshawar,88,Tax officer
+SO-126,Zain Shah,Section Officer,Excise & Taxation,BPS-17,MPA,Compliance,Tax Enforcement,8 Years,SO DC Office,88,0,91,Strong,Medium,Peshawar,90,Tax enforcement officer
+SO-127,Arslan Khan,Section Officer,Tourism Department,BPS-17,MBA,Tourism Mgmt,Tourism Policy,7 Years,SO Planning,86,0,89,Good,Medium,Peshawar,88,Tourism policy officer
+SO-128,Faizan Ali,Section Officer,Tourism Department,BPS-17,MA Tourism,Coordination,Cultural Tourism,8 Years,SO Culture,88,0,91,Strong,Medium,Peshawar,90,Cultural tourism officer
+SO-129,Imad Shah,Section Officer,Sports & Youth Affairs,BPS-17,MBA,Admin,Youth Programs,7 Years,SO Local Govt,86,0,89,Good,Medium,Peshawar,88,Youth programs officer
+SO-130,Abdul Hanan,Section Officer,Sports & Youth Affairs,BPS-17,MA Sociology,Coordination,Community Sports,8 Years,SO Admin,88,0,91,Strong,Medium,Peshawar,90,Community sports officer
+SO-131,Rizwan Ali,Section Officer,Industries Department,BPS-17,MBA,Industrial Mgmt,Policy Planning,7 Years,SO Planning,86,0,89,Good,Medium,Peshawar,88,Industrial planning officer
+SO-132,Shahmeer Khan,Section Officer,Industries Department,BPS-17,MSc Economics,Analysis,Investment Policy,8 Years,SO Finance,88,0,91,Strong,Medium,Peshawar,90,Investment officer
+SO-133,Usaid Ali,Section Officer,Mineral Development,BPS-17,MSc Geology,Technical,Mineral Mapping,8 Years,SO Energy,88,0,91,Strong,High,Peshawar,90,Mineral mapping officer
+SO-134,Faraz Shah,Section Officer,Mineral Development,BPS-17,MBA,Management,Mining Regulation,7 Years,SO Planning,86,0,89,Good,Medium,Peshawar,88,Mining regulation officer
+SO-135,Ayan Khan,Section Officer,Social Welfare,BPS-17,MS Social Work,Welfare Mgmt,Social Programs,8 Years,SO Admin,88,0,91,Strong,Medium,Peshawar,90,Social welfare officer
+SO-136,Huzaifa Ali,Section Officer,Social Welfare,BPS-17,MA Sociology,Coordination,NGO Programs,7 Years,SO Local Govt,86,0,89,Good,Medium,Peshawar,88,NGO officer
+SO-137,Talha Shah,Section Officer,Environment Dept,BPS-17,MSc Env Sci,Policy,Climate Change,8 Years,SO Planning,88,0,91,Strong,High,Peshawar,90,Environmental officer
+SO-138,Kashif Khan,Section Officer,Environment Dept,BPS-17,MBA,Forestry Mgmt,Conservation,7 Years,SO Forest,86,0,89,Good,Medium,Peshawar,88,Conservation officer
+SO-139,Hammad Ali,Section Officer,Forest Department,BPS-17,MSc Forestry,Wildlife Mgmt,Forest Conservation,8 Years,SO Environment,88,0,91,Strong,High,Peshawar,90,Wildlife officer
+SO-140,Ammar Shah,Section Officer,Forest Department,BPS-17,MBA,Monitoring,Biodiversity,7 Years,SO Wildlife,86,0,89,Good,Medium,Peshawar,88,Biodiversity officer
+SO-141,Rayyan Khan,Section Officer,Food Department,BPS-17,MBA,Supply Chain,Food Distribution,8 Years,SO Revenue,88,0,91,Strong,Medium,Peshawar,90,Food distribution officer
+SO-142,Nabeel Ali,Section Officer,Food Department,BPS-17,MA Economics,Price Control,Market Regulation,7 Years,SO Finance,86,0,89,Good,Medium,Peshawar,88,Market regulation officer
+SO-143,Junaid Shah,Section Officer,Transport Dept,BPS-17,MBA,Logistics,Transport Planning,8 Years,SO C&W,88,0,91,Strong,High,Peshawar,90,Transport officer
+SO-144,Affan Khan,Section Officer,Transport Dept,BPS-17,MSc Transport,Engineering,Road Safety,7 Years,SO Traffic,86,0,89,Good,Medium,Peshawar,88,Road safety officer
+SO-145,Zubair Ali,Section Officer,Relief Dept,BPS-17,MA IR,Crisis Mgmt,Disaster Relief,8 Years,SO Home,88,0,91,Strong,High,Peshawar,90,Disaster relief officer
+SO-146,Haseeb Shah,Section Officer,Relief Dept,BPS-17,MBA,Coordination,Emergency Response,7 Years,SO Admin,86,0,89,Good,High,Peshawar,88,Emergency officer
+SO-147,Waleed Khan,Section Officer,Information Dept,BPS-17,MA Mass Comm,Media,PR,8 Years,SO Culture,88,0,91,Strong,Medium,Peshawar,90,Media officer
+SO-148,Sufyan Ali,Section Officer,Information Dept,BPS-17,MBA,Communication,Digital Media,7 Years,SO IT,86,0,89,Good,Medium,Peshawar,88,Digital media officer
+SO-149,Ahsan Shah,Section Officer,Establishment Dept,BPS-17,MBA HR,HR Mgmt,Service Rules,8 Years,SO Admin,88,0,91,Strong,High,Peshawar,90,HR officer
+SO-150,Abdullah Khan,Section Officer,Establishment Dept,BPS-17,MPA,Administration,Civil Service Rules,9 Years,SO Law,89,0,92,Strong,High,Peshawar,91,Civil service officer
+,,,,,,,,,,,,,,,,,
+DG-001,Muhammad Iqbal,DG,PDA (Peshawar Development Authority),BPS-20,MSc Civil Engineering,Urban Planning,Master Planning,18 Years,Director Planning PDA,92,0,93,Very Strong,High,Peshawar,94,Urban development expert
+DG-002,Saeed Khan,DG,Fisheries Department,BPS-20,MSc Zoology,Aquaculture,Fisheries Management,17 Years,Director Fisheries KP,88,0,90,Strong,Medium,Peshawar,89,Fisheries management expert
+DG-003,Abdul Rahman,DG,Health Services,BPS-20,MBBS + MPH,Public Health,Hospital Systems,20 Years,MS DHQ Hospital,93,0,94,Very Strong,High,Peshawar,95,Health system administrator
+DG-004,Shahid Ali,DG,Education Monitoring Authority,BPS-20,PhD Education,Policy Design,Curriculum Reform,19 Years,Director Education KP,91,0,92,Strong,Medium,Peshawar,93,Education policy expert
+DG-005,Imranullah Khan,DG,Irrigation Department,BPS-20,MSc Water Resources Engineering,Hydrology,Water Management,21 Years,Chief Engineer Irrigation,94,0,95,Very Strong,High,Peshawar,96,Water systems expert
+DG-006,Waqas Ahmad,DG,Agriculture Research,BPS-20,PhD Agriculture,Crop Research,Food Security,18 Years,Director ARI,90,0,91,Strong,Medium,Peshawar,92,Agriculture research expert
+DG-007,Farooq Khan,DG,Local Government & Rural Dev,BPS-20,MPA,Governance,Municipal Systems,22 Years,Director LG&RD,93,0,94,Very Strong,High,Peshawar,95,Governance specialist
+DG-008,Nadeem Shah,DG,Environment Protection Agency,BPS-20,MSc Environmental Science,Environmental Policy,Climate Regulation,17 Years,Director EPA,89,0,90,Strong,Medium,Peshawar,91,Environmental regulator
+DG-009,Zahir Shah,DG,Forest Department,BPS-20,MSc Forestry,Forest Management,Wildlife Conservation,23 Years,Chief Conservator Forest,94,0,95,Very Strong,High,Peshawar,96,Forest conservation expert
+DG-010,Junaid Khan,DG,Excise & Taxation,BPS-20,MBA Finance,Revenue Systems,Tax Administration,16 Years,Director Excise,88,0,90,Strong,Medium,Peshawar,89,Revenue administration expert
+DG-011,Asadullah Jan,DG,Information Department,BPS-20,MA Mass Communication,Media Management,Public Relations,18 Years,Director PR,90,0,92,Strong,Medium,Peshawar,91,Media & communication expert
+DG-012,Khalid Mehmood,DG,Social Welfare,BPS-20,MS Social Work,Welfare Programs,NGO Coordination,20 Years,Director SWD,91,0,93,Strong,High,Peshawar,93,Social welfare expert
+DG-013,Hamid Khan,DG,Planning & Development,BPS-21,MSc Economics,Policy Analysis,Development Planning,25 Years,Chief Economist P&D,95,0,96,Very Strong,Very High,Peshawar,97,Macro planning expert
+DG-014,Arifullah Khan,DG,Transport Department,BPS-20,MSc Transport Engineering,Logistics,Road Networks,17 Years,Director Transport,89,0,91,Strong,Medium,Peshawar,90,Transport systems expert
+DG-015,Saif ur Rehman,DG,Energy & Power,BPS-21,MSc Electrical Engineering,Energy Systems,Power Distribution,24 Years,Chief Engineer Energy,94,0,95,Very Strong,High,Peshawar,96,Energy sector expert
+DG-016,Rizwan Ullah,DG,IT Board KP,BPS-20,MS Computer Science,Software Systems,Digital Governance,15 Years,Director IT,92,0,93,Strong,Medium,Peshawar,94,Digital transformation expert
+DG-017,Waqar Ahmad,DG,Law & Human Rights,BPS-20,LLM,Legal Policy,Human Rights Law,18 Years,Legal Advisor Govt,90,0,92,Strong,Medium,Peshawar,91,Legal policy expert
+DG-018,Tariq Khan,DG,Industries Department,BPS-20,MBA,Industrial Policy,Investment Promotion,19 Years,Director Industries,89,0,90,Strong,Medium,Peshawar,90,Industrial development expert
+DG-019,Sajjad Ali,DG,Health Regulatory Authority,BPS-21,MBBS + MPH,Health Regulation,Policy Enforcement,22 Years,Director Health KP,94,0,95,Very Strong,High,Peshawar,96,Health regulator expert
+DG-020,Naveed Khan,DG,Disaster Management Authority,BPS-20,MSc Disaster Management,Crisis Response,Emergency Planning,18 Years,Director Relief KP,93,0,94,Very Strong,Very High,Peshawar,95,Disaster management expert
+,,,,,,,,,,,,,,,,,
+DIR-001,Ali Raza Khan,Director,Agriculture Department,BPS-19,MSc Agriculture,Crop Management,Pest Control,16 Years,Deputy Director Agriculture,90,0,92,Strong,Medium,Peshawar,91,Agriculture operations director
+DIR-002,Usman Shah,Director,Health Department,BPS-19,MBBS + MPH,Public Health,Hospital Management,18 Years,MS Hospital,92,0,93,Very Strong,High,Peshawar,93,Health services director
+DIR-003,Hamza Khan,Director,Education Department,BPS-19,MEd,Education Policy,Curriculum Design,17 Years,Deputy Director Schools,89,0,91,Strong,Medium,Peshawar,90,Education policy director
+DIR-004,Saifullah Ali,Director,Fisheries Department,BPS-19,MSc Zoology,Aquaculture,Fisheries Development,15 Years,DD Fisheries,88,0,90,Strong,Medium,Peshawar,89,Fisheries development director
+DIR-005,Bilal Ahmad,Director,Forestry Department,BPS-19,MSc Forestry,Forest Management,Wildlife Protection,20 Years,Conservator Forest,93,0,94,Very Strong,High,Peshawar,94,Forest management director
+DIR-006,Imran Khan,Director,Irrigation Department,BPS-19,MSc Civil Engineering,Hydrology,Water Distribution,19 Years,XEN Irrigation,92,0,93,Strong,High,Peshawar,93,Water management director
+DIR-007,Shahzad Khan,Director,Local Government,BPS-19,MPA,Governance,Municipal Services,18 Years,Deputy Director LG,90,0,91,Strong,Medium,Peshawar,91,Municipal governance director
+DIR-008,Asadullah Jan,Director,Environment Department,BPS-19,MSc Environmental Science,Climate Policy,Pollution Control,16 Years,DD EPA,88,0,90,Strong,Medium,Peshawar,89,Environmental policy director
+DIR-009,Waqas Ali,Director,Excise & Taxation,BPS-19,MBA Finance,Tax Administration,Revenue Systems,17 Years,Deputy Director Excise,89,0,91,Strong,Medium,Peshawar,90,Revenue systems director
+DIR-010,Nadeem Shah,Director,Information Department,BPS-19,MA Mass Communication,Media Management,Public Relations,18 Years,Deputy Director PR,90,0,92,Strong,Medium,Peshawar,91,Media director
+DIR-011,Khalid Mehmood,Director,Social Welfare,BPS-19,MS Social Work,Welfare Programs,NGO Coordination,19 Years,DD Social Welfare,91,0,92,Strong,High,Peshawar,92,Social welfare director
+DIR-012,Farooq Khan,Director,Planning & Development,BPS-20,MSc Economics,Policy Analysis,Development Planning,22 Years,Senior Economist,94,0,95,Very Strong,Very High,Peshawar,95,Development planning director
+DIR-013,Saif ur Rehman,Director,Energy & Power,BPS-20,Electrical Engineering,Power Systems,Energy Distribution,21 Years,Chief Engineer,93,0,94,Very Strong,High,Peshawar,94,Energy systems director
+DIR-014,Rizwan Ullah,Director,IT Board KP,BPS-19,MS Computer Science,Software Systems,E-Governance,15 Years,IT Manager,92,0,93,Strong,Medium,Peshawar,93,Digital governance director
+DIR-015,Tariq Khan,Director,Industries Department,BPS-19,MBA,Industrial Policy,Investment Promotion,18 Years,Deputy Director Industries,89,0,91,Strong,Medium,Peshawar,90,Industrial development director
+DIR-016,Sajjad Ali,Director,Health Regulatory Authority,BPS-20,MBBS + MPH,Health Regulation,Policy Enforcement,20 Years,DD Health,94,0,95,Very Strong,High,Peshawar,95,Health regulator director
+DIR-017,Naveed Khan,Director,Disaster Management,BPS-19,MSc Disaster Management,Crisis Response,Emergency Planning,17 Years,Relief Officer,93,0,94,Very Strong,Very High,Peshawar,94,Disaster management director
+DIR-018,Waqar Ahmad,Director,Law Department,BPS-19,LLM,Legal Affairs,Policy Drafting,18 Years,Legal Officer,90,0,92,Strong,Medium,Peshawar,91,Legal affairs director
+DIR-019,Hamid Khan,Director,Transport Department,BPS-19,MSc Transport Eng,Logistics,Road Systems,16 Years,Deputy Director Transport,88,0,90,Strong,Medium,Peshawar,89,Transport systems director
+DIR-020,Arifullah Khan,Director,Agriculture Research,BPS-20,PhD Agriculture,Research,Crop Improvement,22 Years,Principal Scientist,94,0,95,Very Strong,High,Peshawar,95,Agriculture research director
+DIR-021,Ahsan Khan,Director,Tourism Department,BPS-19,MBA Tourism,Tourism Mgmt,Cultural Tourism,15 Years,Deputy Director Tourism,88,0,90,Strong,Medium,Peshawar,89,Tourism development director
+DIR-022,Zahir Shah,Director,Forest Department,BPS-20,MSc Forestry,Conservation,Wildlife Protection,23 Years,Chief Conservator,95,0,96,Very Strong,Very High,Peshawar,96,Forest conservation director
+DIR-023,Junaid Khan,Director,Excise Enforcement,BPS-19,MBA,Enforcement,Tax Compliance,17 Years,Deputy Director Excise,89,0,91,Strong,Medium,Peshawar,90,Tax enforcement director
+DIR-024,Salman Khan,Director,C&W Department,BPS-19,Civil Engineering,Infrastructure,Road Construction,18 Years,XEN C&W,91,0,92,Strong,High,Peshawar,92,Infrastructure director
+DIR-025,Farhan Shah,Director,Food Department,BPS-19,MSc Economics,Supply Chain,Price Control,16 Years,Deputy Director Food,88,0,90,Strong,Medium,Peshawar,89,Food regulation director
+DIR-026,Usama Khan,Director,Agriculture Extension,BPS-19,MSc Agriculture,Field Extension,Farmer Training,17 Years,Deputy Director Agri,89,0,91,Strong,Medium,Peshawar,90,Agricultural extension director
+DIR-027,Bilal Ali,Director,Social Protection,BPS-19,MS Social Work,Welfare Systems,Poverty Programs,18 Years,Deputy Director SWD,90,0,92,Strong,High,Peshawar,91,Social protection director
+DIR-028,Hamdan Shah,Director,Energy Projects,BPS-20,MSc Electrical Eng,Energy Planning,Power Projects,21 Years,Chief Engineer Energy,93,0,94,Very Strong,High,Peshawar,94,Energy project director
+DIR-029,Rehan Ali,Director,IT Development,BPS-19,MS IT,Software Dev,Digital Systems,15 Years,IT Officer,91,0,92,Strong,Medium,Peshawar,92,IT development director
+DIR-030,Awais Khan,Director,Human Rights,BPS-19,LLB,Legal Policy,Rights Protection,18 Years,Legal Advisor,90,0,91,Strong,Medium,Peshawar,91,Human rights director
+DIR-031,Haseeb Ali,Director,Relief Operations,BPS-19,MBA,Crisis Mgmt,Emergency Response,17 Years,Relief Officer,92,0,93,Very Strong,Very High,Peshawar,93,Relief operations director
+DIR-032,Taimoor Shah,Director,Digital Governance,BPS-19,BSCS,IT Systems,E-Governance,16 Years,IT Manager,91,0,92,Strong,Medium,Peshawar,92,Digital governance director
+DIR-033,Saifullah Khan,Director,Water Management,BPS-20,MSc Hydrology,Water Systems,Irrigation Planning,22 Years,XEN Irrigation,94,0,95,Very Strong,High,Peshawar,95,Water management director
+DIR-034,Daniyal Ali,Director,Taxation,BPS-19,MBA Finance,Tax Systems,Revenue Planning,17 Years,Deputy Director Tax,89,0,91,Strong,Medium,Peshawar,90,Tax systems director
+DIR-035,Zain Shah,Director,Urban Planning,BPS-19,MSc Urban Planning,City Planning,Infrastructure Design,18 Years,Town Planner,91,0,92,Strong,Medium,Peshawar,92,Urban planning director
+DIR-036,Arslan Khan,Director,Housing Authority,BPS-19,Civil Engineering,Housing Projects,Development Schemes,17 Years,Deputy Director PDA,90,0,91,Strong,Medium,Peshawar,91,Housing development director
+DIR-037,Faizan Ali,Director,Civil Defense,BPS-19,MA IR,Emergency Planning,Disaster Preparedness,18 Years,Civil Officer,92,0,93,Very Strong,High,Peshawar,93,Civil defense director
+DIR-038,Imad Shah,Director,Youth Affairs,BPS-19,MBA,Youth Programs,Sports Development,16 Years,Deputy Director Youth,88,0,90,Strong,Medium,Peshawar,89,Youth affairs director
+DIR-039,Abdul Hanan,Director,Sports Department,BPS-19,MA Sociology,Sports Mgmt,Talent Development,17 Years,Sports Officer,89,0,91,Strong,Medium,Peshawar,90,Sports development director
+DIR-040,Rayyan Khan,Director,Food Security,BPS-20,MSc Agriculture,Supply Chain,Food Security Planning,21 Years,Deputy Director Food,93,0,94,Very Strong,High,Peshawar,94,Food security director
+DIR-041,Nabeel Ali,Director,Price Control,BPS-19,MA Economics,Market Control,Inflation Monitoring,18 Years,Economic Analyst,90,0,91,Strong,Medium,Peshawar,91,Price control director
+DIR-042,Junaid Shah,Director,Transport Planning,BPS-19,MSc Transport Eng,Logistics,Road Networks,17 Years,Deputy Director Transport,89,0,91,Strong,Medium,Peshawar,90,Transport planning director
+DIR-043,Affan Khan,Director,Traffic Management,BPS-19,Civil Engineering,Traffic Systems,Road Safety,16 Years,Traffic Officer,88,0,90,Strong,Medium,Peshawar,89,Traffic management director
+DIR-044,Zubair Ali,Director,Emergency Services,BPS-19,MA IR,Crisis Response,Emergency Coordination,18 Years,Relief Officer,92,0,93,Very Strong,Very High,Peshawar,93,Emergency services director
+DIR-045,Haseeb Shah,Director,Media Affairs,BPS-19,MA Mass Comm,Media Strategy,Public Communication,17 Years,PR Officer,90,0,91,Strong,Medium,Peshawar,91,Media affairs director
+DIR-046,Waleed Khan,Director,Public Relations,BPS-19,MA Mass Comm,Communication,Government PR,18 Years,Media Officer,90,0,92,Strong,Medium,Peshawar,91,PR director
+DIR-047,Sufyan Ali,Director,IT Infrastructure,BPS-19,MS IT,Network Systems,Cloud Infrastructure,16 Years,IT Officer,91,0,92,Strong,Medium,Peshawar,92,IT infrastructure director
+DIR-048,Ahsan Shah,Director,Establishment,BPS-19,MBA HR,HR Management,Service Rules,19 Years,Admin Officer,90,0,92,Strong,High,Peshawar,91,Establishment director
+DIR-049,Abdullah Khan,Director,Civil Services Reform,BPS-20,MPA,Governance Reform,Policy Design,22 Years,Secretary Office,94,0,95,Very Strong,High,Peshawar,95,Civil service reform director
+DIR-050,Asad Khan,Director,Governance Monitoring,BPS-19,MSc Public Admin,Monitoring,Performance Evaluation,18 Years,Deputy Director LG,91,0,92,Strong,Medium,Peshawar,92,Governance monitoring director
+DIR-051,Haris Khan,Director,Agriculture Department,BPS-19,MSc Agriculture,Crop Management,Soil Fertility,16 Years,DD Agriculture,89,0,91,Strong,Medium,Peshawar,90,Agriculture operations director
+DIR-052,Adeel Shah,Director,Health Department,BPS-19,MBBS + MPH,Public Health,Hospital Systems,18 Years,MS Hospital,92,0,93,Very Strong,High,Peshawar,93,Health systems director
+DIR-053,Usman Ali,Director,Education Department,BPS-19,MEd,Education Policy,School Reform,17 Years,DD Schools,88,0,90,Strong,Medium,Peshawar,89,Education reform director
+DIR-054,Imran Khan,Director,Fisheries Department,BPS-19,MSc Zoology,Aquaculture,Fish Farming Systems,15 Years,DD Fisheries,87,0,89,Strong,Medium,Peshawar,88,Fisheries director
+DIR-055,Bilal Khan,Director,Forest Department,BPS-19,MSc Forestry,Forest Mgmt,Wildlife Protection,20 Years,Conservator Forest,93,0,94,Very Strong,High,Peshawar,94,Forest conservation director
+DIR-056,Saifullah Ali,Director,Irrigation Department,BPS-19,MSc Civil Eng,Hydrology,Canal Systems,19 Years,XEN Irrigation,92,0,93,Strong,High,Peshawar,93,Irrigation systems director
+DIR-057,Hamza Khan,Director,Local Government,BPS-19,MPA,Governance,Municipal Systems,18 Years,DD LG,90,0,91,Strong,Medium,Peshawar,91,Municipal governance director
+DIR-058,Shahid Ali,Director,Environment Department,BPS-19,MSc Env Science,Climate Policy,Pollution Control,16 Years,DD EPA,88,0,90,Strong,Medium,Peshawar,89,Environment director
+DIR-059,Nadeem Shah,Director,Excise & Taxation,BPS-19,MBA Finance,Tax Systems,Revenue Control,17 Years,DD Excise,89,0,91,Strong,Medium,Peshawar,90,Tax systems director
+DIR-060,Khalid Mehmood,Director,Information Department,BPS-19,MA Mass Comm,Media Mgmt,Public Relations,18 Years,DD PR,90,0,92,Strong,Medium,Peshawar,91,Media director
+DIR-061,Farooq Khan,Director,Social Welfare,BPS-19,MS Social Work,Welfare Programs,NGO Coordination,19 Years,DD SWD,91,0,92,Strong,High,Peshawar,92,Social welfare director
+DIR-062,Saif ur Rehman,Director,Planning & Development,BPS-20,MSc Economics,Policy Analysis,Development Planning,22 Years,Economist P&D,94,0,95,Very Strong,Very High,Peshawar,95,Development planning director
+DIR-063,Rizwan Ullah,Director,Energy & Power,BPS-20,Electrical Eng,Power Systems,Energy Distribution,21 Years,Chief Engineer,93,0,94,Very Strong,High,Peshawar,94,Energy systems director
+DIR-064,Tariq Khan,Director,IT Board KP,BPS-19,MS Computer Science,Software Systems,Digital Gov,15 Years,IT Manager,91,0,92,Strong,Medium,Peshawar,92,Digital governance director
+DIR-065,Sajjad Ali,Director,Industries Department,BPS-19,MBA,Industrial Policy,Investment Promotion,18 Years,DD Industries,89,0,91,Strong,Medium,Peshawar,90,Industries director
+DIR-066,Naveed Khan,Director,Health Regulatory Authority,BPS-20,MBBS + MPH,Health Regulation,Policy Enforcement,20 Years,DD Health,94,0,95,Very Strong,High,Peshawar,95,Health regulator director
+DIR-067,Waqar Ahmad,Director,Disaster Management Authority,BPS-19,MSc Disaster Mgmt,Crisis Response,Emergency Planning,17 Years,Relief Officer,93,0,94,Very Strong,Very High,Peshawar,94,Disaster response director
+DIR-068,Hamid Khan,Director,Law Department,BPS-19,LLM,Legal Affairs,Policy Drafting,18 Years,Legal Officer,90,0,92,Strong,Medium,Peshawar,91,Legal director
+DIR-069,Arifullah Khan,Director,Transport Department,BPS-19,MSc Transport Eng,Logistics,Road Systems,16 Years,DD Transport,88,0,90,Strong,Medium,Peshawar,89,Transport systems director
+DIR-070,Ahsan Khan,Director,Agriculture Research,BPS-20,PhD Agriculture,Research,Crop Improvement,22 Years,Principal Scientist,94,0,95,Very Strong,High,Peshawar,95,Agriculture research director
+DIR-071,Zahir Shah,Director,Tourism Department,BPS-19,MBA Tourism,Tourism Mgmt,Cultural Tourism,15 Years,DD Tourism,88,0,90,Strong,Medium,Peshawar,89,Tourism director
+DIR-072,Junaid Khan,Director,Forest Department,BPS-20,MSc Forestry,Conservation,Wildlife Protection,23 Years,Chief Conservator,95,0,96,Very Strong,Very High,Peshawar,96,Forest director
+DIR-073,Salman Khan,Director,Excise Enforcement,BPS-19,MBA,Enforcement,Tax Compliance,17 Years,DD Excise,89,0,91,Strong,Medium,Peshawar,90,Enforcement director
+DIR-074,Farhan Shah,Director,C&W Department,BPS-19,Civil Eng,Infrastructure,Road Construction,18 Years,XEN C&W,91,0,92,Strong,High,Peshawar,92,Infrastructure director
+DIR-075,Usama Khan,Director,Food Department,BPS-19,MSc Economics,Supply Chain,Price Control,16 Years,DD Food,88,0,90,Strong,Medium,Peshawar,89,Food director
+DIR-076,Bilal Ali,Director,Agriculture Extension,BPS-19,MSc Agriculture,Field Extension,Farmer Training,17 Years,DD Agri,89,0,91,Strong,Medium,Peshawar,90,Agriculture extension director
+DIR-077,Hamdan Shah,Director,Social Protection,BPS-19,MS Social Work,Welfare Systems,Poverty Programs,18 Years,DD SWD,90,0,92,Strong,High,Peshawar,91,Social protection director
+DIR-078,Rehan Ali,Director,Energy Projects,BPS-20,Electrical Eng,Energy Planning,Power Projects,21 Years,Chief Engineer,93,0,94,Very Strong,High,Peshawar,94,Energy projects director
+DIR-079,Awais Khan,Director,IT Development,BPS-19,MS IT,Software Dev,Digital Systems,15 Years,IT Officer,91,0,92,Strong,Medium,Peshawar,92,IT development director
+DIR-080,Haseeb Ali,Director,Human Rights,BPS-19,LLB,Legal Policy,Rights Protection,18 Years,Legal Advisor,90,0,91,Strong,Medium,Peshawar,91,Human rights director
+DIR-081,Taimoor Shah,Director,Relief Operations,BPS-19,MBA,Crisis Mgmt,Emergency Response,17 Years,Relief Officer,92,0,93,Very Strong,Very High,Peshawar,93,Relief director
+DIR-082,Saifullah Khan,Director,Digital Governance,BPS-19,BSCS,IT Systems,E-Governance,16 Years,IT Manager,91,0,92,Strong,Medium,Peshawar,92,Digital governance director
+DIR-083,Daniyal Ali,Director,Water Management,BPS-20,MSc Hydrology,Water Systems,Irrigation Planning,22 Years,XEN Irrigation,94,0,95,Very Strong,High,Peshawar,95,Water management director
+DIR-084,Zain Shah,Director,Taxation,BPS-19,MBA Finance,Tax Systems,Revenue Planning,17 Years,DD Tax,89,0,91,Strong,Medium,Peshawar,90,Tax director
+DIR-085,Arslan Khan,Director,Urban Planning,BPS-19,MSc Urban Planning,City Planning,Infrastructure Design,18 Years,Town Planner,91,0,92,Strong,Medium,Peshawar,92,Urban planning director
+DIR-086,Faizan Ali,Director,Housing Authority,BPS-19,Civil Eng,Housing Projects,Development Schemes,17 Years,DD PDA,90,0,91,Strong,Medium,Peshawar,91,Housing director
+DIR-087,Imad Shah,Director,Civil Defense,BPS-19,MA IR,Emergency Planning,Disaster Preparedness,18 Years,Civil Officer,92,0,93,Very Strong,High,Peshawar,93,Civil defense director
+DIR-088,Abdul Hanan,Director,Youth Affairs,BPS-19,MBA,Youth Programs,Sports Development,16 Years,DD Youth,88,0,90,Strong,Medium,Peshawar,89,Youth director
+DIR-089,Rayyan Khan,Director,Sports Department,BPS-19,MA Sociology,Sports Mgmt,Talent Development,17 Years,Sports Officer,89,0,91,Strong,Medium,Peshawar,90,Sports director
+DIR-090,Nabeel Ali,Director,Food Security,BPS-20,MSc Agriculture,Supply Chain,Food Security Planning,21 Years,DD Food,93,0,94,Very Strong,High,Peshawar,94,Food security director
+DIR-091,Junaid Shah,Director,Price Control,BPS-19,MA Economics,Market Control,Inflation Monitoring,18 Years,Analyst,90,0,91,Strong,Medium,Peshawar,91,Price control director
+DIR-092,Affan Khan,Director,Transport Planning,BPS-19,MSc Transport Eng,Logistics,Road Networks,17 Years,DD Transport,89,0,91,Strong,Medium,Peshawar,90,Transport director
+DIR-093,Zubair Ali,Director,Traffic Management,BPS-19,Civil Eng,Traffic Systems,Road Safety,16 Years,Traffic Officer,88,0,90,Strong,Medium,Peshawar,89,Traffic director
+DIR-094,Haseeb Shah,Director,Emergency Services,BPS-19,MA IR,Crisis Response,Emergency Coordination,18 Years,Relief Officer,92,0,93,Very Strong,Very High,Peshawar,93,Emergency director
+DIR-095,Waleed Khan,Director,Media Affairs,BPS-19,MA Mass Comm,Media Strategy,Public Communication,17 Years,PR Officer,90,0,91,Strong,Medium,Peshawar,91,Media director
+DIR-096,Sufyan Ali,Director,Public Relations,BPS-19,MA Mass Comm,Communication,Government PR,18 Years,Media Officer,90,0,92,Strong,Medium,Peshawar,91,PR director
+DIR-097,Ahsan Shah,Director,IT Infrastructure,BPS-19,MS IT,Network Systems,Cloud Infrastructure,16 Years,IT Officer,91,0,92,Strong,Medium,Peshawar,92,IT infrastructure director
+DIR-098,Abdullah Khan,Director,Establishment,BPS-19,MBA HR,HR Management,Service Rules,19 Years,Admin Officer,90,0,92,Strong,High,Peshawar,91,Establishment director
+DIR-099,Asad Khan,Director,Civil Service Reform,BPS-20,MPA,Governance Reform,Policy Design,22 Years,Secretary Office,94,0,95,Very Strong,High,Peshawar,95,Civil reform director
+DIR-100,Haris Khan,Director,Governance Monitoring,BPS-19,MSc Public Admin,Monitoring,Performance Evaluation,18 Years,DD LG,91,0,92,Strong,Medium,Peshawar,92,Governance monitoring director
+DIR-101,Imran Shah,Director,Agriculture Department,BPS-19,MSc Agriculture,Crop Production,Soil Management,17 Years,DD Agriculture,90,0,92,Strong,Medium,Peshawar,91,Agriculture operations director
+DIR-102,Usman Khan,Director,Health Department,BPS-19,MBBS + MPH,Public Health,Disease Control,18 Years,MS Hospital,93,0,94,Very Strong,High,Peshawar,94,Health services director
+DIR-103,Bilal Ali,Director,Education Department,BPS-19,MEd,Education Reform,Curriculum Development,16 Years,DD Schools,89,0,91,Strong,Medium,Peshawar,90,Education policy director
+DIR-104,Saifullah Khan,Director,Fisheries Department,BPS-19,MSc Zoology,Aquaculture,Fish Hatchery Systems,15 Years,DD Fisheries,88,0,90,Strong,Medium,Peshawar,89,Fisheries development director
+DIR-105,Hamza Ali,Director,Forest Department,BPS-19,MSc Forestry,Forest Conservation,Wildlife Protection,20 Years,Conservator Forest,94,0,95,Very Strong,High,Peshawar,95,Forest management director
+DIR-106,Shahid Khan,Director,Irrigation Department,BPS-19,MSc Civil Eng,Water Distribution,Canal Systems,19 Years,XEN Irrigation,92,0,93,Strong,High,Peshawar,93,Irrigation systems director
+DIR-107,Nadeem Shah,Director,Local Government,BPS-19,MPA,Municipal Governance,Urban Services,18 Years,DD LG,90,0,91,Strong,Medium,Peshawar,91,Local governance director
+DIR-108,Khalid Mehmood,Director,Environment Department,BPS-19,MSc Environmental Sci,Climate Policy,Pollution Control,16 Years,DD EPA,88,0,90,Strong,Medium,Peshawar,89,Environmental protection director
+DIR-109,Farooq Khan,Director,Excise & Taxation,BPS-19,MBA Finance,Tax Administration,Revenue Systems,17 Years,DD Excise,89,0,91,Strong,Medium,Peshawar,90,Tax revenue director
+DIR-110,Rizwan Ullah,Director,Information Department,BPS-19,MA Mass Communication,Media Management,Public Relations,18 Years,DD PR,90,0,92,Strong,Medium,Peshawar,91,Information director
+DIR-111,Naveed Khan,Director,Social Welfare,BPS-19,MS Social Work,Welfare Programs,NGO Coordination,19 Years,DD SWD,91,0,92,Strong,High,Peshawar,92,Social welfare director
+DIR-112,Tariq Khan,Director,Planning & Development,BPS-20,MSc Economics,Policy Analysis,Development Planning,22 Years,Economist,95,0,96,Very Strong,Very High,Peshawar,96,Development planning director
+DIR-113,Sajjad Ali,Director,Energy & Power,BPS-20,Electrical Eng,Power Systems,Energy Distribution,21 Years,Chief Engineer,94,0,95,Very Strong,High,Peshawar,95,Energy systems director
+DIR-114,Ahsan Khan,Director,IT Board KP,BPS-19,MS Computer Science,Software Systems,Digital Governance,15 Years,IT Manager,92,0,93,Strong,Medium,Peshawar,93,Digital governance director
+DIR-115,Waqar Ahmad,Director,Industries Department,BPS-19,MBA,Industrial Policy,Investment Promotion,18 Years,DD Industries,89,0,91,Strong,Medium,Peshawar,90,Industries director
+DIR-116,Hamid Khan,Director,Health Regulatory Authority,BPS-20,MBBS + MPH,Health Regulation,Policy Enforcement,20 Years,DD Health,95,0,96,Very Strong,High,Peshawar,96,Health regulator director
+DIR-117,Arifullah Khan,Director,Disaster Management,BPS-19,MSc Disaster Mgmt,Crisis Response,Emergency Planning,17 Years,Relief Officer,93,0,94,Very Strong,Very High,Peshawar,94,Disaster response director
+DIR-118,Awais Khan,Director,Law Department,BPS-19,LLM,Legal Affairs,Policy Drafting,18 Years,Legal Officer,90,0,92,Strong,Medium,Peshawar,91,Legal affairs director
+DIR-119,Zahir Shah,Director,Transport Department,BPS-19,MSc Transport Eng,Logistics,Road Systems,16 Years,DD Transport,88,0,90,Strong,Medium,Peshawar,89,Transport systems director
+DIR-120,Salman Khan,Director,Agriculture Research,BPS-20,PhD Agriculture,Research,Crop Improvement,22 Years,Principal Scientist,95,0,96,Very Strong,High,Peshawar,96,Agriculture research director
+DIR-121,Usama Khan,Director,Tourism Department,BPS-19,MBA Tourism,Tourism Management,Cultural Tourism,15 Years,DD Tourism,88,0,90,Strong,Medium,Peshawar,89,Tourism director
+DIR-122,Bilal Khan,Director,Forest Department,BPS-20,MSc Forestry,Conservation,Wildlife Protection,23 Years,Chief Conservator,96,0,97,Very Strong,Very High,Peshawar,97,Forest conservation director
+DIR-123,Farhan Shah,Director,Excise Enforcement,BPS-19,MBA,Enforcement,Tax Compliance,17 Years,DD Excise,89,0,91,Strong,Medium,Peshawar,90,Enforcement director
+DIR-124,Saif Ali,Director,C&W Department,BPS-19,Civil Engineering,Infrastructure,Road Construction,18 Years,XEN C&W,91,0,92,Strong,High,Peshawar,92,Infrastructure director
+DIR-125,Nabeel Khan,Director,Food Department,BPS-19,MSc Economics,Supply Chain,Price Control,16 Years,DD Food,88,0,90,Strong,Medium,Peshawar,89,Food regulation director
+DIR-126,Haseeb Ali,Director,Agriculture Extension,BPS-19,MSc Agriculture,Field Extension,Farmer Training,17 Years,DD Agri,89,0,91,Strong,Medium,Peshawar,90,Agriculture extension director
+DIR-127,Imad Shah,Director,Social Protection,BPS-19,MS Social Work,Welfare Systems,Poverty Programs,18 Years,DD SWD,90,0,92,Strong,High,Peshawar,91,Social protection director
+DIR-128,Rehan Ali,Director,Energy Projects,BPS-20,Electrical Engineering,Energy Planning,Power Projects,21 Years,Chief Engineer,94,0,95,Very Strong,High,Peshawar,95,Energy projects director
+DIR-129,Daniyal Khan,Director,IT Development,BPS-19,MS IT,Software Development,Digital Systems,15 Years,IT Officer,91,0,92,Strong,Medium,Peshawar,92,IT development director
+DIR-130,Taimoor Shah,Director,Human Rights,BPS-19,LLB,Legal Policy,Rights Protection,18 Years,Legal Advisor,90,0,91,Strong,Medium,Peshawar,91,Human rights director
+DIR-131,Affan Khan,Director,Relief Operations,BPS-19,MBA,Crisis Management,Emergency Response,17 Years,Relief Officer,92,0,93,Very Strong,Very High,Peshawar,93,Relief operations director
+DIR-132,Zubair Ali,Director,Digital Governance,BPS-19,BSCS,IT Systems,E-Governance,16 Years,IT Manager,91,0,92,Strong,Medium,Peshawar,92,Digital governance director
+DIR-133,Waleed Khan,Director,Water Management,BPS-20,MSc Hydrology,Water Systems,Irrigation Planning,22 Years,XEN Irrigation,95,0,96,Very Strong,High,Peshawar,96,Water management director
+DIR-134,Sufyan Ali,Director,Taxation,BPS-19,MBA Finance,Tax Systems,Revenue Planning,17 Years,DD Tax,89,0,91,Strong,Medium,Peshawar,90,Tax systems director
+DIR-135,Ahsan Shah,Director,Urban Planning,BPS-19,MSc Urban Planning,City Planning,Infrastructure Design,18 Years,Town Planner,91,0,92,Strong,Medium,Peshawar,92,Urban planning director
+DIR-136,Abdullah Khan,Director,Housing Authority,BPS-19,Civil Engineering,Housing Projects,Development Schemes,17 Years,DD PDA,90,0,91,Strong,Medium,Peshawar,91,Housing development director
+DIR-137,Asad Khan,Director,Civil Defense,BPS-19,MA IR,Emergency Planning,Disaster Preparedness,18 Years,Civil Officer,92,0,93,Very Strong,High,Peshawar,93,Civil defense director
+DIR-138,Haris Shah,Director,Youth Affairs,BPS-19,MBA,Youth Programs,Sports Development,16 Years,DD Youth,88,0,90,Strong,Medium,Peshawar,89,Youth affairs director
+DIR-139,Usman Ali,Director,Sports Department,BPS-19,MA Sociology,Sports Management,Talent Development,17 Years,Sports Officer,89,0,91,Strong,Medium,Peshawar,90,Sports director
+DIR-140,Rayyan Khan,Director,Food Security,BPS-20,MSc Agriculture,Supply Chain,Food Security Planning,21 Years,DD Food,94,0,95,Very Strong,High,Peshawar,95,Food security director
+DIR-141,Nabeel Ali,Director,Price Control,BPS-19,MA Economics,Market Control,Inflation Monitoring,18 Years,Analyst,90,0,91,Strong,Medium,Peshawar,91,Price control director
+DIR-142,Junaid Shah,Director,Transport Planning,BPS-19,MSc Transport Eng,Logistics,Road Networks,17 Years,DD Transport,89,0,91,Strong,Medium,Peshawar,90,Transport planning director
+DIR-143,Arslan Khan,Director,Traffic Management,BPS-19,Civil Engineering,Traffic Systems,Road Safety,16 Years,Traffic Officer,88,0,90,Strong,Medium,Peshawar,89,Traffic management director
+DIR-144,Faizan Ali,Director,Emergency Services,BPS-19,MA IR,Crisis Response,Emergency Coordination,18 Years,Relief Officer,92,0,93,Very Strong,Very High,Peshawar,93,Emergency services director
+DIR-145,Imran Shah,Director,Media Affairs,BPS-19,MA Mass Comm,Media Strategy,Public Communication,17 Years,PR Officer,90,0,91,Strong,Medium,Peshawar,91,Media affairs director
+DIR-146,Hamza Ali,Director,Public Relations,BPS-19,MA Mass Comm,Communication,Government PR,18 Years,Media Officer,90,0,92,Strong,Medium,Peshawar,91,PR director
+DIR-147,Shahid Khan,Director,IT Infrastructure,BPS-19,MS IT,Network Systems,Cloud Infrastructure,16 Years,IT Officer,91,0,92,Strong,Medium,Peshawar,92,IT infrastructure director
+DIR-148,Khalid Mehmood,Director,Establishment,BPS-19,MBA HR,HR Management,Service Rules,19 Years,Admin Officer,90,0,92,Strong,High,Peshawar,91,Establishment director
+DIR-149,Farooq Khan,Director,Civil Service Reform,BPS-20,MPA,Governance Reform,Policy Design,22 Years,Secretary Office,95,0,96,Very Strong,High,Peshawar,96,Civil reform director
+DIR-150,Rizwan Ullah,Director,Governance Monitoring,BPS-19,MSc Public Admin,Monitoring,Performance Evaluation,18 Years,DD LG,91,0,92,Strong,Medium,Peshawar,92,Governance monitoring director

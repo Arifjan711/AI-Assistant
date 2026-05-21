@@ -1,0 +1,13 @@
+# Project Summary
+
+This project is an Agentic AI-based Government Officer Recommendation System.
+
+It helps committees and senior authorities select the best officers for government postings using structured data and AI reasoning.
+
+The system ensures:
+- strict BPS hierarchy compliance
+- transparent decision-making
+- performance-based evaluation
+- explainable recommendations
+
+It simulates real government administrative workflows using AI agents and dataset-driven analysis.
